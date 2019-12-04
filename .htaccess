@@ -1,0 +1,11 @@
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+RewriteRule ^/?$ index.php?page=index [L]
+RewriteRule ^([a-z_]*)/?$ index.php?page=$1 [L]
+
+RewriteRule ^news\/([a-z_]*)/?$ index.php?page=stories&subpage=$1 [R=301,L]
+RewriteRule ^([a-z_]*)/([a-z_]*)?$ index.php?page=$1&subpage=$2 [L]

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <basepath href='###basepath###'></basepath>
+    <title>Henning Witzel - Fotografie, UI / UX Design & Video­produktion aus Erfurt.</title>
+    <meta name="keywords" content="Fotografie, Photography, Hochzeiten, Henning Witzel, Design, Thueringen, Erfurt" />
+    <meta name="description" content="Meine Arbeiten rund um Fotografie, Design & Videoproduktionen. Mitbegründer von Zebresel." />
+    <meta name="google-site-verification" content="w7nNdtUmYmdhbq35xsxrL4n4e9OLcX6CtUfOtik8c8A" />
+    <link href='###basepath###css/style.css' rel='stylesheet'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet'>
+    <link rel="stylesheet" href="http://i.icomoon.io/public/temp/a0c780df88/UntitledProject1/style.css">
+    <link href='###basepath###favicon.ico' rel='icon' type='image/x-icon'>
+    <script src='###basepath###js/jquery.2.0.2.js' type='text/javascript'></script>
+    <script src='###basepath###js/jquery.parallax.js' type='text/javascript'></script>
+    <script src='###basepath###js/waypoints.min.js' type='text/javascript'></script>
+    <script src='###basepath###js/jquery.lazyload.js' type='text/javascript'></script>    
+    <script type="text/javascript" charset="utf-8">$(function() {$("img").lazyload({effect : "fadeIn", threshold : 200});});</script>
+    <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-21544974-1']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
+    <script>
+
+    var downloadExtension = new Array(
+       'doc','docx','pdf','xls','ppt','zip','gz','bz2','rar','txt','vsd','vxd',
+       'js','css','exe','wma','mov','avi','wmv','mp3','mp4');
+       
+    var trackDownloadsAsEvent = true;
+    var trackExtlinksAsEvent  = true;
+    var downloadCat           = 'Downloads';
+    var extLinksCat           = 'Externe Links';
+    var intDomain             = window.location.hostname; 
+    
+    if(window.addEventListener)
+    {
+      document.addEventListener('click', clickHandler,false);
+    }
+    else 
+    {
+      document.attachEvent('onclick', clickHandler);
+    }
+
+    function clickHandler(e)
+    {
+       console.log(e);
+        
+       if (window.event) e  = window.event; 
+       var srcEl            = e.srcElement? e.srcElement : e.target;
+
+       while(srcEl.tagName !== 'A')
+       {
+         srcEl = srcEl.parentElement;
+       }
+       
+       console.log(srcEl);
+       
+       var targetUrl        = srcEl.getAttribute('href');
+
+       if (targetUrl && targetUrl.length > 0) 
+       {
+          var re        = new RegExp('^(?:f|ht)tp(?:s)?\://([^/]+)', 'im');
+          var tarDomain = (targetUrl.match(re)? targetUrl.match(re)[1].toString() : (targetUrl.indexOf(':') < 0 ? intDomain : null));
+          
+          if (tarDomain != null) 
+          {
+             var a        = document.createElement('a');
+             a.href       = targetUrl;
+             var filePath = a.pathname;
+             var fileName = filePath.split('/').pop();
+             var fileExt  = fileName.substring(fileName.indexOf('.')+1);
+             
+             if (intDomain == tarDomain) 
+             {
+                for (i=0; i<downloadExtension.length; i++) 
+                {
+                   if (fileExt == downloadExtension[i]) 
+                   {
+                      if (trackDownloadsAsEvent) 
+                      {
+                        _gaq.push(['_trackEvent', downloadCat, filePath]);
+                      }
+                      else 
+                      {
+                        _gaq.push(['_trackPageview', filePath]);
+                      }
+                   }
+                }
+             }        
+             else 
+             {
+                if (trackExtlinksAsEvent)
+                {
+                  _gaq.push(['_trackEvent', extLinksCat,tarDomain]);
+                } 
+                else 
+                {
+                  _gaq.push(['_trackPageview', '/' + extLinksCat + '/' + tarDomain]);
+                }
+             }
+          }
+       }
+    }
+</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body basepath='###basepath###'></body>
+  <div id='clearbutton'></div>
+</html>

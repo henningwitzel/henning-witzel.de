@@ -1,0 +1,716 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  #burgerbutton {
+    background: url('../img/burgerbtn@2x.png') no-repeat !important;
+    background-size: 24px 15px;
+  }
+}
+.transition {
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s  ease;
+  -ms-transition: all 0.3s  ease;
+  transition: all 0.3s  ease;
+}
+html {
+  width: 100%;
+}
+
+h2
+{
+line-height: 150%;
+}
+.clearfix {
+  clear: both !important;
+  float: none !important;
+}
+#header {
+  height: 400px;
+}
+#clearbutton {
+  position: absolute;
+  top: 300px;
+  height: 20px;
+  width: 20px;
+  z-index: 100000;
+}
+#background {
+  background-color: white;
+  margin-top: 400px;
+}
+#wrapper {
+  width: 1140px;
+  margin: 0px auto;
+}
+#logo {
+  background-image: url('../img/henning.logo.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: white;
+  height: 170px;
+  width: 170px;
+  border-radius: 170px;
+  top: -85px;
+  margin-bottom: -55px;
+  position: relative;
+  z-index: 9999 !important;
+  margin-left: 30px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s  ease;
+  -ms-transition: all 0.3s  ease;
+  transition: all 0.3s  ease;
+}
+#logo:hover {
+  background-image: url('../img/henning.png');
+  cursor: pointer;
+}
+#menu-sticky-wrapper {
+  float: left;
+  width: 240px;
+}
+#link {
+  width: 170px;
+  height: 170px;
+}
+#burgerbutton {
+  display: none;
+  position: relative;
+  background: url('../img/burgerbtn.png') no-repeat;
+  height: 15px;
+  width: 24px;
+  float: right;
+  margin-right: 20px;
+  margin-top: -140px;
+  cursor: pointer;
+}
+#menu {
+  width: 240px;
+  position: relative;
+  margin-top: 10px;
+  float: left;
+}
+#menu.sticky {
+  position: fixed;
+  top: 20px;
+}
+#menu ul {
+  margin-left: 65px;
+  --margin-top: 20px;
+  text-transform: uppercase;
+  color: #aaaaaa;
+  line-height: 188%;
+  font-weight: 400;
+  font-size: 15px;
+  font-family: 'Droid Sans';
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+#menu li a {
+  color: #aaaaaa;
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s  ease;
+  -ms-transition: all 0.3s  ease;
+  transition: all 0.3s  ease;
+}
+#menu li a:hover {
+  color: #444444 !important;
+  cursor: pointer;
+}
+#menu .active {
+  color: #444444 !important;
+}
+.portfolio h1 {
+  height: 20px !important;
+}
+.portfolio h2 {
+  line-height: 150% !important;
+}
+.portfolio .col {
+  height: 580px !important;
+}
+.content {
+  margin-top: 10px;
+  width: 900px;
+  display: block;
+  position: relative;
+  z-index: 1000;
+  padding-bottom: 30px;
+  float: left;
+}
+.content.sticky {
+  margin-left: 240px;
+}
+.content #storie h1 {
+  font-size: 44px;
+  color: #444444;
+  font-family: 'Droid Serif';
+  margin-bottom: 5px;
+}
+.content #storie h2 {
+  font-size: 16px;
+  color: #aaaaaa;
+  font-family: 'Droid Serif';
+  margin-bottom: 20px;
+  line-height: 180%;
+}
+.content #storie p {
+  font-size: 16px;
+  color: #444444;
+  font-family: 'Droid Serif';
+  margin-bottom: 20px;
+  line-height: 185%;
+}
+.content #storie a {
+  font-weight: bold;
+  color: #444444;
+  text-decoration: none;
+  border-bottom: dotted 1px #444444;
+}
+.content #storie a:hover {
+  border-bottom: solid 1px #444444;
+}
+.content #storie .elastic-video {
+  position: relative;
+  padding-bottom: 55%;
+  padding-top: 15px;
+  height: 0;
+  overflow: hidden;
+}
+.content #storie .elastic-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.content #storie #pictures {
+  text-align: center;
+}
+.content #storie #pictures img {
+  margin-bottom: 6px;
+  max-width: 100%;
+  height: auto;
+}
+.content a {
+  color: #444444;
+  text-decoration: none;
+}
+.content .video {
+  margin-bottom: 100px;
+}
+.content .video h1 {
+  font-size: 44px;
+  color: #444444;
+  font-family: 'Droid Serif';
+  margin-bottom: 10px;
+}
+.content .video h2 {
+  font-size: 16px;
+  color: #aaaaaa;
+  font-family: 'Droid Serif';
+  margin-bottom: 20px;
+}
+.content .video p {
+  font-size: 16px;
+  color: #444444;
+  font-family: 'Droid Serif';
+  margin-bottom: 20px;
+  line-height: 200%;
+}
+.content .video a {
+  font-weight: bold;
+  color: #444444;
+  text-decoration: none;
+  border-bottom: dotted 1px #444444;
+}
+.content .video a:hover {
+  border-bottom: solid 1px #444444;
+}
+.content .video .elastic-video {
+  position: relative;
+  padding-bottom: 55%;
+  padding-top: 15px;
+  height: 0;
+  overflow: hidden;
+}
+.content .video .elastic-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.content .col {
+  height: 600px;
+  width: 215px;
+  margin-right: 10px;
+  float: left;
+  margin-bottom: 20px;
+}
+.content .col:nth-child(4n) {
+  margin-right: 0px !important;
+}
+.content .col h1 {
+  font-size: 18px;
+  color: #444444;
+  font-family: 'Droid Serif';
+  margin-bottom: 10px;
+  margin-top: 20px;
+  line-height: 130%;
+  font-weight: bold;
+  height: 50px;
+}
+.content .col h2 {
+  font-size: 14px;
+  color: #aaaaaa;
+  font-family: 'Droid Serif';
+}
+.content .col img {
+  height: 450px;
+  width: 215px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s  ease;
+  -ms-transition: all 0.3s  ease;
+  transition: all 0.3s  ease;
+}
+.content .col img:hover {
+  opacity: 0.4;
+  cursor: pointer;
+}
+.content .design {
+  margin-bottom: 40px;
+}
+.content .design h1 {
+  font-size: 44px;
+  color: #444444;
+  font-family: 'Droid Serif';
+  margin-bottom: 15px;
+}
+.content .design h2 {
+  font-size: 16px;
+  color: #aaaaaa;
+  font-family: 'Droid Serif';
+  margin-bottom: 30px;
+}
+.content .design .col {
+  height: 329px !important;
+  width: 430px !important;
+  margin-right: 18px;
+  border: 1px solid #DDDDDD;
+}
+.content .design .col img {
+  height: 300px !important;
+  width: 400px !important;
+  margin-left: 14px;
+  margin-top: 14px;
+  border: 1px solid #DDDDDD;
+}
+.content .design .col img:hover {
+  opacity: 1.0 !important;
+  cursor: default;
+}
+#footer {
+  background: white;
+  position: relative;
+  display: block;
+  z-index: 9999 !important;
+  height: 120px;
+  border-top: 1px solid #ddd;
+  font-family: 'Droid Sans';
+  font-size: 14px;
+  color: #aaaaaa;
+  text-transform: uppercase;
+  margin-top: 30px !important;
+}
+#footer:hover #heart {
+  color: #D90000;
+}
+#footer .contentfooter {
+  width: 1140px;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-left: 0px !important;
+}
+#footer .contentfooter #text {
+  float: left;
+  width: 500px;
+  margin-top: 5px;
+  padding-left: 50px;
+}
+#footer .contentfooter #text a {
+  color: #aaaaaa;
+  text-decoration: none;
+  border-bottom: dotted 1px #aaaaaa;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s  ease;
+  -ms-transition: all 0.3s  ease;
+  transition: all 0.3s  ease;
+}
+#footer .contentfooter #text a:hover {
+  color: #444444;
+  border-bottom: dotted 1px #444444;
+}
+#footer .contentfooter #logos {
+  float: right;
+}
+#footer .contentfooter #logos #twitter {
+  background-image: url('../img/sprite.png');
+  background-position: -4px -10px;
+  height: 24px;
+  width: 30px;
+  float: left;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s  ease;
+  -ms-transition: all 0.3s  ease;
+  transition: all 0.3s  ease;
+}
+#footer .contentfooter #logos #twitter:hover {
+  background-position: -4px -40px;
+  cursor: pointer;
+}
+#footer .contentfooter #logos #dribbble {
+  background-image: url('../img/sprite.png');
+  background-position: -87px -9px;
+  height: 25px;
+  width: 100px;
+  float: left;
+  margin-left: 40px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s  ease;
+  -ms-transition: all 0.3s  ease;
+  transition: all 0.3s  ease;
+}
+#footer .contentfooter #logos #dribbble:hover {
+  background-position: -87px -39px;
+  cursor: pointer;
+}
+#footer .contentfooter #logos #instagram {
+  background-image: url('../img/sprite.png');
+  background-position: -229px -13px;
+  height: 29px;
+  width: 100px;
+  float: left;
+  margin-left: 40px;
+  margin-top: 3px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s  ease;
+  -ms-transition: all 0.3s  ease;
+  transition: all 0.3s  ease;
+}
+#footer .contentfooter #logos #instagram:hover {
+  background-position: -229px -43px;
+  cursor: pointer;
+}
+#footer .contentfooter #logos #five {
+  background-image: url('../img/sprite.png');
+  background-position: -377px -10px;
+  height: 24px;
+  width: 50px;
+  float: left;
+  margin-left: 40px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s  ease;
+  -ms-transition: all 0.3s  ease;
+  transition: all 0.3s  ease;
+}
+#footer .contentfooter #logos #five:hover {
+  background-position: -377px -40px;
+  cursor: pointer;
+}
+#footer .contentfooter #logos #facebook {
+  background-image: url('../img/sprite.png');
+  background-position: -473px -10px;
+  height: 24px;
+  width: 24px;
+  float: left;
+  margin-left: 40px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s  ease;
+  -ms-transition: all 0.3s  ease;
+  transition: all 0.3s  ease;
+}
+#footer .contentfooter #logos #facebook:hover {
+  background-position: -473px -40px;
+  cursor: pointer;
+}
+@media only screen and (max-width: 1140px) {
+  #wrapper {
+    width: 100% !important;
+  }
+  #wrapper .content {
+    width: 70% !important;
+  }
+  #footer .contentfooter {
+    width: 100% !important;
+  }
+  .content .col:nth-child(4n) {
+    margin-right: 10px !important;
+  }
+}
+@media only screen and (max-width: 1140px) {
+  #footer {
+    margin-bottom: 50px;
+    margin-top: 100px;
+  }
+  #footer #text,
+  #footer #logos {
+    float: none !important;
+    clear: both !important;
+    width: 900px !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+  }
+  #footer #text {
+    text-align: center;
+    margin-top: 60px !important;
+    width: 480px !important;
+  }
+  #footer #logos {
+    margin: -70px auto !important;
+    width: 470px !important;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .image {
+    height: 200px !important;
+  }
+  #burgerbutton {
+    display: block;
+  }
+  #menu-sticky-wrapper {
+    display: none;
+    visibility: none;
+  }
+  #menu {
+    float: none !important;
+    display: none;
+    visibility: none;
+    margin-top: -65px;
+    margin-bottom: 105px;
+    width: 100%;
+  }
+  #menu ul {
+    margin-left: 0;
+  }
+  #menu ul li {
+    text-align: center;
+    border-top: 1px solid #EEEEEE;
+    font-size: 16px;
+    padding-top: 8px;
+    height: 32px;
+    font-weight: 500;
+  }
+  #menu ul li:last-child {
+    border-bottom: 1px solid #EEEEEE;
+  }
+  #logo {
+    margin: 0 auto;
+  }
+  #footer {
+    height: 100%;
+    margin-top: 80px !important;
+  }
+  #footer #logos {
+    display: none;
+  }
+  #footer .contentfooter {
+    width: 100% !important;
+  }
+  #footer .contentfooter #text {
+    float: left;
+    width: 80% !important;
+    line-height: 180%;
+    margin-top: 0px !important;
+  }
+  .content {
+    margin: 0 auto !important;
+  }
+  .content .design {
+    text-align: center !important;
+  }
+  .content .design .col img {
+    text-align: center;
+  }
+  #wrapper .content {
+    margin: -50px auto !important;
+    float: none !important;
+    width: 90% !important;
+  }
+  .content .design .col {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 0px !important;
+    max-width: 100% !important;
+    height: auto !important;
+    border: none;
+  }
+  .content .design .col img {
+    margin-left: 0px;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .image {
+    position: relative !important;
+    background-position: 50% 0 !important;
+  }
+  #background {
+    margin-top: 0!important;
+  }
+}
+/* Textmarkierungsfarbe */
+/* Safari >=1.1, Opera >=9.5, IE9*/
+::selection {
+  background: black;
+  color: #fff;
+}
+/* Firefox >=1 */
+::-moz-selection {
+  background: black;
+  color: #fff;
+}
+
+.tweet
+{
+	padding-left: 25%;
+	padding-right: 25%;	
+}
+
