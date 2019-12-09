@@ -12,9 +12,17 @@
      ###menu###
     <div class='content'>      
       <div id='storie'>
-        <h1>Henning Witzel</h1>
+        <h1>About Me</h1>
         <h3>I'm a 31 year old nerd that lives in Berlin.</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi blandit cursus risus at ultrices mi tempus. Viverra orci sagittis eu volutpat odio facilisis mauris sit.</p>
+        <p>My name is Henning, I'm the Head of Product Design at NewStore with a background in computer since. I live and work in Berlin. 
+
+        <p>I'm with the company since 2015, and I'm responsible for the user experience strategy and the design process of our applications. NewStore operates a platform for retailers to run their stores on iPhones.<p>
+
+        <p>My team is part of the shaping and development process. We provide research, design user flows, and build prototypes. When it comes to development, we are embedded in an engineering team. Everything happens in close collaboration with product management, professional services, and engineering.<p>
+
+        <p>The user I'm focusing on is a store associate. To help them get the job done, we build store apps that enable mobile checkout, endless aisle, store fulfillment, real-time inventory, and clienteling.<p>
+
+        <p>If you ever heard of Decathlon, UNTUCKit, or Outdoor Voices, then just visit their stores in the US and tell me about your experience – happy to hear about it!</p>
         <br />
         <br /> 
         <div class="working">
@@ -89,7 +97,7 @@
         <h2>Find me on</h2>
         <h3>The places where I'm actually active.</h3>
         <p>        
-           @twitter -
+           @Twitter -
           <a href='http://twitter.com/henning_Witzel'>twitter.com/henning_witzel</a>
           <br>
           @LinkedIn -
