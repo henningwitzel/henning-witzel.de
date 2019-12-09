@@ -10,11 +10,12 @@
   background-attachment: fixed;
   background-position: 50% 0;
   background-repeat: no-repeat !important;
+  background-size: cover !important;
   margin: 0 auto;
   height: 400px !important;
   width: 100%;
   position: fixed !important;
-  top: 0;
+  top: 0;  
 }
 .text {
   display: block;

@@ -166,7 +166,7 @@ line-height: 150%;
   margin-top: 400px;
 }
 #wrapper {
-  width: 1140px;
+  width: 960px;
   margin: 0px auto;
 }
 #logo {
@@ -174,6 +174,7 @@ line-height: 150%;
   background-position: center;
   background-repeat: no-repeat;
   background-color: white;
+  background-size: cover;
   height: 170px;
   width: 170px;
   border-radius: 170px;
@@ -189,7 +190,7 @@ line-height: 150%;
   transition: all 0.3s  ease;
 }
 #logo:hover {
-  background-image: url('../img/henning.png');
+  background-image: url('../img/henning.png');  
   cursor: pointer;
 }
 #menu-sticky-wrapper {
@@ -260,7 +261,7 @@ line-height: 150%;
 }
 .content {
   margin-top: 10px;
-  width: 900px;
+  width: 720px;
   display: block;
   position: relative;
   z-index: 1000;
@@ -277,10 +278,25 @@ line-height: 150%;
   margin-bottom: 5px;
 }
 .content #storie h2 {
-  font-size: 16px;
+  font-size: 24px;
+  color: #444444;
+  font-family: 'Droid Serif';
+  margin-bottom: 10px;
+  line-height: 180%;
+}
+.content #storie h3 {
+  font-size: 18px;
   color: #aaaaaa;
   font-family: 'Droid Serif';
   margin-bottom: 20px;
+  line-height: 180%;
+}
+
+.content #storie h4 {
+  font-size: 16px;
+  color: #aaaaaa;
+  font-family: 'Droid Serif';
+  margin-bottom: 10px;
   line-height: 180%;
 }
 .content #storie p {
@@ -288,7 +304,7 @@ line-height: 150%;
   color: #444444;
   font-family: 'Droid Serif';
   margin-bottom: 20px;
-  line-height: 185%;
+  line-height: 170%;
 }
 .content #storie a {
   font-weight: bold;
@@ -440,6 +456,142 @@ line-height: 150%;
   opacity: 1.0 !important;
   cursor: default;
 }
+
+.content .blog h1 {
+  font-size: 44px;
+  color: #444444;
+  font-family: 'Droid Serif';
+  margin-bottom: 5px;
+}
+.content .blog h2 {
+  font-size: 24px;
+  color: #444444;
+  font-family: 'Droid Serif';  
+  line-height: 180%;
+}
+
+.content .blog h2 a:hover {
+  border-bottom: solid 1px #444444;
+}
+.content .blog h3 {
+  font-size: 20px;
+  color: #aaaaaa;
+  font-family: 'Droid Serif';
+  margin-bottom: 20px;
+  line-height: 180%;
+}
+
+.content .blog h4 {
+  font-size: 16px;
+  color: #aaaaaa;
+  font-family: 'Droid Serif';
+  margin-bottom: 10px;
+  line-height: 180%;
+}
+
+.content .blog p {
+  font-size: 16px;
+  color: #444444;
+  font-family: 'Droid Serif';
+  margin-bottom: 20px;
+  line-height: 170%;
+}
+.content .blog a {
+  font-weight: bold;
+  color: #444444;
+  text-decoration: none;
+  border-bottom: dotted 1px #444444;
+}
+.content .blog a:hover {
+  border-bottom: solid 1px #444444;
+}
+
+.content .blog .post
+{
+  margin-bottom: 60px;
+}
+
+.content #storie .right
+{  
+  float: left;
+  width: 400px;
+}
+
+.content #storie .right .logo
+{
+  width: 40px;
+  height: 40px;
+}
+
+.content #storie .left
+{
+  float: left;
+  width: 65px;
+}
+
+.content #storie .working h2
+{  
+    font-size: 34px;    
+    margin-bottom: -10px;
+}
+
+.content #storie .about_me h2
+{  
+    font-size: 34px;
+    margin-bottom: -10px;
+}
+
+.content #storie .company .name
+{
+  font-weight: 600;
+  font-size: 22px;
+  color: #444444;
+  font-family: 'Droid Serif';  
+  line-height: 180%;
+  margin-bottom: -5px;
+  margin-top: 3px;
+
+}
+
+.content #storie .company .time
+{
+  font-size: 16px;
+  color: #aaaaaa;
+  margin-bottom: 10px;
+}
+
+.content #storie .job
+{  
+  margin-left: 16px;
+  margin-bottom: 40px;
+  
+}
+
+.content #storie .positions
+{  
+  border-left: 2px solid #EFEFEF;
+  margin-bottom: 50px;
+}
+
+.content #storie .job .position
+{  
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 0px;
+}
+
+.content #storie .job .date
+{  
+  font-size: 15px;
+  color: #aaaaaa;   
+}
+
+.content #storie .job .description
+{  
+  margin-top: -10px;
+  font-size: 15px;
+}
+
 #footer {
   background: white;
   position: relative;
@@ -457,7 +609,7 @@ line-height: 150%;
   color: #D90000;
 }
 #footer .contentfooter {
-  width: 1140px;
+  width: 960px;
   margin: 0 auto;
   padding-top: 50px;
   padding-left: 0px !important;
@@ -713,4 +865,5 @@ line-height: 150%;
 	padding-left: 25%;
 	padding-right: 25%;	
 }
+
 

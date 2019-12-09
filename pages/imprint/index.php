@@ -1,4 +1,4 @@
-<div class='image' data_image_1280='###basepath###img/header/###page###-header-1280.jpg' data_image_1920='###basepath###img/header/###page###-header-1920.jpg' data_image_800='###basepath###img/header/###page###-header-800.jpg' id='header'></div>
+<div class='image' data_image_1280='###basepath###img/header/###page###-header-1280.jpg' data_image_1440='###basepath###img/header/###page###-header-1440.jpg' data_image_1920='###basepath###img/header/###page###-header-1920.jpg' data_image_800='###basepath###img/header/###page###-header-800.jpg' id='header'></div>
 <div class='text' id='background'>
   <div id='wrapper'>
     <div id='logo'>
@@ -9,10 +9,9 @@
      ###menu###
     <div class='content'>
       <div class='video'>
-        <h1>Impressum</h1>
+        <h1>Imprint</h1>
         <h2>Angaben gemäß §5 TMG</h2>
-        <p>Henning Witzel <br />Waidm&uuml;hlenweg 7 <br />99089 Erfurt</p>
-        <p>Tel.: 0173 / 857 10 67</p>
+        <p>Henning Witzel <br />Rudolf-Schwarz-Str. 6<br />10407 Berlin</p>        
         <p><a href="mailto:hello@henning-witzel.de">hello@henning-witzel.de</a> <br /> <a href='http://www.henning-witzel.de'>www.henning-witzel.de</a></p>
         <p>Inhaltlich Verantwortlicher gem. § 55 II RStV: Henning Witzel (Anschrift s.o.)</p>
         <br /><br />

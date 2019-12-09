@@ -84,6 +84,11 @@
 					image = $this.attr('data_image_1280');
 				}
 				
+				else if ( windowWidth <= 1440 ) // image for notebook resolution
+				{
+					image = $this.attr('data_image_1440');
+				}
+
 				else // image for desktop resolution
 				{
 					image = $this.attr('data_image_1920');

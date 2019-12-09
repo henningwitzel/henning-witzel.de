@@ -1,4 +1,4 @@
-<div class='image' data_image_1280='###basepath###img/header/###page###-header-1280.png' data_image_1920='###basepath###img/header/###page###-header-1920.png' data_image_800='###basepath###img/header/###page###-header-800.png' id='header'></div>
+<div class='image' data_image_1280='###basepath###img/header/###page###-header-1280.jpg' data_image_1440='###basepath###img/header/###page###-header-1440.jpg' data_image_1920='###basepath###img/header/###page###-header-1920.jpg' data_image_800='###basepath###img/header/###page###-header-800.jpg' id='header'></div>
 <style type="text/css">#logo {background-image: url('###basepath###/img/henning.png') !important;}</style>
 <div class='text' id='background'>
   <div id='wrapper'>
@@ -10,50 +10,94 @@
       </div>
     </a>
      ###menu###
-    <div class='content'>
+    <div class='content'>      
       <div id='storie'>
         <h1>Henning Witzel</h1>
-        <h2>&raquo; Luck favours the prepared mind - Louis Pasteur &laquo;</h2>
-        <p>Mein Name ist Henning Witzel, ich bin 26 Jahre alt und stamme aus Deutschlands gr&uuml;ner Mitte. Bin geboren und aufgewachsen in Hermsdorf und lebe seit 2008 in Erfurt. In den letzten 6 Jahren habe ich Angewandte Informatik an der Fachhochschule Erfurt studiert.</p>
-        <p>Parallel zum Studium gr&uuml;ndete ich mit einigen Studienkollegen ein Unternehmen mit dem Namen <a href="http://www.zebresel.com">Zebresel</a>. Wir sind eine Agentur f&uuml;r digitale Medien und konzeptionieren, designen und programmieren Web-Anwendunden, Web-Seiten und Apps. W&auml;hrend des Studiums habe ich damit begonnen, mich intensiv mit dem <a href="http://www.henning-witzel.de/design">Design</a> von Oberfl&auml;chen f&uuml;r mobile Anwendungen und Webseiten auseinanderzusetzen. Seit dem bin ich bei Zebresel f&uuml;r das Design unserer Produkte und Auftragsarbeiten verantwortlich und lege dabei sehr gro&szligen Wert auf Usability und User Experience.</p>
-        <p>Während meiner Zeit als Student habe ich mich auch seit 2008 der Fotografie verschrieben, um die sch&ouml;nen Momente des Lebens einzufangen. Innerhalb dieser Zeit habe ich mich in vielen Bereichen der Fotografie ausprobiert und f&uuml;hle mich bei Hochzeiten am wohlsten. Ich habe neben Zebresel auch für die Fotografie ein Gewerbe und dementsprechend kann man mich als Fotograf buchen. Eine Übersicht der fotografischen Leistungen findest du <a href="###basepath###benefits">hier</a>. Anfragen nehme ich gerne per E-Mail an <a href="mailto:hello@henning-witzel.de">hello@henning-witzel.de</a> oder telefonisch unter <strong>0173 / 857 10 67</strong> entgegen.</p>
-        
-        <p>Und wenn ich nicht gerade vor dem Rechner sitze oder hinter der Kamera stehe, dann werfe regelmäßig ich ein paar Scheiben im Ultimate Frisbee bei den Erfurter Airguides, trainiere bei MC Fit, verbessere meinen Aufschlag beim Volleyball oder <a href="http://www.endomondo.com/profile/2219711">jogge ein paar Kilometer</a> durch den Park.</p>
-        <p>P.S.: Es gibt auch ein paar Menschen, die mich bis heute fotografisch und hinsichtlich Design inspirieren und deren Arbeiten ich sehr sch&auml;tze. Vielen Dank f&uuml;r die Inspiration <a href="http://www.stilpirat.de">Steffen B&ouml;ttcher</a>, <a href="http://juliafot.de/">Julia Fot</a> und <a href="http://davidhellmann.com/">David Hellmann</a>.</p>
+        <h3>I'm a 31 year old nerd that lives in Berlin.</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi blandit cursus risus at ultrices mi tempus. Viverra orci sagittis eu volutpat odio facilisis mauris sit.</p>
+        <br />
         <br /> 
-        <h1>Follow me</h1>
-        <h2>Bleib auf dem Laufenden und folge mir um mehr über mich zu erfahren!
-        </h2>
-        <p>
-          @instagram -
-          <a href='http://instagram.com/henningwitzel'>instagram.com/henningwitzel</a>
-          <br>
+        <div class="working">
+          <h2>Working experience</h2>
+          <h3>I'm in the business of building products.</h3>
+          <br />
+          <!-- COMPANY START -->
+          <div class="left">
+            <div class="logo"><img src="###basepath###pages/about_me/images/newstore.png" height="50px" width="50px"></div>
+          </div>
+          <div class="right">
+            <div class="company">
+              <div class="details">
+                <p class="name">NewStore</p>
+                <p class="time">4 years and 10 months · Berlin, Germany </p>
+              </div>
+            </div>
+          </div>
+          <div class='clearfix'></div>
+          <p>NewStore operates a platform for retailers to run their stores on iPhones. Purpose-built for mobile shoppers, the company provides Omnichannel-as-a-Service with the only integrated cloud OMS and mobile POS. Intuitive store associate apps allow retailers to offer seamless shopping experiences through endless aisle, mobile checkout, store fulfillment, real-time inventory and clienteling.</p>
+          <div class="positions">
+              <div class="job">
+                <p class="position">Head of Product Design</p>
+                <p class="date">April 2018 – Present · 1,9 years</p>
+                <p class="description">As the Head of Product Design I'm driving the user experience strategy and the design process including interaction and visual design for all applications. On a daily basis my team and I are working hands-on doing design jobs, prototyping efforts and research in collaboration with product management, sales, marketing, and engineering.</p>
+              </div>
+              <div class="job">
+                <p class="position">Product Manager</p>
+                <p class="date">Mai 2017 – April 2018 · 1 year</p>
+                <p class="description">As a Product Manager I was leading the development process of the <a href="https://www.newstore.com/mobile-pos/">Associate App</a> and also provided interactions and visual design. </p>
+              </div>
+              <div class="job">
+                <p class="position">Product Desginer</p>
+                <p class="date">March 2015 – May 2017 · 2, 3 years</p>
+                <p class="description">Starting my first job in pure designer role without doing any coding I worked primarily on the <a href="https://www.newstore.com/omnichannel-insights/">Ominchannel Manager</a>.</p>
+              </div>            
+            </div>
+          </div>
+          <!-- COMPANY END -->
+          <!-- COMPANY START -->
+          <div class="left">
+            <div class="logo"><img src="###basepath###pages/about_me/images/zebresel.png" height="50px" width="50px"></div>
+          </div>
+          <div class="right">
+            <div class="company">
+              <div class="details">
+                <p class="name">Zebresel</p>
+                <p class="time">4 years · Erfurt, Germany </p>
+              </div>
+            </div>
+          </div>
+          <div class='clearfix'></div>
+          <p>Together with a team of computer scientists, I was running an agency company with the focus on website- and app development. From 2011 until 2015 we planned, realized and launched customer projects in Germany. In addition to the project planning and development, I was focusing on the user experience and user interfaces of the projects. At the end of 2013, we started to focus on the development of our own products.</p>
+          <div class="positions">
+            <div class="job">
+              <p class="position">UX & UI Design</p>
+              <p class="date">November 2013 – March 2015 · 1,5 years</p>
+              <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+            <div class="job">
+              <p class="position">Web Developlment</p>
+              <p class="date">April 2011 – October 2013 · 2,5 years</p>
+              <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>            
+          </div>
+          <!-- COMPANY END -->
+          <div class="about_me">
+        <h2>Awards</h2>
+        <h3>I was told everyone has this nowadays.</h3>
+        <p>Nominated for boyfriend of the year 2019</p>
+        <br />
+        <h2>Find me on</h2>
+        <h3>The places where I'm actually active.</h3>
+        <p>        
            @twitter -
           <a href='http://twitter.com/henning_Witzel'>twitter.com/henning_witzel</a>
-          <br>
-          @Blog -
-          <a href='http://digitaler-zeitvertreib.tumblr.com'>henning-witzel.tumblr.com</a>
-          <br />
-           @facebook -
-          <a href='http://facebook.com/hwitzel'>facebook.com/.../henning_witzel</a>
-          <br>
-           @dribbble -
-          <a href='http://dribbble.com/henning_Witzel'>dribbble.com/henning_Witzel</a>
-          <br>
-          @vsco -
-          <a href='http://henning-witzel.vsco.co'>henning-witzel.vsco.co</a>
-          <br>
-           @500px -
-          <a href='http://500px.com/Henning_Witzel'>500px.com/henning_witzel</a>
-          <br>
-          @XING -
-          <a href='https://www.xing.com/profile/Henning_Witzel2'>xing.com/.../henning_witzel</a>
           <br>
           @LinkedIn -
           <a href='http://www.linkedin.com/profile/view?id=218195098'>linkedin.com/.../henning_witzel</a>
           <br> 
           </p>
       </div>
+    </div>
     </div>
     <div class='clearfix'></div>
   </div>
