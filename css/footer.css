@@ -1,0 +1,130 @@
+#footer {
+    background: white;
+    position: relative;
+    display: block;
+    z-index: 9999 !important;
+    height: 120px;
+    border-top: 1px solid #ddd;
+    font-family: 'Droid Sans';
+    font-size: 14px;
+    color: #aaaaaa;
+    text-transform: uppercase;
+    margin-top: 30px !important;
+  }
+  #footer:hover #heart {
+    color: #D90000;
+  }
+  #footer .contentfooter {
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-left: 0px !important;
+  }
+  #footer .contentfooter #text {
+    float: left;
+    width: 500px;
+    margin-top: 5px;
+    padding-left: 50px;
+  }
+  #footer .contentfooter #text a {
+    color: #aaaaaa;
+    text-decoration: none;
+    border-bottom: dotted 1px #aaaaaa;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+  }
+  #footer .contentfooter #text a:hover {
+    color: #444444;
+    border-bottom: dotted 1px #444444;
+  }
+  #footer .contentfooter #logos {
+    float: right;
+  }
+  #footer .contentfooter #logos #twitter {
+    background-image: url('../img/sprite.png');
+    background-position: -4px -10px;
+    height: 24px;
+    width: 30px;
+    float: left;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+  }
+  #footer .contentfooter #logos #twitter:hover {
+    background-position: -4px -40px;
+    cursor: pointer;
+  }
+  #footer .contentfooter #logos #dribbble {
+    background-image: url('../img/sprite.png');
+    background-position: -87px -9px;
+    height: 25px;
+    width: 100px;
+    float: left;
+    margin-left: 40px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+  }
+  #footer .contentfooter #logos #dribbble:hover {
+    background-position: -87px -39px;
+    cursor: pointer;
+  }
+  #footer .contentfooter #logos #instagram {
+    background-image: url('../img/sprite.png');
+    background-position: -229px -13px;
+    height: 29px;
+    width: 100px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 3px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+  }
+  #footer .contentfooter #logos #instagram:hover {
+    background-position: -229px -43px;
+    cursor: pointer;
+  }
+  #footer .contentfooter #logos #five {
+    background-image: url('../img/sprite.png');
+    background-position: -377px -10px;
+    height: 24px;
+    width: 50px;
+    float: left;
+    margin-left: 40px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+  }
+  #footer .contentfooter #logos #five:hover {
+    background-position: -377px -40px;
+    cursor: pointer;
+  }
+  #footer .contentfooter #logos #facebook {
+    background-image: url('../img/sprite.png');
+    background-position: -473px -10px;
+    height: 24px;
+    width: 24px;
+    float: left;
+    margin-left: 40px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+  }
+  #footer .contentfooter #logos #facebook:hover {
+    background-position: -473px -40px;
+    cursor: pointer;
+  }

@@ -13,8 +13,8 @@
     <div class='content'>      
       <div id='storie'>
         <h1>About Me</h1>
-        <h3>I'm a 31 year old nerd that lives in Berlin.</h3>
-        <p>My name is Henning, I'm the Head of Product Design at NewStore with a background in computer since. I live and work in Berlin. 
+        <h3>I'm a 31 year old UX desginer that lives in Berlin.</h3>
+        <p>My name is Henning, I'm the Head of Product Design at <a href="http://www.newstore.com">NewStore</a> with a background in computer since. I currently live and work in Berlin. 
 
         <p>I'm with the company since 2015, and I'm responsible for the user experience strategy and the design process of our applications. NewStore operates a platform for retailers to run their stores on iPhones.<p>
 
@@ -22,7 +22,7 @@
 
         <p>The user I'm focusing on is a store associate. To help them get the job done, we build store apps that enable mobile checkout, endless aisle, store fulfillment, real-time inventory, and clienteling.<p>
 
-        <p>If you ever heard of Decathlon, UNTUCKit, or Outdoor Voices, then just visit their stores in the US and tell me about your experience – happy to hear about it!</p>
+        <p>If you ever heard of <a href="http://www.decathlon.com">Decathlon</a>, <a href="http://www.untuckit.com">UNTUCKit</a>, or <a href="http://outdoorvoices.com">Outdoor Voices</a>, then just visit their stores in the US and tell me about your experience – happy to hear about it!</p>
         <br />
         <br /> 
         <div class="working">
@@ -37,7 +37,7 @@
             <div class="company">
               <div class="details">
                 <p class="name">NewStore</p>
-                <p class="time">4 years and 10 months · Berlin, Germany </p>
+                <p class="time">4 years and 10 months · Berlin </p>
               </div>
             </div>
           </div>
@@ -46,7 +46,7 @@
           <div class="positions">
               <div class="job">
                 <p class="position">Head of Product Design</p>
-                <p class="date">April 2018 – Present · 1,9 years</p>
+                <p class="date">April 2018 – Present · 1.75 years</p>
                 <p class="description">As the Head of Product Design I'm driving the user experience strategy and the design process including interaction and visual design for all applications. On a daily basis my team and I are working hands-on doing design jobs, prototyping efforts and research in collaboration with product management, sales, marketing, and engineering.</p>
               </div>
               <div class="job">
@@ -56,7 +56,7 @@
               </div>
               <div class="job">
                 <p class="position">Product Desginer</p>
-                <p class="date">March 2015 – May 2017 · 2, 3 years</p>
+                <p class="date">March 2015 – May 2017 · 2.25 years</p>
                 <p class="description">Starting my first job in pure designer role without doing any coding I worked primarily on the <a href="https://www.newstore.com/omnichannel-insights/">Ominchannel Manager</a>.</p>
               </div>            
             </div>
@@ -70,7 +70,7 @@
             <div class="company">
               <div class="details">
                 <p class="name">Zebresel</p>
-                <p class="time">4 years · Erfurt, Germany </p>
+                <p class="time">4 years · Erfurt </p>
               </div>
             </div>
           </div>
@@ -79,12 +79,12 @@
           <div class="positions">
             <div class="job">
               <p class="position">UX & UI Design</p>
-              <p class="date">November 2013 – March 2015 · 1,5 years</p>
+              <p class="date">November 2013 – March 2015 · 1.5 years</p>
               <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>
             <div class="job">
               <p class="position">Web Developlment</p>
-              <p class="date">April 2011 – October 2013 · 2,5 years</p>
+              <p class="date">April 2011 – October 2013 · 2.5 years</p>
               <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>            
           </div>

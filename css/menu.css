@@ -1,0 +1,59 @@
+  #menu-sticky-wrapper {
+    float: left;
+    width: 240px;
+  }
+
+  #link {
+    width: 170px;
+    height: 170px;
+  }
+  
+  #burgerbutton {
+    display: none;
+    position: relative;
+    background: url('../img/burgerbtn.png') no-repeat;
+    height: 15px;
+    width: 24px;
+    float: right;
+    margin-right: 20px;
+    margin-top: -140px;
+    cursor: pointer;
+  }
+  #menu {
+    width: 240px;
+    position: relative;
+    margin-top: 10px;
+    float: left;
+  }
+  #menu.sticky {
+    position: fixed;
+    top: 20px;
+  }
+  #menu ul {
+    margin-left: 65px;
+    --margin-top: 20px;
+    text-transform: uppercase;
+    color: #aaaaaa;
+    line-height: 188%;
+    font-weight: 400;
+    font-size: 15px;
+    font-family: 'Droid Sans';
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  #menu li a {
+    color: #aaaaaa;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+  }
+  #menu li a:hover {
+    color: #444444 !important;
+    cursor: pointer;
+  }
+  #menu .active {
+    color: #444444 !important;
+  }

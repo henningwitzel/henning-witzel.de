@@ -1,0 +1,148 @@
+/* COLORS */
+
+.black
+{
+    color: #444444 !important;
+}
+
+.grey
+{
+    color: #aaaaaa !important;
+}
+
+/* BOTTOM SPACES */
+
+.bottom-zero
+{
+    margin-bottom: 0px !important;
+}
+
+.bottom-extra-small
+{
+    margin-bottom: 8px !important;
+}
+
+.bottom-small
+{
+    margin-bottom: 16px !important;
+}
+.bottom-medium
+{
+    margin-bottom: 24px !important;
+}
+.bottom-large
+{
+    margin-bottom: 32px !important;
+}
+.bottom-extra-large
+{
+    margin-bottom: 40px !important;
+}
+
+/* TOP SPACES */
+
+.top-zero
+{
+    margin-top: 0px !important;
+}
+
+.top-extra-small
+{
+    margin-top: 8px !important;
+}
+
+.top-small
+{
+    margin-top: 16px !important;
+}
+.top-medium
+{
+    margin-top: 24px !important;
+}
+.top-large
+{
+    margin-top: 32px !important;
+}
+
+.top-extra-large
+{
+    margin-top: 40px !important;
+}
+
+
+/* HEADINGS */
+
+.content h1
+{
+    font-size: 44px;
+    color: #444444;
+    font-family: 'Droid Serif';
+    margin-bottom: 16px;
+}
+
+.content h2
+{
+    font-size: 32px;
+    color: #444444;
+    font-family: 'Droid Serif';
+    margin-bottom: 16px;
+}
+
+.content h3
+{
+    font-size: 24px;
+    color: #444444;
+    font-family: 'Droid Serif';
+    margin-bottom: 16px;
+}
+
+.content h4
+{
+    font-size: 18px;
+    color: #444444;
+    font-family: 'Droid Serif';
+    margin-bottom: 16px;
+}
+
+.content h5
+{
+    font-size: 16px;
+    color: #444444;
+    font-family: 'Droid Serif';
+    margin-bottom: 16px;
+}
+
+/* TEXT */
+
+.content p
+{
+    font-size: 16px;
+    color: #444444;
+    font-family: 'Droid Serif';    
+    line-height: 176%;
+    margin-bottom: 16px;
+}
+
+/* LINKS */
+
+.content a 
+{
+    font-weight: bold;
+    color: #444444;
+    text-decoration: none;
+    border-bottom: dotted 1px #444444;
+  }
+
+.content a:hover 
+{
+    border-bottom: solid 1px #444444;
+}
+
+/* IMAGES */
+
+.content img
+{
+    margin-bottom: 6px;
+    max-width: 100%;
+    height: auto;
+  }

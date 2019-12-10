@@ -1,0 +1,12 @@
+.content {
+    margin-top: 10px;
+    width: 720px;
+    display: block;
+    position: relative;
+    z-index: 1000;
+    padding-bottom: 30px;
+    float: left;
+  }
+  .content.sticky {
+    margin-left: 240px;
+  }
