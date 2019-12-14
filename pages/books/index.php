@@ -9,7 +9,7 @@
      ###menu###
     <div class='content books'>      
       <h1>Books</h1>
-      <h4 class="grey bottom-large">A selection of some of my favourite books.</h4>
+      <h4 class="grey bottom-large">A selection of some of my favourite books in my bookshelf.</h4>
       <br />      
       <div class="book">
         <div class="cover">
