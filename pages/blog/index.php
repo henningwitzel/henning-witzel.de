@@ -10,8 +10,6 @@
     <div class='content blog'>    
       <h1>Blog</h1>
       <h4 class="grey bottom-extra-large">An independent home for all my thoughts and ideas.</h4>
-      
-      <br />
 
       <div class="post">
         <a href="###basepath######page###/basecamp">
@@ -20,13 +18,13 @@
         <p>Hey Jason! I listened to the latest episode of the podcast about Basecamp Personal and I wanted to share my story with you. I was one of the people who used the free version the time you... </p>
         </a>
       </div>
-
+      <br />
       <div class="post">
         <h3>Supply vs. Demand</h3>
         <h5 class="grey" >November 27th, 2019</h5> 
         <p>Why a product’s position is the most important thing a company should focus on? Without a clear point of view on what makes a product different, it’s easy to wander. New feature requests come in every day, and if you can’t say “no”, who knows where on the map you’ll land.  </p>
       </div>
-
+      <br />
       <div class="post">
         <h3>Beyond The UX Tipping Point - Jared Spool</h3>
         <h5 class="grey" >November 27th, 2019</h5>

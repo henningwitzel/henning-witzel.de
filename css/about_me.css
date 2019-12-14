@@ -1,0 +1,66 @@
+.about_me .company .name
+{
+  font-weight: 600;
+  font-size: 22px;
+  color: #444444;
+  font-family: 'Droid Serif';  
+  line-height: 180%;
+  margin-bottom: -5px;
+  margin-top: 3px;
+}
+
+.about_me .company .time
+{
+  font-size: 16px;
+  color: #aaaaaa;
+  margin-bottom: 10px;
+}
+
+.about_me .job
+{  
+  margin-left: 16px;
+  margin-bottom: 40px;
+}
+
+.about_me .positions
+{  
+  border-left: 2px solid #EFEFEF;
+  margin-bottom: 50px;
+}
+
+.about_me .job .position
+{  
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 0px;
+}
+
+.about_me .job .date
+{  
+  font-size: 15px;
+  color: #aaaaaa;   
+}
+
+.about_me .job .description
+{  
+  margin-top: -10px;
+  font-size: 15px;
+}
+
+.about_me .right
+{  
+  float: left;
+  width: 400px;
+}
+
+.about_me .right .logo
+{
+  width: 40px;
+  height: 40px;
+}
+
+.about_me .left
+{
+  float: left;
+  width: 65px;
+}

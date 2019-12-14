@@ -7,12 +7,10 @@
       </a>
     </div>
      ###menu###
-    <div class='content'>
-      <div id='storie'>
-        <h1>Books</h1>
-        <h3>All my favourite books.</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi blandit cursus risus at ultrices mi tempus. Viverra orci sagittis eu volutpat odio facilisis mauris sit.</p> <p>Vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Morbi tincidunt augue interdum velit euismod in pellentesque. Molestie a iaculis at erat pellentesque adipiscing commodo. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Felis eget nunc lobortis mattis. Ut tristique et egestas quis ipsum suspendisse ultrices. Vitae sapien pellentesque habitant morbi tristique senectus et. Consectetur adipiscing elit duis tristique. In metus vulputate eu scelerisque felis imperdiet.</p>                        
-      </div>
+    <div class='content'>      
+      <h1>Books</h1>
+      <h4 class="grey bottom-large">All my favourite books.</h4>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi blandit cursus risus at ultrices mi tempus. Viverra orci sagittis eu volutpat odio facilisis mauris sit.</p> <p>Vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Morbi tincidunt augue interdum velit euismod in pellentesque. Molestie a iaculis at erat pellentesque adipiscing commodo. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Felis eget nunc lobortis mattis. Ut tristique et egestas quis ipsum suspendisse ultrices. Vitae sapien pellentesque habitant morbi tristique senectus et. Consectetur adipiscing elit duis tristique. In metus vulputate eu scelerisque felis imperdiet.</p>      
     </div>
     <div class='clearfix'></div>
   </div>

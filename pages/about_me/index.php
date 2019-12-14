@@ -10,24 +10,14 @@
       </div>
     </a>
      ###menu###
-    <div class='content'>      
-      <div id='storie'>
+    <div class='content about_me'>            
         <h1>About Me</h1>
-        <h3>I'm a 31 year old UX desginer that lives in Berlin.</h3>
-        <p>My name is Henning, I'm the Head of Product Design at <a href="http://www.newstore.com">NewStore</a> with a background in computer since. I currently live and work in Berlin. 
-
-        <p>I'm with the company since 2015, and I'm responsible for the user experience strategy and the design process of our applications. NewStore operates a platform for retailers to run their stores on iPhones.<p>
-
-        <p>My team is part of the shaping and development process. We provide research, design user flows, and build prototypes. When it comes to development, we are embedded in an engineering team. Everything happens in close collaboration with product management, professional services, and engineering.<p>
-
-        <p>The user I'm focusing on is a store associate. To help them get the job done, we build store apps that enable mobile checkout, endless aisle, store fulfillment, real-time inventory, and clienteling.<p>
-
-        <p>If you ever heard of <a href="http://www.decathlon.com">Decathlon</a>, <a href="http://www.untuckit.com">UNTUCKit</a>, or <a href="http://outdoorvoices.com">Outdoor Voices</a>, then just visit their stores in the US and tell me about your experience – happy to hear about it!</p>
+        <h4 class="grey bottom-large">I'm a 31 year old UX desginer that lives in Berlin.</h4>
+        <p class="bottom-extra-large">My name is Henning, I'm the Head of Product Design at <a href="http://www.newstore.com">NewStore</a> with a background in computer since. I currently live and work in Berlin. </p>
         <br />
-        <br /> 
         <div class="working">
           <h2>Working experience</h2>
-          <h3>I'm in the business of building products.</h3>
+          <h4 class="grey bottom-small">I'm in the business of building products.</h4>
           <br />
           <!-- COMPANY START -->
           <div class="left">
@@ -41,8 +31,10 @@
               </div>
             </div>
           </div>
-          <div class='clearfix'></div>
-          <p>NewStore operates a platform for retailers to run their stores on iPhones. Purpose-built for mobile shoppers, the company provides Omnichannel-as-a-Service with the only integrated cloud OMS and mobile POS. Intuitive store associate apps allow retailers to offer seamless shopping experiences through endless aisle, mobile checkout, store fulfillment, real-time inventory and clienteling.</p>
+          <div class='clearfix'></div>  
+          <p>I'm with the company since 2015, and I'm responsible for the user experience strategy and the design process of our applications. <a href="http://www.newstore.com">NewStore</a> operates a platform for retailers to run their stores on iPhones.<p>
+          <p>My team is part of the shaping and development process. We provide research, design user flows, and build prototypes. When it comes to development, we are embedded in an engineering team. Everything happens in close collaboration with product management, professional services, and engineering. The user I'm focusing on is a store associate. To help them get the job done, we build store apps that enable mobile checkout, endless aisle, store fulfillment, real-time inventory, and clienteling.<p>
+          <p class="bottom-large">If you ever heard of <a href="http://www.decathlon.com">Decathlon</a>, <a href="http://www.untuckit.com">UNTUCKit</a>, or <a href="http://outdoorvoices.com">Outdoor Voices</a>, then just visit their stores in the US and tell me about your experience – happy to hear about it!</p>
           <div class="positions">
               <div class="job">
                 <p class="position">Head of Product Design</p>
@@ -61,6 +53,7 @@
               </div>            
             </div>
           </div>
+          <br />
           <!-- COMPANY END -->
           <!-- COMPANY START -->
           <div class="left">
@@ -89,24 +82,15 @@
             </div>            
           </div>
           <!-- COMPANY END -->
-          <div class="about_me">
-        <h2>Awards</h2>
-        <h3>I was told everyone has this nowadays.</h3>
-        <p>Nominated for boyfriend of the year 2019</p>
-        <br />
-        <h2>Find me on</h2>
-        <h3>The places where I'm actually active.</h3>
-        <p>        
-           @Twitter -
-          <a href='http://twitter.com/henning_Witzel'>twitter.com/henning_witzel</a>
-          <br>
-          @LinkedIn -
-          <a href='http://www.linkedin.com/profile/view?id=218195098'>linkedin.com/.../henning_witzel</a>
-          <br> 
-          </p>
-      </div>
-    </div>
-    </div>
+          
+        <h2 class="top-extra-large">Awards</h2>
+        <h4 class="grey bottom-medium">I was told everyone has this nowadays.</h4>
+        <p>Nominated for boyfriend of the year 2019</p>        
+        <h2 class="top-extra-large">Find me on</h2>
+        <h4 class="grey bottom-medium">The places where I'm actually active.</h4>
+        <p>@Twitter - <a href='http://twitter.com/henning_Witzel'>twitter.com/henning_witzel</a></p>
+        <p>@LinkedIn – <a href='http://www.linkedin.com/profile/view?id=218195098'>linkedin.com/.../henning_witzel</a></p>      
+    </div>    
     <div class='clearfix'></div>
   </div>
 </div>
