@@ -76,16 +76,16 @@
 {
     font-size: 44px;
     color: #444444;
-    font-family: 'Droid Serif';
-    margin-bottom: 16px;
+    font-family: 'Droid Serif';    
+    line-height: 150%;
 }
 
 .content h2
 {
     font-size: 32px;
     color: #444444;
-    font-family: 'Droid Serif';
-    margin-bottom: 16px;
+    font-family: 'Droid Serif';    
+    line-height: 150%;
 }
 
 .content h3
@@ -93,15 +93,15 @@
     font-size: 24px;
     color: #444444;
     font-family: 'Droid Serif';
-    margin-bottom: 16px;
+    line-height: 150%;
 }
 
 .content h4
 {
     font-size: 18px;
     color: #444444;
-    font-family: 'Droid Serif';
-    margin-bottom: 16px;
+    font-family: 'Droid Serif';    
+    line-height: 150%;
 }
 
 .content h5
@@ -109,7 +109,7 @@
     font-size: 16px;
     color: #444444;
     font-family: 'Droid Serif';
-    margin-bottom: 16px;
+    line-height: 150%;
 }
 
 /* TEXT */

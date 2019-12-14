@@ -9,8 +9,7 @@
      ###menu###
     <div class='content'>          
       <h1>Basecamp at NewStore</h1>
-      <h4 class="grey bottom-large">November 27th, 2019</h4>
-      <p>This is a letter I wrote to the CEO of Basecamp, Jason Fried.</p>
+      <h4 class="grey">November 27th, 2019</h4>
       <p>Hi Jason!</p>
       <p>I listened to the latest episode of the <a href="https://rework.fm/this-time-its-personal/">podcast about Basecamp Personal</a> and I wanted to share my story with you. I was one of the people who used the free version the time you experimented with it. </p>
       <p>After reading "Shape Up" I tried out the 30-day trial version with my girlfriend. We liked how easy it was to manage projects and don't lose oversight. After the period ended, we discussed if we should extend the trial or spend the $99 every month. Not using it was out of the picture.</p>
