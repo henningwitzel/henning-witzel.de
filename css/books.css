@@ -1,0 +1,64 @@
+.books .book
+{
+    margin-bottom: 60px;
+}
+
+.books .book .details a
+{
+    font-size: 17px;
+}
+
+.books .book .cover
+{
+    float: left;
+    width: 25%;
+    margin-right: 5%;    
+}
+
+.books .book .cover a
+{
+    border-bottom: none !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+}
+
+.books .book .cover a:hover
+{
+    border-bottom: none !important;
+    -webkit-filter: drop-shadow(5px 5px 5px rgb(218, 218, 218));
+    filter: drop-shadow(5px 5px 5px rgb(218, 218, 218));    
+}
+
+.books .book .details
+{
+    float: left;
+    width: 70%; 
+}
+
+.books .book .cover img
+{    
+    border-radius: 2% !important;
+    -webkit-filter: drop-shadow(10px 10px 10px #EBEBED);
+    filter: drop-shadow(10px 10px 10px #EBEBED);
+    transform: rotate(-5deg);
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+}
+
+.books .book .cover img:hover
+{
+    transform: rotate(0deg);
+}
+
+.books .book .cover img:active
+{
+    -webkit-filter: drop-shadow(5px 5px 5px rgb(168, 168, 168));
+    filter: drop-shadow(5px 5px 5px rgb(168, 168, 168));
+    opacity: 0.7;
+}
