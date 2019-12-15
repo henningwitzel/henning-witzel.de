@@ -92,5 +92,31 @@
         </div>
         <div class='clearfix'></div>
     </div>
+    <div class="book">
+        <div class="cover">
+          <a href="https://www.goodreads.com/book/show/53343.On_Writing_Well" target="_blank">
+            <image src="https://images-na.ssl-images-amazon.com/images/I/610AIYRtaDL.jpg"></div>
+          </a>
+        <div class="details">
+          <h3>On Writing Well</h3>
+          <h5 class="grey bottom-medium">Book by William Zinsser · 1976</h5>
+          <p>On Writing Well has been praised for its sound advice, its clarity and the warmth of its style. It is a book for everybody who wants to learn how to write or who needs to do some writing to get through the day, as almost everybody does in the age of e-mail and the Internet.</p>
+          <a href="https://www.goodreads.com/book/show/53343.On_Writing_Well" target="_blank">More on Goodreads</a>
+        </div>
+        <div class='clearfix'></div>
+    </div>
+    <div class="book">
+        <div class="cover">
+          <a href="https://basecamp.com/shapeup" target="_blank">
+            <image src="https://miro.medium.com/max/500/1*77mgyQKo9DHom4hqXGc3ww.jpeg"></div>
+          </a>
+        <div class="details">
+          <h3>Shape Up</h3>
+          <h5 class="grey bottom-medium">Book by Ryan Singer · 2019</h5>
+          <p>This is an online web book about how Basecamp does their work. This book is a guide to how we do product development at Basecamp. It’s also a toolbox full of techniques that you can apply in your own way to your own process.</p>
+          <a href="https://basecamp.com/shapeup" target="_blank">Start reading!</a>
+        </div>
+        <div class='clearfix'></div>
+    </div>
   </div>
 </div>
