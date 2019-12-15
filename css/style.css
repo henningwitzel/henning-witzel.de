@@ -96,7 +96,7 @@ html {
   }
   #footer #logos {
     margin: -70px auto !important;
-    width: 470px !important;
+    width: 330px !important;
   }
 }
 @media only screen and (max-width: 800px) {
