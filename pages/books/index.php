@@ -9,11 +9,11 @@
      ###menu###
     <div class='content books'>      
       <h1>Books</h1>
-      <h4 class="grey bottom-large">A selection of some of my favourite books in my bookshelf.</h4>
+      <h4 class="grey bottom-large">A selection of some of my favourite books I read.</h4>
       <br />      
       <div id="manson" class="book">
         <div class="cover">
-          <ahref="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck" target="_blank">
+          <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck" target="_blank">
             <image src="https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg">
           </a>
         </div>

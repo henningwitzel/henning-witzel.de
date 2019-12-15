@@ -85,7 +85,15 @@
     {
         float: none;        
         width: 100%;
-        text-align: center;
+        
         margin-bottom: 80px;
+    }
+    .books .book .details h3
+    {    
+        text-align: center;
+    }
+    .books .book .details h5
+    {    
+        text-align: center;        
     }
 }
