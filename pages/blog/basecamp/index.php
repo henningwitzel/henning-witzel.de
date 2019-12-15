@@ -1,4 +1,4 @@
-<div class='image' data_image_1280='###basepath###img/header/placeholder-header-1280.jpg' data_image_1920='###basepath###img/header/placeholder-header-1920.jpg' data_image_800='###basepath###img/header/placeholder-header-800.jpg' id='header'></div>
+<div class='image' data_image_1280='###basepath###img/header/blog-header-1280.jpg' data_image_1440='###basepath###img/header/blog-header-1440.jpg' data_image_1920='###basepath###img/header/blog-header-1920.jpg' data_image_800='###basepath###img/header/blog-header-800.jpg' id='header'></div>
 <div class='text' id='background'>
   <div id='wrapper'>
     <div id='logo'>

@@ -14,9 +14,9 @@
         <h3><a href="###basepath######page###/basecamp">Basecamp at NewStore</a></h3>
         <h5 class="grey bottom-small">November 27th, 2019</h5>
         <p>This is a letter I wrote to the CEO of Basecamp, Jason Fried. Hey Jason! I listened to the latest episode of the podcast about Basecamp Personal and I wanted to share my story with you. I was one of the people who used the free version the time you... </p>
-        <a href="###basepath######page###/2019/basecamp">Read more...</a>
+        <a href="###basepath######page###/basecamp">Read more...</a>
       </div>
-      <div class="post">
+      <!--<div class="post">
         <h3>Supply vs. Demand</h3>
         <h5 class="grey bottom-small">November 27th, 2019</h5> 
         <p>Why a product’s position is the most important thing a company should focus on? Without a clear point of view on what makes a product different, it’s easy to wander. New feature requests come in every day, and if you can’t say “no”, who knows where on the map you’ll land.  </p>
@@ -51,7 +51,7 @@
         <h5 class="grey bottom-small">Month Day, Year</h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi blandit cursus risus at ultrices mi tempus. Viverra orci sagittis eu volutpat odio facilisis mauris sit.</p>
         <a href="###basepath######page###/basecamp">Read more...</a>
-      </div>
+      </div>-->
 </div>
       <div class='clearfix'></div>
   </div>
