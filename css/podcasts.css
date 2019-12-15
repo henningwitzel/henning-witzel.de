@@ -1,0 +1,95 @@
+.podcasts .podcast
+{
+    margin-bottom: 60px;
+}
+
+.podcasts .podcast .left
+{
+    width: 22%;
+    float: left;
+    margin-right: 3%;   
+}
+
+.podcasts .podcast .left a
+{
+    border-bottom: none !important; 
+}
+
+.podcasts .podcast .left img
+{
+    border-radius: 2% !important;
+    -webkit-filter: drop-shadow(5px 5px 5px rgb(218, 218, 218));
+    filter: drop-shadow(5px 5px 5px rgb(218, 218, 218));
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+}
+
+.podcasts .podcast .left img:hover
+{
+    transform: rotate(-5deg);
+}
+
+.podcasts .podcast .left img:active
+{
+    opacity: 0.7;
+}
+
+.podcasts .podcast .right
+{    
+    width: 75%;
+    float: left;
+}
+
+.podcasts .podcast .text-right
+{    
+    text-align: right;
+}
+
+.podcasts .podcast audio
+{
+    margin-top: 10px;
+}
+
+.podcasts .podcast .link
+{    
+    position: relative;
+    float: right;
+}
+
+.podcasts .podcast .link .logo-left
+{
+    float: left;
+    padding-right: 8px;
+}
+.podcasts .podcast .link .link-right
+{
+    padding-top: 2  rpx;
+    float: left;    
+}
+
+@media only screen and (max-width: 600px) {
+    .podcasts .podcast .left
+    {
+        width: 40%;
+        margin: 0 auto;
+        float: none;
+        margin-bottom: 30px;
+    }
+    
+    .podcasts .podcast .right
+    {    
+        width: 100%;        
+        float: none;
+    }
+    .podcasts .podcast .right h3
+    {    
+        text-align: center;
+    }
+    .podcasts .podcast .right h5
+    {    
+        text-align: center;        
+    }
+}

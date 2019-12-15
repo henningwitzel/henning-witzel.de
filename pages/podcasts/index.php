@@ -7,10 +7,49 @@
       </a>
     </div>
      ###menu###
-    <div class='content'>      
+    <div class='content podcasts'>      
         <h1>Podcasts</h1>
-        <h4 class="grey bottom-large">All my favourite episodes.</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi blandit cursus risus at ultrices mi tempus. Viverra orci sagittis eu volutpat odio facilisis mauris sit.</p> <p>Vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Morbi tincidunt augue interdum velit euismod in pellentesque. Molestie a iaculis at erat pellentesque adipiscing commodo. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Felis eget nunc lobortis mattis. Ut tristique et egestas quis ipsum suspendisse ultrices. Vitae sapien pellentesque habitant morbi tristique senectus et. Consectetur adipiscing elit duis tristique. In metus vulputate eu scelerisque felis imperdiet.</p>      
+        <h4 class="grey bottom-large">A selection of some of my favourite podcasts I listened to.</h4>
+        <br />
+        <div class="podcast">
+          <div class="left"><a href="https://changelog.com/" target="_blank"><img src="https://static.pocketcasts.com/discover/images/400/70d13d50-9efe-0130-1b90-723c91aeae46.jpg" /></a></div>
+          <div class="right">
+            <h3>Shaping, betting, and building</h3>
+            <h5 class="grey bottom-small">16th August 2019</h5>
+            <p>After reading the book <a href="###basepath###/books#shapeup">Shape Up</a> from Ryan Singer, I was curious to learn more about it. Luckily there are several podcasts around where he was interviewed. After listening to almost all of them, I found this one most comprehensive.</p>
+            <audio preload="none" controls>  
+              <source src="https://cdn.changelog.com/uploads/podcast/357/the-changelog-357.mp3" type="audio/mpeg" preload="none">
+              Your browser does not support the audio element.
+            </audio> 
+            <div class="top-small link">
+              <div class="logo-left">
+                <img width="20px" src="https://pbs.twimg.com/profile_images/1062998714455744512/rDpTZ7Rk_400x400.jpg"/>
+              </div>
+              <div class="link-right"><a href="https://pca.st/6P0a" target="_blank">Listen on Pocket Cast </a>
+            </div>
+          </div>
+        </div>
+        <div class='clearfix'></div>
+        </div>
+        <div class="podcast">
+          <div class="left"><a href="https://soundcloud.com/larochefm" target="_blank"><img src="https://static.pocketcasts.com/discover/images/400/7445db60-aab7-0135-9e5b-5bb073f92b78.jpg" /></a></div>
+          <dic class="right">
+            <h3>How consistent writing makes you a better designer</h3>
+            <h5 class="grey bottom-small">21st October 2019</h5>
+            <p>In previous episode we discussed 5 most important skills a designer must have. One of them was communication skills, but I did not discuss how to develop them. And one way is writing.</p>          
+            <audio preload="none" controls>  
+              <source src="http://feeds.soundcloud.com/stream/699462082-larochefm-ep48.mp3" type="audio/mpeg" >
+              Your browser does not support the audio element.
+            </audio>
+            <div class="top-small link">
+              <div class="logo-left">
+                <img width="20px" src="https://pbs.twimg.com/profile_images/1062998714455744512/rDpTZ7Rk_400x400.jpg"/>
+              </div>
+              <div class="link-right"><a href="https://pca.st/mj8xm3yj" target="_blank">Listen on Pocket Cast </a>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
     <div class='clearfix'></div>
   </div>
