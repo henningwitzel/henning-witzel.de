@@ -8,6 +8,16 @@
     font-size: 17px;
 }
 
+.books .book .details h3 a
+{
+    font-size: 24px;
+    color: #444444;
+    font-family: 'Droid Serif';
+    line-height: 150%;
+    font-weight: normal;
+    border-bottom: none;
+}
+
 .books .book .cover
 {
     float: left;
