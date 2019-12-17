@@ -10,6 +10,7 @@
     color: #aaaaaa;
     text-transform: uppercase;
     margin-top: 30px !important;
+    
   }
   #footer:hover #heart {
     color: #D90000;
@@ -17,14 +18,14 @@
   #footer .contentfooter {
     width: 960px;
     margin: 0 auto;
-    padding-top: 50px;
+    padding-top: 40px;
     padding-left: 0px !important;
   }
   #footer .contentfooter #text {
     float: left;
     width: 500px;
-    margin-top: 5px;
-    padding-left: 50px;
+    margin-top: 12px;
+    padding-left: 50px;    
   }
   #footer .contentfooter #text a {
     color: #aaaaaa;
@@ -41,13 +42,14 @@
     border-bottom: dotted 1px #444444;
   }
   #footer .contentfooter #logos {
-    float: right;
+    float: right;    
   }
-  #footer .contentfooter #logos #twitter {
+  #footer .contentfooter #logos #mail {
     background-image: url('../img/sprite.png');
-    background-position: -4px -10px;
-    height: 24px;
-    width: 30px;
+    background-size: 491%; 
+    background-position: 0px 0px;
+    height: 40px;
+    width: 40px;
     float: left;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -55,15 +57,52 @@
     -ms-transition: all 0.3s  ease;
     transition: all 0.3s  ease;
   }
+  #footer .contentfooter #logos #mail:hover {
+    background-position: 0px -40px;
+    cursor: pointer;
+  }
+  #footer .contentfooter #logos #twitter {
+    background-image: url('../img/sprite.png');
+    background-size: 491%; 
+    background-position: -48px 0px;
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-left: 40px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+  }
   #footer .contentfooter #logos #twitter:hover {
-    background-position: -4px -40px;
+    background-position: -48px -40px;
+    cursor: pointer;
+  }
+  #footer .contentfooter #logos #unsplash {
+    background-image: url('../img/sprite.png');
+    background-size: 491%; 
+    background-position: -102px 0px;
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-left: 40px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s  ease;
+    -ms-transition: all 0.3s  ease;
+    transition: all 0.3s  ease;
+  }
+  #footer .contentfooter #logos #unsplash:hover {
+    background-position: -102px -40px;
     cursor: pointer;
   }
   #footer .contentfooter #logos #dribbble {
     background-image: url('../img/sprite.png');
-    background-position: -87px -9px;
-    height: 25px;
-    width: 100px;
+    background-size: 491%; 
+    background-position: -156px 0px;
+    height: 40px;
+    width: 40px;
     float: left;
     margin-left: 40px;
     -webkit-transition: all 0.3s ease;
@@ -73,58 +112,6 @@
     transition: all 0.3s  ease;
   }
   #footer .contentfooter #logos #dribbble:hover {
-    background-position: -87px -39px;
-    cursor: pointer;
-  }
-  #footer .contentfooter #logos #instagram {
-    background-image: url('../img/sprite.png');
-    background-position: -229px -13px;
-    height: 29px;
-    width: 100px;
-    float: left;
-    margin-left: 40px;
-    margin-top: 3px;
-    -webkit-transition: all 0.3s ease;
-    -moz-transition: all 0.3s ease;
-    -o-transition: all 0.3s  ease;
-    -ms-transition: all 0.3s  ease;
-    transition: all 0.3s  ease;
-  }
-  #footer .contentfooter #logos #instagram:hover {
-    background-position: -229px -43px;
-    cursor: pointer;
-  }
-  #footer .contentfooter #logos #five {
-    background-image: url('../img/sprite.png');
-    background-position: -377px -10px;
-    height: 24px;
-    width: 50px;
-    float: left;
-    margin-left: 40px;
-    -webkit-transition: all 0.3s ease;
-    -moz-transition: all 0.3s ease;
-    -o-transition: all 0.3s  ease;
-    -ms-transition: all 0.3s  ease;
-    transition: all 0.3s  ease;
-  }
-  #footer .contentfooter #logos #five:hover {
-    background-position: -377px -40px;
-    cursor: pointer;
-  }
-  #footer .contentfooter #logos #facebook {
-    background-image: url('../img/sprite.png');
-    background-position: -473px -10px;
-    height: 24px;
-    width: 24px;
-    float: left;
-    margin-left: 40px;
-    -webkit-transition: all 0.3s ease;
-    -moz-transition: all 0.3s ease;
-    -o-transition: all 0.3s  ease;
-    -ms-transition: all 0.3s  ease;
-    transition: all 0.3s  ease;
-  }
-  #footer .contentfooter #logos #facebook:hover {
-    background-position: -473px -40px;
+    background-position: -156px -40px;
     cursor: pointer;
   }
