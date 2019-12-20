@@ -12,7 +12,7 @@
      ###menu###
     <div class='content about_me'>            
         <h1>About Me</h1>
-        <h4 class="grey bottom-large">I'm a 31 year old UX desginer that lives in Berlin.</h4>
+        <h4 class="grey bottom-large">I'm a 31 year old UX person that lives in Berlin.</h4>
         <p class="bottom-extra-large">My name is Henning, I'm the Head of Product Design at <a href="http://www.newstore.com">NewStore</a> with a background in computer since. I currently live and work in Berlin. </p>
         <br />
         <div class="working">
@@ -78,18 +78,38 @@
             <div class="job">
               <p class="position">Web Developlment</p>
               <p class="date">April 2011 – October 2013 · 2.5 years</p>
-              <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <p class="description">Shortly before finishing my bachelor's degree, I wanted to make something with my knowledge. Luckily I wasn't the only one, and I found some friends to do projects with me. This is how we started.</p>
             </div>            
           </div>
           <!-- COMPANY END -->
-          
-        <h2 class="top-extra-large">Awards</h2>
+        <br />
+        <h2 class="top-small">Education</h2>
+        <h4 class="grey bottom-medium">I spent six years at the university.</h4>
+        <div class="education">
+          <p class="institution">Fachhochschule Erfurt · University of Applied Science</p>
+          <p class="graduation">Master of Science (M.Sc.), Computer Sience</p>
+          <p class="date grey">2011 - 2014</p>
+        </div>
+        <div class="education">
+          <p class="institution">Fachhochschule Erfurt · University of Applied Science</p>
+          <p class="graduation">Bachelor of Science (M.Sc.), Computer Sience</p>
+          <p class="date grey">2008 - 2011</p>
+        </div>
+        <div class="education">
+          <p class="institution">SBSZ Jena-Göschwitz · Governmental Career Development Centre</p>
+          <p class="graduation">Technical assistent for Computer Science</p>
+          <p class="date grey">2004 - 2006</p>
+        </div>
+        <br />
+        <h2 class="top-small">Awards</h2>
         <h4 class="grey bottom-medium">I was told everyone has this nowadays.</h4>
-        <p>Nominated for boyfriend of the year 2019</p>        
-        <h2 class="top-extra-large">Find me on</h2>
-        <h4 class="grey bottom-medium">The places where I'm actually active.</h4>
-        <p>@Twitter - <a href='http://twitter.com/henning_Witzel'>twitter.com/henning_witzel</a></p>
-        <p>@LinkedIn – <a href='http://www.linkedin.com/profile/view?id=218195098'>linkedin.com/.../henning_witzel</a></p>      
+        <p>🏅 Nominated for boyfriend of the year 2019</p>   
+        <br />     
+        <h2 class="top-small">Contact me</h2>
+        <h4 class="grey bottom-medium">The places where I'm actually active and you can talk to me.</h4>
+        <p>@Twitter - <a href='http://twitter.com/henning_Witzel'>twitter.com/henning_witzel</a><br />
+        @LinkedIn – <a href='http://www.linkedin.com/profile/view?id=218195098'>linkedin.com/.../henning_witzel</a><br />
+        @Mail – <a href='mailto:contact@henning-witzel.de?Subject=Hello%20Henning'>contact@henning-witzel.de</a>
     </div>    
     <div class='clearfix'></div>
   </div>
