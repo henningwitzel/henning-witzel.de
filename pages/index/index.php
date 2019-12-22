@@ -10,9 +10,10 @@
     <div class='content'>      
         <h1>Hi, I'm Henning.</h1>
         <h4 class="grey bottom-large">I design and build software products.</h4>
-        <p>Work in progress 🚧 Last update on December, 15th 2019. </p>        
-        <!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi blandit cursus risus at ultrices mi tempus. Viverra orci sagittis eu volutpat odio facilisis mauris sit.</p> 
-        <p>Vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Morbi tincidunt augue interdum velit euismod in pellentesque. Molestie a iaculis at erat pellentesque adipiscing commodo. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Felis eget nunc lobortis mattis. Ut tristique et egestas quis ipsum suspendisse ultrices. Vitae sapien pellentesque habitant morbi tristique senectus et. Consectetur adipiscing elit duis tristique. In metus vulputate eu scelerisque felis imperdiet.</p>-->
+        <p>Hey – Looks like you made it here! There are different reasons for this. Maybe you know me, or you found me somehow on the internet – either way, I'm welcoming you.</p>
+        <p>The internet became a place where a lot of information is controlled by companies and their algorithms. You need to hope that the post you saw on Instagram or Facebook will pop up again –good luck searching for it! Or a new article at Medium you can't read because you reached your limit for the month.</p>
+        <p>This site is my attempt for an independent place of all my thoughts and projects. You can read my <a href="###basepath###blog">articles</a>. See what kind of <a href="###basepath###books">books</a> or <a href="###basepath###podcasts">podcasts</a> I like. Take a look at specific projects I worked on and, of course, learn something <a href="###basepath###about_me">about me</a>.</p>
+        <p>The site is still work in progress 🚧 The last update was on <span class="grey">December, 22th 2019</span>.</p>        
     <div class='clearfix'></div>
   </div>
 </div>
