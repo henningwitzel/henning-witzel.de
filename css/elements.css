@@ -102,6 +102,11 @@
   margin-bottom: 16px;
 }
 
+.bold {
+  font-weight: bold !important;
+}
+
+
 /* LINKS */
 
 .content a {
@@ -129,6 +134,41 @@
   width: 100%;
 }
 
-.bold {
-  font-weight: bold !important;
+/* EMBEDDED VIDEOS */
+
+.content .elastic-video {
+  position: relative;
+  padding-bottom: 55%;
+  padding-top: 15px;
+  height: 0;
+  overflow: hidden;
+}
+.content .elastic-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 1% !important;
+}
+
+/* LISTINGS */
+.content ul {
+  list-style-type: circle;
+  margin-left: 32px;
+  font-size: 16px;
+  color: #444444;
+  font-family: "Droid Serif";
+  line-height: 176%;
+  margin-bottom: 16px;
+}
+
+/* PICTURES */
+.content #pictures {
+  text-align: center;
+}
+.content #pictures img {
+  margin-bottom: 6px;
+  max-width: 100%;
+  height: auto;
 }
