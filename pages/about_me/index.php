@@ -52,7 +52,7 @@
                 <p class="description">Starting my first job in pure designer role without doing any coding I worked primarily on the <a href="https://www.newstore.com/omnichannel-insights/">Ominchannel Manager</a>.</p>
               </div>            
             </div>
-          </div>
+          
           <br />
           <!-- COMPANY END -->
           <!-- COMPANY START -->
@@ -81,19 +81,47 @@
               <p class="description">Shortly before finishing my bachelor's degree, I wanted to make something with my knowledge. Luckily I wasn't the only one, and I found some friends to do projects with me. This is how we started.</p>
             </div>            
           </div>
+          </div>
           <!-- COMPANY END -->
         <br />
         <h2 class="top-small">Education</h2>
         <h4 class="grey bottom-medium">I spent six years at the university.</h4>
         <div class="education">
-          <p class="institution">Fachhochschule Erfurt · University of Applied Science</p>
-          <p class="graduation">Master of Science (M.Sc.), Computer Sience</p>
-          <p class="date grey">2011 - 2014</p>
-        </div>
+          <div class="left"><img src="https://media.licdn.com/dms/image/C510BAQFE64rhN_uCuQ/company-logo_200_200/0?e=2159024400&v=beta&t=oStIH6NSLmw9cjvvuG2NR73W3RZh-v6OiIIQdkMqAYc" height="60px" width="60px" /></div>
+          <div class="right">
+            <p class="institution">Fachhochschule Erfurt · University of Applied Science</p>
+            <p class="graduation">Master of Science (M.Sc.), Computer Sience</p>
+            <p class="date grey">2011 - 2014</p>          
+          </div>
+          <div class='clearfix'></div>          
+          <div class="thesis-wrapper top-small">
+            <div class="thesis">
+                <p class="title">Interactive Display Systems · Master's Thesis</p>
+                <p class="published bottom-small">Martin Gessert & Henning Witzel · August 20th, 2014</p>
+                <p>During the last years, the Internet has gone through a major change. It developed from a rigid source of information into an interactive collaborative media. By being available, always and everywhere, especially the social networks experienced a rapid growth. Many companies leverage those networks to address their customer needs. Digital display systems show similar features, which find wider usage in areas like Point of Sale or Point of Information. If you combined these two media groups they offer many opportunities for cross media communication.</p>
+                <p>This master thesis addresses the design and further development of an interactive display system for cross media communication with a special emphasis on the usage of social media.</p>
+                <!--<p>The statements made are based on a prototypic implementation of a display system developed by the two authors. This was tested on several occasions. The experiences gained through live tests, the analysis of existing solutions and literature research on the topics Social Media and Digital Signage, lead to the requirements which are needed for a digital display system. Founded on the recorded requirements, a comprehensive concept acts as guideline for the development of a display solution with Social Media integration. The focus was placed on the usability of the software and the facilitation of novel interaction scenarios. Two different settings were chosen for the acceptance validation. They were deployed on a trade fair and in the retail industry by the help of a further developed prototype.</p>-->
+                <p> <a href="#">📄 Read thesis </a>(in German)</p>
+              </div>          
+            </div>
+          </div>
         <div class="education">
+        <div class="left"><img src="https://media.licdn.com/dms/image/C510BAQFE64rhN_uCuQ/company-logo_200_200/0?e=2159024400&v=beta&t=oStIH6NSLmw9cjvvuG2NR73W3RZh-v6OiIIQdkMqAYc" height="60px" width="60px" /></div>
+          <div class="right">
           <p class="institution">Fachhochschule Erfurt · University of Applied Science</p>
           <p class="graduation">Bachelor of Science (M.Sc.), Computer Sience</p>
           <p class="date grey">2008 - 2011</p>
+          </div> 
+          <div class='clearfix'></div>     
+          <div class="thesis-wrapper top-small">
+            <div class="thesis">                
+                <p class="title">Web-Framework · Bachelor's Thesis</p>
+                <p class="published bottom-small">Martin Gessert & Henning Witzel · August 15th, 2011</p>
+                <p>Current technologies show a trend that desktop applications shift into the World Wide Web – there is an increasing demand of web applications. Development frameworks help software engineers to speed things up by offering a wide range of basic functionality.</p>
+                <p>This bachelor thesis focuses on the development of a web-framework considering certain functional and non-functional requirements. The focus lies on the conceptual design, implementation and evaluation of the framework.</p>
+                <p> <a href="#">📄 Read thesis</a> (in German)</p>
+              </div>
+          </div>
         </div>
         <div class="education">
           <p class="institution">SBSZ Jena-Göschwitz · Governmental Career Development Centre</p>

@@ -40,17 +40,59 @@
   font-size: 15px;
 }
 
-.about_me .right {
+.about_me .thesis-wrapper {
+  border-left: 2px solid #efefef;
+  margin-bottom: 50px;
+}
+.about_me .thesis-wrapper .thesis {
+  margin-left: 16px;
+  margin-bottom: 40px;
+}
+.about_me .thesis-wrapper .thesis .title {
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+.about_me .thesis-wrapper .thesis .title {
+  margin-bottom: 0px;
+}
+
+.about_me .thesis-wrapper .thesis .published {
+  font-size: 15px;
+  color: #aaaaaa;
+}
+
+.about_me .thesis-wrapper .thesis .description {
+  margin-top: -10px;
+  font-size: 15px;
+}
+
+.about_me .working .right {
   float: left;
   width: 400px;
 }
 
-.about_me .right .logo {
+.about_me .working .right .logo {
   width: 40px;
   height: 40px;
 }
 
-.about_me .left {
+.about_me .working .left {
+  float: left;
+  width: 65px;
+}
+
+.about_me .education .right {
+  float: left;
+  width: 600px;
+}
+
+.about_me .education .right .logo {
+  width: 40px;
+  height: 40px;
+}
+
+.about_me .education .left {
   float: left;
   width: 65px;
 }
