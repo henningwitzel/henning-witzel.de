@@ -1,3 +1,4 @@
+/*
 .about_me .company .name {
   font-weight: 600;
   font-size: 22px;
@@ -14,102 +15,83 @@
   margin-bottom: 10px;
 }
 
-.about_me .job {
-  margin-left: 16px;
-  margin-bottom: 40px;
-}
+*/
 
 .about_me .positions {
   border-left: 2px solid #efefef;
   margin-bottom: 50px;
+  margin-left: 24px;
 }
 
-.about_me .job .position {
-  font-weight: 600;
-  font-size: 18px;
-  margin-bottom: 0px;
+.about_me .positions .about{
+  margin-left: 40px;
+  margin-bottom: 20px;
 }
 
-.about_me .job .date {
-  font-size: 15px;
-  color: #aaaaaa;
-}
-
-.about_me .job .description {
-  margin-top: -10px;
-  font-size: 15px;
-}
-
-.about_me .thesis-wrapper {
-  border-left: 2px solid #efefef;
-  margin-bottom: 50px;
-}
-.about_me .thesis-wrapper .thesis {
-  margin-left: 16px;
+.about_me .position {
+  margin-left: 40px;
   margin-bottom: 40px;
 }
-.about_me .thesis-wrapper .thesis .title {
-  margin-bottom: 0px;
-  font-weight: bold;
+
+.about_me .position .title {
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 0px;  
 }
 
-.about_me .thesis-wrapper .thesis .title {
-  margin-bottom: 0px;
-}
-
-.about_me .thesis-wrapper .thesis .published {
+.about_me .position .date {
   font-size: 15px;
   color: #aaaaaa;
 }
 
-.about_me .thesis-wrapper .thesis .description {
+.about_me .position .dot
+{
+  margin-left: -48px;
+  position: absolute;
+  margin-top: 8px;
+  border-radius: 100px;
+  border: 2px solid #fff;;
+  background: #efefef;  
+  width: 10px;
+  height: 10px;
+}
+
+.about_me .position .description {
   margin-top: -10px;
   font-size: 15px;
 }
 
-.about_me .working .right {
-  float: left;
-  width: 400px;
+.about_me .position .description a {  
+  font-size: 15px;
 }
 
-.about_me .working .right .logo {
+.about_me .right {
+  float: left;
+  width: 80%;
+}
+
+.about_me .right .logo {
   width: 40px;
   height: 40px;
 }
 
-.about_me .working .left {
+.about_me .right .title {
+  font-weight: 600;  
+  font-size: 22px;
+  color: #444444;
+  font-family: "Droid Serif";
+  line-height: 180%;
+  margin-bottom: -5px;
+  margin-top: 3px;
+}
+
+.about_me .right .time {
+  font-size: 16px;
+  color: #aaaaaa;
+  margin-bottom: 10px;
+}
+
+.about_me .left {
   float: left;
   width: 65px;
-}
-
-.about_me .education .right {
-  float: left;
-  width: 600px;
-}
-
-.about_me .education .right .logo {
-  width: 40px;
-  height: 40px;
-}
-
-.about_me .education .left {
-  float: left;
-  width: 65px;
-}
-
-.about_me .education {
-  margin-bottom: 32px;
-}
-
-.about_me .education .institution {
-  margin: 0 !important;
-  font-weight: bold;
-}
-
-.about_me .education .graduation {
-  margin: 0 !important;
-}
-
-.about_me .education .date {
-  margin: 0 !important;
 }
