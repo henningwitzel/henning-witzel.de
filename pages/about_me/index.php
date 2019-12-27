@@ -107,7 +107,7 @@
               <p class="title">Master of Science (M.Sc.), Computer Sience</p>
               <p class="date">2011 - 2014</p>
               <p class="description">My master thesis addressed the UX design and further development of an interactive display system for cross media communication with an emphasis on social media.</p>
-              <p class="description top-small">📄 <a href="#">Interactive Display Systems</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>              
+              <p class="description top-small">📄 <a href="###basepath###pages/about_me/Masterarbeit.pdf">Interactive Display Systems</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>              
             </div>
             <div class="position">
             <div class="dot"></div>
@@ -115,7 +115,7 @@
               <p class="date">2008 - 2011</p>              
               <p class="description">During the first three years I specialised on computer science in media. I learned a lot about procedures, methods, and technologies of computer science in the area of media design, media production, and media engineering. They focused on the evaluation, planning and implementation of digital web-based and multimedia based products. </p>
               <p class="description">My bachelor thesis focused on the development of a web-framework considering certain functional and non-functional requirements. The focus lies on the conceptual design, implementation and evaluation of the framework.</p>              
-              <p class="description top-small">📄 <a href="#">Web-Framework</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
+              <p class="description top-small">📄 <a href="###basepath###pages/about_me/Bachelorarbeit.pdf">Web-Framework</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
             </div>            
           </div>
 
@@ -131,7 +131,7 @@
         </div>
           <div class='clearfix'></div>          
           <div class="positions">
-            <p class="about">The SBSZ was a governmental career development centre that gotten me into computer sience. This education was a combination of school and work. After two years of studying I had to work in a company in order to get my high school degree.</p>
+            <p class="about">The SBSZ is a governmental career development centre that gotten me into computer sience. This education was a combination of school and work. After two years of studying I had to work in a company in order to get my high school degree.</p>
             <div class="position">
               <div class="dot"></div>
               <p class="title">IT Engineer</p>
@@ -142,7 +142,7 @@
             <div class="dot"></div>
               <p class="title">Technical Assistent for Computer Science</p>
               <p class="date">2004 - 2006</p>              
-              <p class="description">It was the first time I learned something about computers and how to code. This education allowed me to get my high school degree and to specialise on what I loved at that time – computers.</p>              
+              <p class="description">It was the first time I learned something about computers and how to code. This education allowed me to get my high school degree and to specialise in what I loved at that time – computers.</p>              
             </div>            
           </div>
           
