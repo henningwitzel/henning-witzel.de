@@ -125,7 +125,7 @@
               <p class="title">Bachelor of Science (M.Sc.), Computer Sience</p>
               <p class="date">2008 - 2011</p>              
               <p class="description">During the first three years I specialised on computer science in media. I learned a lot about procedures, methods, and technologies  in the area of media design, production, and engineering. My focus was on the evaluation, planning and implementation of digital web-based products.</p>
-              <p class="description">My bachelor thesis focused on the development of a web-framework considering specific functional and non-functional requirements. It describes the conceptual design, implementation, and evaluation of the framework. We were of the first ones that tested a development framework on usability.</p>
+              <p class="description">My bachelor thesis focused on the development of a web-framework considering specific functional and non-functional requirements. It describes the conceptual design, implementation, and evaluation of the framework. We were one of the first ones that tested a development framework on usability with software engineers.</p>
               <p class="description top-small">📄 <a href="###basepath###downloads/Bachelorarbeit.pdf">Web-Framework</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
             </div>            
           </div>
