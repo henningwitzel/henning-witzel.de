@@ -62,13 +62,13 @@
           </div>
           <div class="right">            
               <div class="details">
-                <p class="title">Zebresel</p>
+                <p class="title" id="zebresel">Zebresel</p>
                 <p class="time">2011 - 2015 · 4 years · Erfurt </p>
               </div>            
           </div>
           <div class='clearfix'></div>          
           <div class="positions">
-            <p class="about">Together with a team of computer scientists, I founded an agency with a focus on website- and app development while I was still studying. From 2011 until 2015, we planned, developed, and launched customer projects in Germany. In addition to project management, I focused on the user experience and user interface design. At the end of 2013, we started to develop products based on our ideas.
+            <p class="about">Together with a team of computer scientists, I founded an agency called <a href="http://www.zebresel.com">Zebresel</a> with a focus on website- and app development while I was still studying. From 2011 until 2015, we planned, developed, and launched customer projects in Germany. In addition to project management, I focused on the user experience and user interface design. At the end of 2013, we started to develop products based on our ideas.
 </p>
             <div class="position">
             <div class="dot"></div>
@@ -115,10 +115,10 @@
               <p class="title">Master of Science (M.Sc.), Computer Sience</p>
               <p class="date">2011 - 2014</p>
                           
-              <p class="description">While it was clear to me that I want to get my master's degree, I was also already doing some business on the side. Together with colleagues from the university, I founded an agency called <a href="#">Zebresel</a>. By splitting my time between them, I learned how to apply my theoretical knowledge to solve customer problems and make money out of it.</p>
+              <p class="description">While it was clear to me that I want to get my master's degree, I was also already doing some business on the side. Together with colleagues from the university, I founded an agency called <a href="#zebresel">Zebresel</a>. By splitting my time between them, I learned how to apply my theoretical knowledge to solve customer problems and make money out of it.</p>
               <p class="description">At the university, I became better in analyzing complex requirements, propose appropriate solutions, plan, and coordinate implementations. I specialized in the development of complex interactive applications with a focus on user-centered design of interfaces.</p>
               <p class="description">My master thesis addressed the UX design and further development of an interactive display system for cross media communication with an emphasis on social media.</p>
-              <p class="description top-small">📄 <a href="###basepath###pages/about_me/Masterarbeit.pdf">Interactive Display Systems</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
+              <p class="description top-small">📄 <a href="###basepath###downloads/Masterarbeit.pdf">Interactive Display Systems</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
             </div>
             <div class="position">
             <div class="dot"></div>
@@ -126,7 +126,7 @@
               <p class="date">2008 - 2011</p>              
               <p class="description">During the first three years I specialised on computer science in media. I learned a lot about procedures, methods, and technologies  in the area of media design, production, and engineering. My focus was on the evaluation, planning and implementation of digital web-based products.</p>
               <p class="description">My bachelor thesis focused on the development of a web-framework considering specific functional and non-functional requirements. It describes the conceptual design, implementation, and evaluation of the framework. We were of the first ones that tested a development framework on usability.</p>
-              <p class="description top-small">📄 <a href="###basepath###pages/about_me/Bachelorarbeit.pdf">Web-Framework</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
+              <p class="description top-small">📄 <a href="###basepath###downloads/Bachelorarbeit.pdf">Web-Framework</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
             </div>            
           </div>
 
