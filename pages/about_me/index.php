@@ -68,18 +68,26 @@
           </div>
           <div class='clearfix'></div>          
           <div class="positions">
-            <p class="about">Together with a team of computer scientists, I was founded an agency with the focus on website- and app development. From 2011 until 2015 we planned, developed and launched customer projects in Germany. In addition to the project management, I was focusing on the user experience and user interfaces of the projects. At the end of 2013, we started to focus on the development of our own products.</p>
+            <p class="about">Together with a team of computer scientists, I founded an agency with a focus on website- and app development while I was still studying. From 2011 until 2015, we planned, developed, and launched customer projects in Germany. In addition to project management, I focused on the user experience and user interface design. At the end of 2013, we started to develop products based on our ideas.
+</p>
             <div class="position">
             <div class="dot"></div>
-              <p class="title">UX/UI Design</p>
+              <p class="title">Product Design</p>
               <p class="date">November 2013 – March 2015 · 1.5 years</p>
-              <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <p class="description">I loved doing design – it doesn't matter if it was a website, flyer, or an app. But it's not about how it looks like; it's how it feels. While still doing the design & development for customers, we also started building our products. I focused entirely on user experience design and user research. To my advantage, we always wanted to solve our own problems, and that made access to users and testing easier.</p>
+              
+              <p class="title bottom-small">Signum+</p>
+              <p class="description">The first product is a digital signage solution called signum+. It allows you to manage content for every kind of screen. With the usage of social media, we enabled our customers to engage with their guests during events. Together with a display solution partner, we were able to show off the power of the product at the Rock am Ring festival in Germany 2014.</p>
+                <p class="description bottom-medium"><a href="http://www.signumplus.de">www.signumplus.de</a></p>
+              <p class="title bottom-small">Beamerlasershow</p>
+              <p class="description">The second product is an app that allows you to create a light-show and fascinate your guests wherever you want. We combined a video projector, artificial fog, and 2D animations with an iOS device. The app for iPhone and iPad allows you to create playlists with a big set of predefined animations. By allowing to touch and draw animations on the screen, the live mix mode unfolded your creativity.</p>
+              <p class="description bottom-medium"><a href="http://www.beamerlasershow.de">www.beamerlasershow.de</a></p>
             </div>
             <div class="position">
             <div class="dot"></div>
               <p class="title">Web Design & Developlment</p>
               <p class="date">April 2011 – October 2013 · 2.5 years</p>
-              <p class="description">Shortly before finishing my bachelor's degree, I wanted to make something with my knowledge. Luckily I wasn't the only one, and I found some friends to do projects with me. This is how we started.</p>
+              <p class="description">Shortly before finishing my bachelor's degree, I wanted to make something with my freshly gained knowledge. Luckily I wasn't the only one, and I found some colleagues with the same idea. We called ourselves Zebresel, started to make some money on the side and learned how to build something that solves customer problems.</p>
             </div>            
           </div>
           </div>
@@ -101,20 +109,23 @@
         </div>
           <div class='clearfix'></div>          
           <div class="positions">
-            <p class="about">Going to a university was never part of my initial plan and certainly not staying there for six years – I never regret that decision. The aim of study in Erfurt is to teach practical oriented knowledge and skills in the main areas of computer science. I gained expertise in technologies, algorithms, and programming as well as methodical skills for analyzing, planning, and implementing projects.</p>
+            <p class="about">Going to a university was never part of my initial plan and certainly not staying there for six years – I never regreted that decision. A study in Erfurt aims to teach practical oriented knowledge and skills in the main areas of computer science. I gained expertise in technologies, algorithms, and programming as well as methodical skills for analyzing, planning, and implementing solutions.</p>
             <div class="position">
               <div class="dot"></div>
               <p class="title">Master of Science (M.Sc.), Computer Sience</p>
               <p class="date">2011 - 2014</p>
+                          
+              <p class="description">While it was clear to me that I want to get my master's degree, I was also already doing some business on the side. Together with colleagues from the university, I founded an agency called <a href="#">Zebresel</a>. By splitting my time between them, I learned how to apply my theoretical knowledge to solve customer problems and make money out of it.</p>
+              <p class="description">At the university, I became better in analyzing complex requirements, propose appropriate solutions, plan, and coordinate implementations. I specialized in the development of complex interactive applications with a focus on user-centered design of interfaces.</p>
               <p class="description">My master thesis addressed the UX design and further development of an interactive display system for cross media communication with an emphasis on social media.</p>
-              <p class="description top-small">📄 <a href="###basepath###pages/about_me/Masterarbeit.pdf">Interactive Display Systems</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>              
+              <p class="description top-small">📄 <a href="###basepath###pages/about_me/Masterarbeit.pdf">Interactive Display Systems</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
             </div>
             <div class="position">
             <div class="dot"></div>
               <p class="title">Bachelor of Science (M.Sc.), Computer Sience</p>
               <p class="date">2008 - 2011</p>              
-              <p class="description">During the first three years I specialised on computer science in media. I learned a lot about procedures, methods, and technologies of computer science in the area of media design, media production, and media engineering. They focused on the evaluation, planning and implementation of digital web-based and multimedia based products. </p>
-              <p class="description">My bachelor thesis focused on the development of a web-framework considering certain functional and non-functional requirements. The focus lies on the conceptual design, implementation and evaluation of the framework.</p>              
+              <p class="description">During the first three years I specialised on computer science in media. I learned a lot about procedures, methods, and technologies  in the area of media design, production, and engineering. My focus was on the evaluation, planning and implementation of digital web-based products.</p>
+              <p class="description">My bachelor thesis focused on the development of a web-framework considering specific functional and non-functional requirements. It describes the conceptual design, implementation, and evaluation of the framework. We were of the first ones that tested a development framework on usability.</p>
               <p class="description top-small">📄 <a href="###basepath###pages/about_me/Bachelorarbeit.pdf">Web-Framework</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
             </div>            
           </div>
@@ -131,18 +142,18 @@
         </div>
           <div class='clearfix'></div>          
           <div class="positions">
-            <p class="about">The SBSZ is a governmental career development centre that gotten me into computer sience. This education was a combination of school and work. After two years of studying I had to work in a company in order to get my high school degree.</p>
+            <p class="about">The SBSZ is a governmental career development center that got me into computer science. This education was a combination of school and work. After two years of studying, I had to work in a company to get my high school degree.</p>
             <div class="position">
               <div class="dot"></div>
               <p class="title">IT Engineer</p>
               <p class="date">2006 - 2007</p>
-              <p class="description">Before I went to university I worked as an IT engineer at <a href="#">JENDATA Computersysteme GmbH</a> and I was responsible for maintaining their customer's IT systems. In my day to day business, I dealt with computer hardware, software, and networking tools. I learned how to test, install and configure those in order to troubleshoot it.</p>              
+              <p class="description">Before I went to university, I worked as an IT engineer at <a href="https://www.jendata.com/">JENDATA Computersysteme GmbH</a>, and I was responsible for maintaining their customer's IT systems. In my day to day business, I dealt with computer hardware, software, and networking tools. I learned how to test, install, and configure those to troubleshoot them.</p>              
             </div>
             <div class="position">
             <div class="dot"></div>
               <p class="title">Technical Assistent for Computer Science</p>
               <p class="date">2004 - 2006</p>              
-              <p class="description">It was the first time I learned something about computers and how to code. This education allowed me to get my high school degree and to specialise in what I loved at that time – computers.</p>              
+              <p class="description">It was the first time I learned something about computer science – how to code, how computers work, or how to set up a proper network. This education allowed me to get my high school degree and specialize in what I enjoyed – computers.</p>              
             </div>            
           </div>
           

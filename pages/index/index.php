@@ -9,11 +9,11 @@
      ###menu###
     <div class='content'>      
         <h1>Hi, I'm Henning.</h1>
-        <h4 class="grey bottom-large">I design and build software products.</h4>
-        <p>Hey – Looks like you made it here! There are different reasons for this. Maybe you know me, or you found me somehow on the internet – either way, I'm welcoming you.</p>
-        <p>The internet became a place where a lot of information is controlled by companies and their algorithms. You need to hope that the post you saw on Instagram or Facebook will pop up again –good luck searching for it! Or a new article at Medium you can't read because you reached your limit for the month.</p>
-        <p>This site is my attempt for an independent place of all my thoughts and projects. You can read my <a href="###basepath###blog">articles</a>. See what kind of <a href="###basepath###books">books</a> or <a href="###basepath###podcasts">podcasts</a> I like. Take a look at specific projects I worked on and, of course, learn something <a href="###basepath###about_me">about me</a>.</p>
-        <p>The site is still work in progress 🚧 The last update was on <span class="grey">December, 22th 2019</span>.</p>        
+        <h4 class="grey bottom-large">I design and build software products to solve problems.</h4>
+        <p>Hey – Looks like you made it here! There are different reasons for this: maybe you know me, or you found me somehow on the internet – either way, I'm welcoming you.</p>
+        <p>The internet became a place where a lot of information is controlled by companies and their algorithms. You need to hope that the post you saw on Instagram or Facebook will pop up again. Or a new article at Medium you wan't to read is not accessbile because you reached your limit for the month.</p>
+        <p>This site is my attempt for an independent place of all my thoughts and projects. You can read my <a href="###basepath###blog">articles</a>. See what kind of <a href="###basepath###books">books</a> or <a href="###basepath###podcasts">podcasts</a> I like. Take a look at specific projects I worked on and, of course, learn something <a href="###basepath###about_me">about me</a>. No limitations, no special sortings, no advertisments - just a simple website.</p>
+        <p>The site is still work in progress 🚧 The last update was on <span class="grey">December, 27th 2019</span>.</p>        
     <div class='clearfix'></div>
   </div>
 </div>
