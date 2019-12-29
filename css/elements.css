@@ -172,3 +172,13 @@
   max-width: 100%;
   height: auto;
 }
+
+.image-location
+{  
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.9);  
+  position: absolute;    
+  font-family: "Droid Serif"; 
+  right: 20px;
+  bottom: 20px;
+}
