@@ -1,3 +1,8 @@
+<title>Contact · Henning Witzel</title>
+</head>
+  <body basepath='###basepath###'></body>
+  <div id='clearbutton'></div>
+</html>
 <div class='image' data_image_1280='###basepath###img/header/###page###-header-1280.jpg' data_image_1920='###basepath###img/header/###page###-header-1920.jpg' data_image_800='###basepath###img/header/###page###-header-800.jpg' id='header'></div>
 <div class='text' id='background'>
   <div id='wrapper'>

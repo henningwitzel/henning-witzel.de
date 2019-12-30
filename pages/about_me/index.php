@@ -1,5 +1,17 @@
-
-<div class='image' data_image_1280='###basepath###img/header/###page###-header-1280.jpg' data_image_1440='###basepath###img/header/###page###-header-1440.jpg' data_image_1920='###basepath###img/header/###page###-header-1920.jpg' data_image_800='###basepath###img/header/###page###-header-800.jpg' id='header'><div class="image-location">Melbourne, Australia 2019</div></div>
+<title>About Me · Henning Witzel</title>
+</head>
+  <body basepath='###basepath###'></body>
+  <div id='clearbutton'></div>
+</html>
+<div class='image' 
+    data_image_1280='###basepath###img/header/###page###-header-1280.jpg' 
+    data_image_1440='###basepath###img/header/###page###-header-1440.jpg' 
+    data_image_1920='###basepath###img/header/###page###-header-1920.jpg' 
+    data_image_800='###basepath###img/header/###page###-header-800.jpg' 
+    id='header'>
+  <div class="image-location"><a href="https://www.google.com/maps?q=albert+park+melbourne&rlz=1C5CHFA_enDE851DE851&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiFoKvsgt3mAhVJKuwKHeESAiAQ_AUoAXoECBQQAw" target="_blank">
+    Albert Park Melbourne</a> · Australia 2019</div>
+</div>
 <style type="text/css">#logo {background-image: url('###basepath###/img/henning.png') !important;}</style>
 <div class='text' id='background'>
   <div id='wrapper'>
@@ -26,7 +38,7 @@
           </div>
           <div class="right">
             <div class="details">
-              <p class="title">NewStore</p>
+              <p class="title" id="newstore">NewStore</p>
               <p class="time">4 years and 10 months · Berlin </p>              
           </div>
           </div>
@@ -157,88 +169,9 @@
               <p class="description">It was the first time I learned something about computer science – how to code, how computers work, or how to set up a proper network. This education allowed me to get my high school degree and specialize in what I enjoyed – computers.</p>              
             </div>            
           </div>
-          
-          <!--
-
-        <div class="education">
-        <div class="left"><img src="https://media.licdn.com/dms/image/C510BAQFE64rhN_uCuQ/company-logo_200_200/0?e=2159024400&v=beta&t=oStIH6NSLmw9cjvvuG2NR73W3RZh-v6OiIIQdkMqAYc" height="60px" width="60px" /></div>
-          <div class="right">
-          <p class="graduation">Fachhochschule Erfurt · University of Applied Science</p>
-          <p class="institution"></p>          
-          <p class="date grey">6 years · Erfurt</p>
-          </div> 
-          <div class='clearfix'></div>     
-          <div class="thesis-wrapper top-small">
-            <div class="thesis">       
-             
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>    
-            <div class="dot"></div>    
-            <p class="title">Master of Science (M.Sc.), Computer Sience</p>
-                <p class="published bottom-small">2011 - 2014</p>
-            <div class="dot"></div>    
-            <p class="title">Bachelor of Science (M.Sc.), Computer Sience</p>
-                <p class="published bottom-small">2008 - 2011</p>
-            <p>Bachelor's Thesis</p>
-                <p class="published bottom-small">August 15th, 2011 · Martin Gessert & Henning Witzel </p>
-                <p>Current technologies show a trend that desktop applications shift into the World Wide Web – there is an increasing demand of web applications. Development frameworks help software engineers to speed things up by offering a wide range of basic functionality.</p>
-                <p>This bachelor thesis focuses on the development of a web-framework considering certain functional and non-functional requirements. The focus lies on the conceptual design, implementation and evaluation of the framework.</p>
-                <p> <a href="#">📄 Read thesis</a> (in German)</p>
-              </div>
-          </div>
-        </div>
-        <div class="education">     
-
-
-        <div class="education">
-          <div class="left"><img src="https://media.licdn.com/dms/image/C510BAQFE64rhN_uCuQ/company-logo_200_200/0?e=2159024400&v=beta&t=oStIH6NSLmw9cjvvuG2NR73W3RZh-v6OiIIQdkMqAYc" height="60px" width="60px" /></div>
-          <div class="right">
-          <p class="graduation">Master of Science (M.Sc.), Computer Sience</p>  
-          <p class="institution">Fachhochschule Erfurt · University of Applied Science</p>            
-            <p class="date grey">2011 - 2014</p>          
-          </div>
-          <div class='clearfix'></div>          
-          <div class="thesis-wrapper top-small">
-            <div class="thesis">
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
-            <div class="dot"></div>         
-                <p class="title">Interactive Display Systems · Master's Thesis</p>
-                <p class="published bottom-small">Martin Gessert & Henning Witzel · August 20th, 2014</p>
-                <p>During the last years, the Internet has gone through a major change. It developed from a rigid source of information into an interactive collaborative media. By being available, always and everywhere, especially the social networks experienced a rapid growth. Many companies leverage those networks to address their customer needs. Digital display systems show similar features, which find wider usage in areas like Point of Sale or Point of Information. If you combined these two media groups they offer many opportunities for cross media communication.</p>
-                <p>This master thesis addresses the design and further development of an interactive display system for cross media communication with a special emphasis on the usage of social media.</p>
-                <p>The statements made are based on a prototypic implementation of a display system developed by the two authors. This was tested on several occasions. The experiences gained through live tests, the analysis of existing solutions and literature research on the topics Social Media and Digital Signage, lead to the requirements which are needed for a digital display system. Founded on the recorded requirements, a comprehensive concept acts as guideline for the development of a display solution with Social Media integration. The focus was placed on the usability of the software and the facilitation of novel interaction scenarios. Two different settings were chosen for the acceptance validation. They were deployed on a trade fair and in the retail industry by the help of a further developed prototype.</p>
-                <p> <a href="#">📄 Read thesis </a>(in German)</p>
-              </div>          
-            </div>
-          </div>
-        <div class="education">
-        <div class="left"><img src="https://media.licdn.com/dms/image/C510BAQFE64rhN_uCuQ/company-logo_200_200/0?e=2159024400&v=beta&t=oStIH6NSLmw9cjvvuG2NR73W3RZh-v6OiIIQdkMqAYc" height="60px" width="60px" /></div>
-          <div class="right">
-          <p class="graduation">Bachelor of Science (M.Sc.), Computer Sience</p>
-          <p class="institution">Fachhochschule Erfurt · University of Applied Science</p>          
-          <p class="date grey">2008 - 2011</p>
-          </div> 
-          <div class='clearfix'></div>     
-          <div class="thesis-wrapper top-small">
-            <div class="thesis">       
-             
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>    
-            <div class="dot"></div>    
-            <p class="title">Web-Framework · Bachelor's Thesis</p>
-                <p class="published bottom-small">Martin Gessert & Henning Witzel · August 15th, 2011</p>
-                <p>Current technologies show a trend that desktop applications shift into the World Wide Web – there is an increasing demand of web applications. Development frameworks help software engineers to speed things up by offering a wide range of basic functionality.</p>
-                <p>This bachelor thesis focuses on the development of a web-framework considering certain functional and non-functional requirements. The focus lies on the conceptual design, implementation and evaluation of the framework.</p>
-                <p> <a href="#">📄 Read thesis</a> (in German)</p>
-              </div>
-          </div>
-        </div>
-        <div class="education">
-        <p class="graduation">Technical assistent for Computer Science</p>  
-        <p class="institution">SBSZ Jena-Göschwitz · Governmental Career Development Centre</p>          
-          <p class="date grey">2004 - 2006</p>
-        </div>-->
+                    
         <br />
 
-        
         <h2 class="top-small">Awards</h2>
         <h4 class="grey bottom-medium">I was told everyone has this nowadays.</h4>
         <p>🏅 Nominated for boyfriend of the year 2019</p>   

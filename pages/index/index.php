@@ -1,4 +1,16 @@
-<div class='image' data_image_1280='###basepath###img/header/###page###-header-1280.jpg' data_image_1440='###basepath###img/header/###page###-header-1440.jpg' data_image_1920='###basepath###img/header/###page###-header-1920.jpg' data_image_800='###basepath###img/header/###page###-header-800.jpg' id='header'><div class="image-location">Dorrigo National Park, Australia 2019</div></div>
+<title>Henning Witzel</title>
+</head>
+  <body basepath='###basepath###'></body>
+  <div id='clearbutton'></div>
+</html>
+<div class='image' 
+data_image_1280='###basepath###img/header/###page###-header-1280.jpg' 
+data_image_1440='###basepath###img/header/###page###-header-1440.jpg' 
+data_image_1920='###basepath###img/header/###page###-header-1920.jpg' 
+data_image_800='###basepath###img/header/###page###-header-800.jpg' 
+id='header'>
+<div class="image-location"><a href="https://www.google.com/maps/place/Dorrigo+National+Park/@-30.3636061,152.7268757,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9ea0ae4f70f409:0xf0609b573fef9d0!8m2!3d-30.3636107!4d152.7290644" target="_blank">
+Dorrigo National Park</a> · Australia 2019</div></div>
 <div class='text' id='background'>
   <div id='wrapper'>
     <div id='logo'>

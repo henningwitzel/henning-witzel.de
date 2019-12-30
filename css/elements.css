@@ -106,6 +106,10 @@
   font-weight: bold !important;
 }
 
+i {
+  font-style: italic;
+}
+
 
 /* LINKS */
 
@@ -173,12 +177,33 @@
   height: auto;
 }
 
+/* HEADER IMAGE LOCATION */
+
 .image-location
 {  
-  font-size: 10px;
-  color: rgba(255, 255, 255, 0.9);  
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.7);
   position: absolute;    
   font-family: "Droid Serif"; 
   right: 20px;
   bottom: 20px;
+}
+
+.image-location a
+{  
+  font-size: 12px;
+  color: white;
+  text-decoration: none;
+  border-bottom: dotted 1px white;
+}
+
+.image-location a:hover {
+  border-bottom: solid 1px white;
+}
+
+@media only screen and (max-width: 800px) {
+  .image-location
+  {
+    display: none;
+  }
 }

@@ -1,4 +1,17 @@
-<div class='image' data_image_1280='###basepath###img/header/###page###-header-1280.jpg' data_image_1440='###basepath###img/header/###page###-header-1440.jpg' data_image_1920='###basepath###img/header/###page###-header-1920.jpg' data_image_800='###basepath###img/header/###page###-header-800.jpg' id='header'><div class="image-location">State Library of Victoria, Melbourne, Australia 2019</div></div>
+<title>Bookshelf · Henning Witzel</title>
+</head>
+  <body basepath='###basepath###'></body>
+  <div id='clearbutton'></div>
+</html>
+<div class='image' 
+  data_image_1280='###basepath###img/header/###page###-header-1280.jpg' 
+  data_image_1440='###basepath###img/header/###page###-header-1440.jpg' 
+  data_image_1920='###basepath###img/header/###page###-header-1920.jpg' 
+  data_image_800='###basepath###img/header/###page###-header-800.jpg' 
+  id='header'>
+  <div class="image-location"><a href="https://www.google.com/maps?q=state+library+of+victoria&rlz=1C5CHFA_enDE851DE851&um=1&ie=UTF-8&sa=X&ved=2ahUKEwipjPbog93mAhVMDOwKHb41CgwQ_AUoAXoECAsQAw" target="_blank">
+  State Library of Victoria, Melbourne</a> · Australia 2019</div>
+</div>
 <div class='text' id='background'>
   <div id='wrapper'>
     <div id='logo'>

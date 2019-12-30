@@ -1,4 +1,16 @@
-<div class='image' data_image_1280='###basepath###img/header/###page###-header-1280.jpg' data_image_1440='###basepath###img/header/###page###-header-1440.jpg' data_image_1920='###basepath###img/header/###page###-header-1920.jpg' data_image_800='###basepath###img/header/###page###-header-800.jpg' id='header'><div class="image-location">Valla Beach, Australia 2019</div></div>
+<title>Blog · Henning Witzel</title>
+</head>
+  <body basepath='###basepath###'></body>
+  <div id='clearbutton'></div>
+</html>
+<div class='image' 
+data_image_1280='###basepath###img/header/###page###-header-1280.jpg' 
+data_image_1440='###basepath###img/header/###page###-header-1440.jpg' 
+data_image_1920='###basepath###img/header/###page###-header-1920.jpg' 
+data_image_800='###basepath###img/header/###page###-header-800.jpg' 
+id='header'>
+<div class="image-location"><a href="https://www.google.com/maps/place/Yamba+NSW+2464,+Australia/@-29.436098,153.3633,17.43z/data=!4m5!3m4!1s0x6b9a4c217cc432ff:0x50609b490442c50!8m2!3d-29.4332211!4d153.3406236" target="_blank">
+Yamba</a> · Australia 2019</div></div>
 <div class='text' id='background'>
   <div id='wrapper'>
     <div id='logo'>
@@ -13,8 +25,7 @@
       <div class="post">
         <h3><a href="###basepath######page###/basecamp">Basecamp at NewStore</a></h3>
         <h5 class="grey bottom-small">November 27th, 2019</h5>
-        <p>This is a letter I wrote to the CEO of Basecamp, Jason Fried. Hey Jason! I listened to the latest episode of the podcast about Basecamp Personal and I wanted to share my story with you. I was one of the people who used the free version the time you... </p>
-        <a href="###basepath######page###/basecamp">Read more...</a>
+        <p>A month ago, I listened to the latest episode of the podcast about Basecamp Personal, and I wanted to share how I introduced Basecamp at NewStore. I was one of the people who used... <a href="###basepath######page###/basecamp">keep reading</a></p>    
       </div>
       <!--<div class="post">
         <h3>Supply vs. Demand</h3>
