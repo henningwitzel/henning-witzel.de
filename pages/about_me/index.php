@@ -27,7 +27,7 @@
         <h1>About Me</h1>
         <h4 class="grey bottom-large">I'm a 31 year old UX person that lives in Berlin.</h4>
         <p class="bottom-extra-large">My name is Henning, I'm the Head of Product Design at <a href="http://www.newstore.com">NewStore</a> with a background in computer since. I currently live and work in Berlin. </p>
-        <br />
+        
         <div class="working">
           <h2>Working experience</h2>
           <h4 class="grey bottom-small">I'm in the business of building products to solve customer problems.</h4>
@@ -44,7 +44,7 @@
           </div>
           <div class='clearfix'></div>           
           <div class="positions">
-            <p class="about">I'm with the company since 2015, and I'm responsible for the user experience strategy and the design process of our applications. <a href="http://www.newstore.com">NewStore</a> operates a platform for retailers to run their stores on iPhones.<p>
+            <p class="about">I'm with the company since 2015, and I'm responsible for the UX strategy, the product design process, and the product design team. <a href="http://www.newstore.com">NewStore</a> operates a platform for retailers to run their stores on iPhones.<p>
             <p class="about">My team is part of the shaping and development process. We provide research, design user flows, and build prototypes. When it comes to development, we are embedded in an engineering team. Everything happens in close collaboration with product management, professional services, and engineering. The user I'm focusing on is a store associate. To help them get the job done, we build store apps that enable mobile checkout, endless aisle, store fulfillment, real-time inventory, and clienteling.<p>
             <p class="about bottom-large">If you ever heard of <a href="http://www.decathlon.com">Decathlon</a>, <a href="http://www.untuckit.com">UNTUCKit</a>, or <a href="http://outdoorvoices.com">Outdoor Voices</a>, then just visit their stores in the US and tell me about your experience – happy to hear about it!</p>          
             <div class="position">
@@ -178,9 +178,9 @@
         <br />     
         <h2 class="top-small">Contact me</h2>
         <h4 class="grey bottom-medium">The places where I'm actually active and you can talk to me.</h4>
-        <p>@Twitter - <a href='http://twitter.com/henning_Witzel'>twitter.com/henning_witzel</a><br />
-        @LinkedIn – <a href='http://www.linkedin.com/profile/view?id=218195098'>linkedin.com/.../henning_witzel</a><br />
-        @Mail – <a href='mailto:contact@henning-witzel.de?Subject=Hello%20Henning'>contact@henning-witzel.de</a>
+        <p>@Twitter - <a href='http://twitter.com/henning_Witzel'>twitter.com/henning_witzel</a></p>
+        <p>@LinkedIn – <a href='http://www.linkedin.com/in/henning-witzel/'>linkedin.com/in/henning_witzel</a></p>
+        <p>@Mail – <a href='mailto:contact@henning-witzel.de?Subject=Hello%20Henning'>contact@henning-witzel.de</a></p>
     </div>    
     <div class='clearfix'></div>
   </div>
