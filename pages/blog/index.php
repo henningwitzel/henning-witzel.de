@@ -1,4 +1,16 @@
 <title>Blog · Henning Witzel</title>
+<meta property="og:title" content="Blog · Henning Witzel" />
+<meta name="twitter:title" content="Blog · Henning Witzel" />
+
+<meta name="description" content="An independent home for all my thoughts and ideas." />
+<meta property="og:description" content="An independent home for all my thoughts and ideas." />
+<meta name="twitter:description" content="An independent home for all my thoughts and ideas." />
+
+<meta property="og:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+<meta name="twitter:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@henning_witzel" />
 </head>
   <body basepath='###basepath###'></body>
   <div id='clearbutton'></div>

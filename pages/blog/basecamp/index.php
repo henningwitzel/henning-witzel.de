@@ -1,4 +1,16 @@
 <title>Basecamp at NewStore · Henning Witzel</title>
+<meta property="og:title" content="Basecamp at NewStore · Henning Witzel" />
+<meta name="twitter:title" content="Basecamp at NewStore · Henning Witzel" />
+
+<meta name="description" content="A month ago, I listened to the latest episode of the podcast about Basecamp Personal, and I wanted to share how I introduced Basecamp at NewStore." />
+<meta property="og:description" content="A month ago, I listened to the latest episode of the podcast about Basecamp Personal, and I wanted to share how I introduced Basecamp at NewStore." />
+<meta name="twitter:description" content="A month ago, I listened to the latest episode of the podcast about Basecamp Personal, and I wanted to share how I introduced Basecamp at NewStore." />
+
+<meta property="og:image" content="###basepath###img/header/basecamp-header-1280.jpg" />
+<meta name="twitter:image" content="###basepath###img/header/basecamp-header-1280.jpg" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@henning_witzel" />
 </head>
   <body basepath='###basepath###'></body>
   <div id='clearbutton'></div>

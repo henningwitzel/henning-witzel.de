@@ -1,4 +1,16 @@
-<title>Inspiration· Henning Witzel</title>
+<title>Inspiration · Henning Witzel</title>
+<meta property="og:title" content="Inspiration · Henning Witzel" />
+<meta name="twitter:title" content="Inspiration · Henning Witzel" />
+
+<meta name="description" content="People who inspire me." />
+<meta property="og:description" content="People who inspire me." />
+<meta name="twitter:description" content="People who inspire me." />
+
+<meta property="og:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+<meta name="twitter:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@henning_witzel" />
 </head>
   <body basepath='###basepath###'></body>
   <div id='clearbutton'></div>

@@ -1,4 +1,16 @@
 <title>About Me · Henning Witzel</title>
+<meta property="og:title" content="About Me · Henning Witzel" />
+<meta name="twitter:title" content="About Me · Henning Witzel" />
+
+<meta name="description" content="I'm a 31 year old UX person that lives in Berlin." />
+<meta property="og:description" content="I'm a 31 year old UX person that lives in Berlin.">
+<meta name="twitter:description" content="I'm a 31 year old UX person that lives in Berlin." />
+
+<meta property="og:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+<meta name="twitter:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@henning_witzel" />
 </head>
   <body basepath='###basepath###'></body>
   <div id='clearbutton'></div>
@@ -98,7 +110,7 @@
             </div>
             <div class="position">
             <div class="dot"></div>
-              <p class="title">Web Design & Developlment</p>
+              <p class="title">Web Design & Development</p>
               <p class="date">April 2011 – October 2013 · 2.5 years</p>
               <p class="description">Shortly before finishing my bachelor's degree, I wanted to make something with my freshly gained knowledge. Luckily I wasn't the only one, and I found some colleagues with the same idea. We called ourselves Zebresel, started to make some money on the side and learned how to build something that solves customer problems.</p>
             </div>            

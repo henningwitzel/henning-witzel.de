@@ -1,4 +1,16 @@
 <title>Bookshelf · Henning Witzel</title>
+<meta property="og:title" content="Bookshelf · Henning Witzel" />
+<meta name="twitter:title" content="Bookshelf · Henning Witzel" />
+
+<meta name="description" content="A selection of some of my favourite books I read." />
+<meta property="og:description" content="A selection of some of my favourite books I read." />
+<meta name="twitter:description" content="A selection of some of my favourite books I read." />
+
+<meta property="og:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+<meta name="twitter:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@henning_witzel" />
 </head>
   <body basepath='###basepath###'></body>
   <div id='clearbutton'></div>
