@@ -1,7 +1,7 @@
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   #burgerbutton {
-    background: url('../img/burgerbtn@2x.png') no-repeat !important;
-    background-size: 24px 15px;
+    background: url('../img/burgerbtn@2x.png') no-repeat !important;    
+    background-size: cover !important;
   }
 }
 .transition {
