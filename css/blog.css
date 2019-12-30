@@ -30,3 +30,10 @@
         float: none !important;
     }    
 }
+
+.twitter-tweet
+{
+    margin: 0 auto;
+    margin-top: 16px !important;
+    margin-bottom: 32px !important;
+}
