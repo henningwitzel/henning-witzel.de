@@ -51,6 +51,6 @@ data_image_800='###basepath###img/header/basecamp-header-800.jpg' id='header'></
       <p>Recently we also signed up for <a href="https://miro.com/" target="_blank">Miro</a> to collaborate remotely in front of a digital whiteboard. The tool works great, but for every user that contributes, we have to pay extra and that sucks and reduces the adoption inside the engineering team.</p>
       <p>I'm a happy Basecamp customer and I'll keep going to adopt it at NewStore. If you are interested in more insights, let me know.</p>      
       </div>
-      <div class='clearfix'></div>
+    <div class='clearfix'></div>
   </div>
 </div>

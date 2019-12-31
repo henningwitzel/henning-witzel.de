@@ -110,6 +110,13 @@ i {
   font-style: italic;
 }
 
+b{
+  font-weight: bold !important;
+}
+
+sup {
+  vertical-align: super !important;
+}
 
 /* LINKS */
 

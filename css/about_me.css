@@ -46,11 +46,11 @@
 
 .about_me .position .dot
 {
-  margin-left: -48px;
+  margin-left: -52px;
   position: absolute;
-  margin-top: 8px;
+  margin-top: 4px;
   border-radius: 100px;
-  border: 2px solid #fff;;
+  border: 6px solid #fff;;
   background: #efefef;  
   width: 10px;
   height: 10px;
