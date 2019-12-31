@@ -80,7 +80,7 @@
                   <p class="date">March 2015 – May 2017 · 2.25 years</p>
                   <p class="description">Joining NewStore was a big opportunity for me: Move to Berlin, work for an international B2B company, communicate in English, and grow my skill set as a designer.</p>
                   <p class="description">My first job was a pure designer role without any coding. In collaboration with a Product Owner and two engineers, we researched, prototyped, and developed the <a href="https://www.newstore.com/omnichannel-insights/">Omnichannel Manager</a>.  The primary user is the customer support of a retailer while also a retail manager, and NewStore support have a use for it.</p>
-                  <p class="description">It was the first time I worked in a design team together with other designers and researchers. I learned a lot from <a href="https://www.linkedin.com/in/matbartsch/" target="_blank">Mathias <strike>Bartsch</strike> Kluge</a>, who helped me shift my focus from design aesthetics to problem-centered design. We were always in close collaboration while everyone had the design ownership of a specific product: User Research, Design Reviews, Usability Tests, Design Sprints and working with engineers became our daily business.</p>                  
+                  <p class="description">It was the first time I worked in a design team together with other designers and researchers. I learned a lot from Mathias <strike>Bartsch</strike> Kluge, who helped me shift my focus from design aesthetics to problem-centered design. We were always in close collaboration while everyone had the design ownership of a specific product: User Research, Design Reviews, Usability Tests, Design Sprints and working with engineers became our daily business.</p>                  
                 </div>            
               </div>
             
@@ -98,17 +98,13 @@
           </div>
           <div class='clearfix'></div>          
           <div class="positions">
-            <p class="about">Together with a team of computer scientists, I co-founded an agency called <a href="http://www.zebresel.com">Zebresel</a> with a focus on website- and app development while I was still studying. From 2011 until 2015, we planned, developed, and launched customer projects in Germany. In addition to project management, I focused on the user experience and user interface design. At the end of 2013, we started to develop products based on our ideas.
-</p>
+            <p class="about">Together with a team of computer scientists (Martin Gessert, Steven Lüttig & Kristof Friess), I founded an agency called <a href="http://www.zebresel.com">Zebresel</a> with a focus on website- and app development while we were still studying. From 2011 until 2015, we planned, developed, and launched customer projects in Germany. In addition to project management, I focused on the user experience and user interface design. At the end of 2013, we started to develop products based on our ideas.</p>
             <div class="position">
             <div class="dot"></div>
               <p class="title">Product Design</p>
               <p class="date">November 2013 – March 2015 · 1.5 years</p>
-              <p class="description">I loved doing design – it doesn't matter if it was a website, flyer, or an app. But it's not about how it looks like; it's how it feels. While still doing the design & development for customers, we also started building our products. I focused entirely on user experience design and user research. To my advantage, we always wanted to solve our own problems, and that made access to users and testing easier.</p>
-              
-              
+              <p class="description">I loved doing design – it doesn't matter if it was a website, flyer, or an app. But it's not about how it looks like; it's how it feels. While still doing the design & development for customers, we also started building our products. I focused entirely on user experience design and user research. To my advantage, we always wanted to solve our own problems, and that made access to users and testing easier.</p>                            
               <p class="description top-medium"><b>Signum<sup>+</sup></b> – The first product is a digital signage solution. It allows you to manage content for every kind of screen. With the usage of social media, we enabled our customers to engage with their guests during events. Together with a display solution partner, we were able to show off the power of the product at the Rock am Ring festival in Germany 2014. Learn more about it here <a href="http://www.signumplus.de">www.signumplus.de</a></p>
-              
               <p class="description top-medium"><b>Beamerlasershow</b> – The second product is an app that allows you to create a light-show and fascinate your guests wherever you want. We combined a video projector, artificial fog, and 2D animations with an iOS device. The app for iPhone and iPad allows you to create playlists with a big set of predefined animations. By allowing to touch and draw animations on the screen, the live mix mode unfolded your creativity. Learn more about it here <a href="http://www.beamerlasershow.de">www.beamerlasershow.de</a></p>
             </div>
             <div class="position">
