@@ -45,7 +45,7 @@
         <div class="details">
           <h3><a href="#manson">The Subtle Art of Not Giving a F*ck</a></h3>
           <h5 class="grey bottom-medium">Book by Mark Manson · 2016</h5>
-          <p>In it Manson argues that life's struggles give it meaning, and that the mindless positivity of typical self-help books is neither practical nor helpful.</p>
+          <p>There are not many books that influenced some of my core philosophies and values like this one. My biggest takeaway is that there are only so many things we can give a f**k about, so we need to figure out which ones really matter. Don't base your happiness on values that are superstitious, socially destructive, and not controllable. Relying on external events that are outside of your control doesn't make you happy. Base them on things like honesty, self-respect, curiosity, or standing up for oneself and others. They can be achieved internally and opens your mind in a certain way to experience it. </p>
           <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
