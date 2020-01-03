@@ -33,8 +33,8 @@
     </div>
      ###menu###
     <div class='content books'>      
-      <h1>Books</h1>
-      <h4 class="grey bottom-large">A selection of some of my favourite books I read.</h4>
+      <h1>Bookshelf</h1>
+      <h4 class="grey bottom-large">A selection of some of my favourite books.</h4>
       <br />      
       <div id="manson" class="book">
         <div class="cover">
@@ -46,7 +46,7 @@
           <h3><a href="#manson">The Subtle Art of Not Giving a F*ck</a></h3>
           <h5 class="grey bottom-medium">Book by Mark Manson · 2016</h5>
           <p>Mark Manson's book influenced some of my core philosophies and values. He says that there are only so many things we can give a fuck about, so we need to figure out which ones really matter. Most of us struggle throughout our lives by giving too many fucks in situations where fucks do not deserve to be given.</p>
-          <p>What stuck with me is that you shouldn't base your happiness on values that are superstitious, socially destructive, and not controllable. Relying on external events that are outside of your control doesn't make you happy. Real-life stories like the one from Dave Mustaine or Pete Best make a good point. Base your values on things like honesty, self-respect, curiosity, or standing up for oneself and others. They can be achieved internally and opens your mind in a certain way to experience it.</p>
+          <p class="bottom-large"><i>What stuck with me</i> is that you shouldn't base your happiness on values that are superstitious, socially destructive, and not controllable. Relying on external events that are outside of your control doesn't make you happy. Real-life stories like the one from Dave Mustaine or Pete Best make a good point. Base your values on things like honesty, self-respect, curiosity, or standing up for oneself and others. They can be achieved internally and opens your mind in a certain way to experience it.</p>
           <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
@@ -60,8 +60,9 @@
           </div>
         <div class="details">
           <h3><a href="#creativity">Creativity, Inc</a></h3>
-          <h5 class="grey bottom-medium">Book by by Amy Wallace and Edwin Catmull · 2014</h5>
-          <p>Overcoming the Unseen Forces That Stand in the Way of True Inspiration is a 2014 book, written by Amy Wallace and Edwin Catmull, about managing creativity.</p>
+          <h5 class="grey bottom-small">Book by by Amy Wallace and Edwin Catmull · 2014</h5>
+          <p>I’m a big fan of Pixar, and I’ve always wondered how they been able to create so many fantastic movies over the years? Movies like Toy Story, Finding Nemo, WALL-E, Cars, Monsters Inc., Ratatouille. In this book, Ed answers the question, and you can learn about their growth and how they found a way to manage creativity. For me, it’s a must-read for product designers, managers, and artists that want to invent and create new products.</p>
+          <p class="bottom-large"><i>What stuck with me</i> is the concept of the Braintrust. To achieve a certain level of honesty, they created a group of trusted colleagues that review the progress of a film that is in development. It’s an environment where honesty is possible; directors and creative teams can give and receive direct and constructive feedback to each other. According to Ed, the job of the Braintrust is to <i>“push towards excellence, and root out mediocrity.”</i> If I made you curious here two articles that go more into detail. The first one talks about <a href="https://www.goodreads.com/book/show/18077903-creativity-inc" target="_blank">lessons you can learn </a> from the Braintrust and second one about <a href="https://www.goodreads.com/book/show/18077903-creativity-inc" target="_blank">why it’s important</a> for a creative culture.</p>
           <a href="https://www.goodreads.com/book/show/18077903-creativity-inc" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
@@ -81,8 +82,8 @@
     </div>
     <div id="sapines" class="book">
         <div class="cover">
-          <a href="https://www.goodreads.com/book/show/23692271-sapiens">
-            <image src="https://images-eu.ssl-images-amazon.com/images/I/41yu2qXhXXL.jpg" target="_blank"></div>
+          <a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank">
+            <image src="https://images-eu.ssl-images-amazon.com/images/I/41yu2qXhXXL.jpg"></div>
           </a>
         <div class="details">
           <h3><a href="#sapines">Sapiens</a></h3>
