@@ -35,17 +35,16 @@ Yamba</a> · Australia 2019</div></div>
       <h1>Blog</h1>
       <h4 class="grey bottom-extra-large">An independent home for all my thoughts and ideas.</h4>
       <div class="post">
+        <h3><a href="###basepath######page###/productivity">Improve your productivity</a></h3>
+        <h5 class="grey bottom-small">January 3rd, 2020</h5> 
+        <p>When I joined NewStore five years ago I had no idea what it means to have a calendar that feels like a school timetable or an email inbox with 200 unread mails overnight. Real time chat tools... <a href="###basepath######page###/productivity">keep reading</a></p>           
+      </div>   
+      <div class="post">
         <h3><a href="###basepath######page###/basecamp">Basecamp at NewStore</a></h3>
         <h5 class="grey bottom-small">November 27th, 2019</h5>
         <p>A month ago, I listened to the latest episode of the podcast about Basecamp Personal, and I wanted to share how I introduced Basecamp at NewStore. I was one of the people who used... <a href="###basepath######page###/basecamp">keep reading</a></p>    
-      </div>
+      </div>   
       <!--<div class="post">
-        <h3>Supply vs. Demand</h3>
-        <h5 class="grey bottom-small">November 27th, 2019</h5> 
-        <p>Why a product’s position is the most important thing a company should focus on? Without a clear point of view on what makes a product different, it’s easy to wander. New feature requests come in every day, and if you can’t say “no”, who knows where on the map you’ll land.  </p>
-        <a href="###basepath######page###/basecamp">Read more...</a>
-      </div>      
-      <div class="post">
         <h3>Beyond The UX Tipping Point</h3>
         <h5 class="grey bottom-small">November 27th, 2019</h5>
         <p>For the longest time, making a great experience for the user was a business-strategy luxury item. A great product only had to work and ship. A great experience was a nice-to-have, not a requirement. Times have changed.</p>
