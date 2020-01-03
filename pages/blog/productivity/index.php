@@ -1,6 +1,6 @@
-<title>Basecamp at NewStore · Henning Witzel</title>
-<meta property="og:title" content="Improve your productivity · Henning Witzel" />
-<meta name="twitter:title" content="Improve your productivity · Henning Witzel" />
+<title>Productivity at Work · Henning Witzel</title>
+<meta property="og:title" content="Productivity at Work · Henning Witzel" />
+<meta name="twitter:title" content="Productivity at Work · Henning Witzel" />
 
 <meta name="description" content="When I joined NewStore five years ago, I had no idea what it means to have a calendar that feels like a school timetable or an email inbox with 200 unread mails overnight." />
 <meta property="og:description" content="When I joined NewStore five years ago, I had no idea what it means to have a calendar that feels like a school timetable or an email inbox with 200 unread mails overnight." />
@@ -29,7 +29,7 @@ data_image_800='###basepath###img/header/blog-header-800.jpg' id='header'></div>
     </div>
      ###menu###
     <div class='content'>          
-      <h1>Improve your productivity</h1>
+      <h1>Productivity at Work</h1>
       <h4 class="grey bottom-large">January 3rd, 2020 · 2 min read</h4>      
       <p>When I joined <a href="###basepath###/about_me#newstore">NewStore five years ago</a>, I had no idea what it means to have a calendar that feels like a school timetable or an email inbox with 200 unread mails overnight. Real-time chat tools like Slack made it possible for everybody to reach out to me and interrupt whenever they think it's necessary. In the beginning, I thought I need to be responsive to everybody to not seem rude or unproductive – but actually, I started to feel unproductive.</p>
 
@@ -39,7 +39,7 @@ data_image_800='###basepath###img/header/blog-header-800.jpg' id='header'></div>
 
         <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/jason_fried_why_work_doesn_t_happen_at_work" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
-      <h3 class="top-extra-large bottom-small">Become the master of your calendar</h3>
+      <h3 class="top-extra-large bottom-small">Regain control of your calendar</h3>
 <p>Finding a time slot in someone's calendar is easy. I can just drag and drop in a meeting and book their time. <i>Did I consider that this person maybe wants to get some work done?</i> No, not at all. <i>Should I invite Andy as well, since he might know something about it?</i> Yeah, let's check his calendar. It was never easier to schedule something - thanks, Google!</p>
 
 <p>This easiness comes with a cost: you're not in control anymore of your own time. I wanted to change that and started an experiment.</p>
