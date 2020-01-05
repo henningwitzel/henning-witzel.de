@@ -76,6 +76,7 @@
           <h3><a href="#happiness">Delivering Happiness</a></h3>
           <h5 class="grey bottom-medium">Book by Tony Hsieh · 2010</h5>
           <p>Delivering Happiness is a book by Zappos CEO Tony Hsieh. It details his life as an entrepreneur, with emphasis on the founding of LinkExchange and Zappos.</p>
+          <p>What I like about that book and an invidiual description will follow soon.</p>
           <a href="https://www.goodreads.com/book/show/6828896-delivering-happiness" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
@@ -89,6 +90,7 @@
           <h3><a href="#sapines">Sapiens</a></h3>
           <h5 class="grey bottom-medium">Book by Yuval Noah Harari · 2011</h5>
           <p>The book surveys the history of humankind from the evolution of archaic human species in the Stone Age up to the twenty-first century, focusing on Homo sapiens.</p>
+          <p>What I like about that book and an invidiual description will follow soon.</p>
           <a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
@@ -101,7 +103,8 @@
         <div class="details">
           <h3><a href="#remote">Remote</a></h3>
           <h5 class="grey bottom-medium">Book by Jason Fried and David Heinemeier Hansson · 2013</h5>
-          <p>In this book, Jason Fried and David Heinemeier Hansson show both employers and employees how they can work together, remotely, from any desk, in any</p>
+          <p>In this book, Jason Fried and David Heinemeier Hansson show both employers and employees how they can work together, remotely, from any desk, in any location.</p>
+          <p>What I like about that book and an invidiual description will follow soon.</p>
           <a href="https://www.goodreads.com/book/show/17316682-remote" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
@@ -115,6 +118,7 @@
           <h3><a href="#crazy">It Doesn't Have to Be Crazy at Work</a></h3>
           <h5 class="grey bottom-medium">Book by Jason Fried and David Heinemeier Hansson · 2018</h5>
           <p>In this timely manifesto, the authors of the New York Times bestseller Rework broadly reject the prevailing notion that long hours, aggressive hustle, and "whatever it takes" are required to run a successful business today.</p>
+          <p>What I like about that book and an invidiual description will follow soon.</p>
           <a href="https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
@@ -128,6 +132,7 @@
           <h3><a href="#writing">On Writing Well</a></h3>
           <h5 class="grey bottom-medium">Book by William Zinsser · 1976</h5>
           <p>On Writing Well has been praised for its sound advice, its clarity and the warmth of its style. It is a book for everybody who wants to learn how to write or who needs to do some writing to get through the day, as almost everybody does in the age of e-mail and the Internet.</p>
+          <p>What I like about that book and an invidiual description will follow soon.</p>
           <a href="https://www.goodreads.com/book/show/53343.On_Writing_Well" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
@@ -141,6 +146,7 @@
           <h3><a href="#shapeup">Shape Up</a></h3>
           <h5 class="grey bottom-medium">Book by Ryan Singer · 2019</h5>
           <p>This is an online web book about how Basecamp does their work. This book is a guide to how we do product development at Basecamp. It’s also a toolbox full of techniques that you can apply in your own way to your own process.</p>
+          <p>What I like about that book and an invidiual description will follow soon.</p>
           <a href="https://basecamp.com/shapeup" target="_blank">Start reading!</a>
         </div>
         <div class='clearfix'></div>
