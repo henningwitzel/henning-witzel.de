@@ -37,7 +37,7 @@
      ###menu###
     <div class='content about_me'>            
         <h1>About Me</h1>
-        <h4 class="grey bottom-large">I'm a 31 year old UX person that lives in Berlin.</h4>
+        <h4 class="grey bottom-large">I'm a 31 year old UX Designer that lives in Berlin.</h4>
         <p class="bottom-extra-large">My name is Henning, I'm the Head of Product Design at <a href="http://www.newstore.com">NewStore</a> with a background in computer since. I currently live and work in Berlin. </p>
         
         <div class="working">
