@@ -35,8 +35,28 @@ Huế</a> · Vietnam 2019</div></div>
      ###menu###
     <div class='content podcasts'>      
         <h1>Podcasts</h1>
-        <h4 class="grey bottom-large">A selection of some of my favourite podcasts I listened to.</h4>
+        <h4 class="grey bottom-large">A selection of some of my favourite podcasts I recently listened to.</h4>
         <br />
+        <div class="podcast">
+          <div class="left"><a href="http://www.peterattiamd.com/" target="_blank"><img src="https://static.pocketcasts.com/discover/images/400/dc8b3d00-56bc-0136-fa7c-0fe84b59566d.jpg" /></a></div>
+          <div class="right">
+            <h3>Jason Fried: Optimizing efficiency and work-life balance</h3>
+            <h5 class="grey bottom-small">October 7th, 2019</h5>
+            <p>I really enjoyed the 2,5 hours long converstaion bewteen Peter Attia and Jason Fried, co-founder of Basecamp. They spoke about achieving business success in a modern world, aspects of work-life balance and what it really means to “work hard”. If you are interested in Jason you will learn something about his backstory and the creation of Basecamp. </p>
+            <audio preload="none" controls>  
+              <source src="http://traffic.libsyn.com/peterattiadrive/EP.74_-_Jason_Fried_FINAL.mp3?dest-id=713489" type="audio/mpeg" preload="none">
+              Your browser does not support the audio element.
+            </audio> 
+            <div class="top-small link">
+              <div class="logo-left">
+                <img width="20px" src="https://pbs.twimg.com/profile_images/1062998714455744512/rDpTZ7Rk_400x400.jpg"/>
+              </div>
+              <div class="link-right"><a href="https://pca.st/44c3fpy2" target="_blank">Listen on Pocket Cast </a>
+            </div>
+          </div>
+        </div>
+        <div class='clearfix'></div>
+        </div>
         <div class="podcast">
           <div class="left"><a href="https://changelog.com/" target="_blank"><img src="https://static.pocketcasts.com/discover/images/400/70d13d50-9efe-0130-1b90-723c91aeae46.jpg" /></a></div>
           <div class="right">
@@ -61,8 +81,8 @@ Huế</a> · Vietnam 2019</div></div>
           <div class="left"><a href="https://soundcloud.com/larochefm" target="_blank"><img src="https://static.pocketcasts.com/discover/images/400/7445db60-aab7-0135-9e5b-5bb073f92b78.jpg" /></a></div>
           <dic class="right">
             <h3>How consistent writing makes you a better designer</h3>
-            <h5 class="grey bottom-small">21st October 2019</h5>
-            <p>In previous episode we discussed 5 most important skills a designer must have. One of them was communication skills, but I did not discuss how to develop them. And one way is writing.</p>          
+            <h5 class="grey bottom-small">October 21st, 2019</h5>
+            <p>If you are a designer and want to become better in what you do, then start writing. In this episode, Eugeniu is talking about how consistent writing will help. To be honest, I never was much of a writer. When this website was only about my photography, I was not too fond of writing a text to each post. Even writing my Bachelor's and Master's thesis wasn't always fun. My native language is German, and it took me some time to became more fluent in English writing. Like often in life, things change. I realized how much writing helped me structure my thoughts, communicate more explicit, and help others to grow.</p>
             <audio preload="none" controls>  
               <source src="http://feeds.soundcloud.com/stream/699462082-larochefm-ep48.mp3" type="audio/mpeg" >
               Your browser does not support the audio element.
