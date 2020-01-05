@@ -208,7 +208,7 @@ sup {
   border-bottom: solid 1px white;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1024px) {
   .image-location
   {
     display: none;

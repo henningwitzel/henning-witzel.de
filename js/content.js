@@ -5,7 +5,7 @@ $(document).ready(function() {
 
   
   function setWaypoints() {
-    if( windowWidth > 800 )
+    if( windowWidth > 1024 )
     {
       $('#clearbutton').waypoint(function(direction) {
         $('#menu').removeClass('sticky');
@@ -28,7 +28,7 @@ $(document).ready(function() {
   $window.resize(function (){
     windowWidth = $window.width();
 
-    if( windowWidth < 800 )
+    if( windowWidth < 1024 )
     {
       $('#menu').css('display', 'none');
       $('#menu').removeClass('sticky');
