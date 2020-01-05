@@ -35,9 +35,9 @@ Yamba</a> · Australia 2019</div></div>
       <h1>Blog</h1>
       <h4 class="grey bottom-extra-large">An independent home for all my thoughts and ideas.</h4>
       <div class="post">
-        <h3><a href="###basepath######page###/productivity">Productivity at Work</a></h3>
-        <h5 class="grey bottom-small">January 3rd, 2020</h5> 
-        <p>When I joined NewStore five years ago I had no idea what it means to have a calendar that feels like a school timetable or an email inbox with 200 unread mails overnight. Real time chat tools... <a href="###basepath######page###/productivity">keep reading</a></p>           
+        <h3><a href="###basepath######page###/productivity">Become productive again</a></h3>
+        <h5 class="grey bottom-small">January 5th, 2020</h5> 
+        <p>When I joined NewStore five years ago I had no idea what it means to have a calendar that feels like a school timetable or an email inbox with 200 unread mails overnight. Chat tools... <a href="###basepath######page###/productivity">keep reading</a></p>           
       </div>   
       <div class="post">
         <h3><a href="###basepath######page###/basecamp">Basecamp at NewStore</a></h3>
