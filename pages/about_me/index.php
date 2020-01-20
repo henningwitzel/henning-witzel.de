@@ -51,7 +51,7 @@
           <div class="right">
             <div class="details">
               <p class="title" id="newstore">NewStore</p>
-              <p class="time">4 years and 10 months · Berlin </p>              
+              <p class="time">4 years and 11 months · Berlin </p>              
           </div>
           </div>
           <div class='clearfix'></div>           
