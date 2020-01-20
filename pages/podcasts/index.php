@@ -42,7 +42,7 @@ Huế</a> · Vietnam 2019</div></div>
           <div class="right">
             <h3>Jason Fried: Optimizing efficiency and work-life balance</h3>
             <h5 class="grey bottom-small">October 7th, 2019</h5>
-            <p>I really enjoyed the 2,5 hours long converstaion bewteen Peter Attia and Jason Fried, co-founder of Basecamp. They spoke about achieving business success in a modern world, aspects of work-life balance and what it really means to “work hard”. If you are interested in Jason you will learn something about his backstory and the creation of Basecamp. </p>
+            <p>I really enjoyed the 2,5 hours long conversation between Peter Attia and Jason Fried, co-founder of Basecamp. They spoke about achieving business success in a modern world, aspects of work-life balance, and what it means to “work hard”. If you are interested in Jason, you will learn something about his backstory and the creation of Basecamp.</p>
             <audio preload="none" controls>  
               <source src="http://traffic.libsyn.com/peterattiadrive/EP.74_-_Jason_Fried_FINAL.mp3?dest-id=713489" type="audio/mpeg" preload="none">
               Your browser does not support the audio element.
