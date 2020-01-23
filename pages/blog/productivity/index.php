@@ -52,7 +52,9 @@
       
       <a class="image-link" href="###basepath###pages/blog/productivity/images/calendar.png"><img src="###basepath###pages/blog/productivity/images/calendar.png" /></a>
       
-      <p>After some weeks, I regained some control back. The working blocks helped me to focus and get work done. Naming them by the number of available hours gave me a good indication of how much time I have. Some people told me they can't book any meetings with me anymore since my calendar is always full. <i>Well, sure, you can. Just speak to me upfront, let me know the purpose, and I'll make time for you! </i>Most of the time, a meeting isn't even necessary, and it should be the last resort anyway.</p>
+      <p>After some weeks, I regained some control back. The working blocks helped me to focus and get work done. Naming them by the number of available hours gave me a good indication of how much time I have. Some people told me they can't book any meetings with me anymore since my calendar is always full. <i>Well, sure, you can. Just speak to me upfront, let me know the purpose, and I'll make time for you! </i>Most of the time, a meeting isn't even necessary, and it should be the last resort anyway. Below you can see two examples from Slack where people from my team tried to book time - it worked!</p>
+      
+      <a class="image-link" href="###basepath###pages/blog/productivity/images/response-examples.png"><img src="###basepath###pages/blog/productivity/images/response-examples.png" /></a>    
 
       <p>There are still people who ignored the working blocks and put meetings up. Every time some did that, I checked if there is a description or agenda. If not, I declined politely and asked them why do they want to meet. Some colleagues became more aware and respected the working blocks. At least they didn't put a meeting in the middle of the 4-hour block and instead tried the beginning or the end – I appreciated that!</p>
       
