@@ -51,7 +51,7 @@
           <div class="right">
             <div class="details">
               <p class="title" id="newstore">NewStore</p>
-              <p class="time">4 years and 11 months · Berlin </p>              
+              <p class="time">5 years · Berlin </p>              
           </div>
           </div>
           <div class='clearfix'></div>           
@@ -62,7 +62,7 @@
             <div class="position">
                   <div class="dot"></div>
                   <p class="title">Head of Product Design</p>
-                  <p class="date">April 2018 – Present · 1.75 years</p>
+                  <p class="date">April 2018 – Present · 1 year 11 months</p>
                   <p class="description">As the Head of Product Design, I took the responsibility to lead the product design team, drive the UX strategy and the product design process. </p>
                   <p class="description">On a daily basis, we are working hands-on doing design jobs, user research, and prototyping efforts. When it comes to supporting development, we either embedded in an engineering team or offer UX-as-a-Service. </p>
                   <p class="description">In close collaboration with product management, customer success, and engineering, our shared experience vision is to challenge the old assumptions of existing retail technology and antiquated in-store practices with an intuitive experience for retailers and customers that brings joy back to the shopping experience.</p>
@@ -77,7 +77,7 @@
                 <div class="position">
                 <div class="dot"></div>
                   <p class="title">Product Desginer</p>
-                  <p class="date">March 2015 – May 2017 · 2.25 years</p>
+                  <p class="date">March 2015 – May 2017 · 2 years 3 months</p>
                   <p class="description">Joining NewStore was a big opportunity for me: Move to Berlin, work for an international B2B company, communicate in English, and grow my skill set as a designer.</p>
                   <p class="description">My first job was a pure designer role without any coding. In collaboration with a Product Owner and two engineers, we researched, prototyped, and developed the <a href="https://www.newstore.com/omnichannel-insights/">Omnichannel Manager</a>.  The primary user is the customer support of a retailer while also a retail manager, and NewStore support have a use for it.</p>
                   <p class="description">It was the first time I worked in a design team together with other designers and researchers. I learned a lot from Mathias <strike>Bartsch</strike> Kluge, who helped me shift my focus from design aesthetics to problem-centered design. We were always in close collaboration while everyone had the design ownership of a specific product: User Research, Design Reviews, Usability Tests, Design Sprints and working with engineers became our daily business.</p>                  
@@ -101,7 +101,7 @@
             <p class="about">Together with a team of computer scientists (Martin Gessert, Steven Lüttig & Kristof Friess), I founded an agency called <a href="http://www.zebresel.com">Zebresel</a> with a focus on website- and app development while we were still studying. From 2011 until 2015, we planned, developed, and launched customer projects in Germany. In addition to project management, I focused on the user experience and user interface design. At the end of 2013, we started to develop products based on our ideas.</p>
             <div class="position">
             <div class="dot"></div>
-              <p class="title">Product Design</p>
+              <p class="title">UX & UI Design</p>
               <p class="date">November 2013 – March 2015 · 1.5 years</p>
               <p class="description">I loved doing design – it doesn't matter if it was a website, flyer, or an app. But it's not about how it looks like; it's how it feels. While still doing the design & development for customers, we also started building our products. I focused entirely on user experience design and user research. To my advantage, we always wanted to solve our own problems, and that made access to users and testing easier.</p>                            
               <p class="description top-medium"><b>Signum<sup>+</sup></b> – The first product is a digital signage solution. It allows you to manage content for every kind of screen. With the usage of social media, we enabled our customers to engage with their guests during events. Together with a display solution partner, we were able to show off the power of the product at the Rock am Ring festival in Germany 2014. Learn more about it here <a href="http://www.signumplus.de">www.signumplus.de</a></p>
