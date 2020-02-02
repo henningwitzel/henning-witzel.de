@@ -4,6 +4,14 @@
 // RewriteCond %{HTTP_HOST} !^www\.
 // RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 
+$server = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http");
+
+if($server == "https")
+{
+  header("Location: http://www.henning-witzel.de/");
+  die();
+}
+
 header("Content-Type: text/html; charset=utf-8");
 
 if( isset( $_GET['page']) && !empty($_GET['page']) ) $_page = htmlspecialchars($_GET['page']);
