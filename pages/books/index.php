@@ -35,7 +35,56 @@
     <div class='content books'>      
       <h1>Bookshelf</h1>
       <h4 class="grey bottom-large">A selection of some of my favourite books.</h4>
-      <br />      
+      <br />  
+      <div id="ship" class="book">
+        <div class="cover">
+          <a href="https://www.davidmarquet.com/" target="_blank">
+            <image src="https://images-eu.ssl-images-amazon.com/images/I/51inQ8o4t9L.jpg">
+          </a>
+        </div>
+        <div class="details">
+          <h3><a href="#ship">Turn the Ship Around! A True Story of Turning Followers into Leaders</a></h3>
+          <h5 class="grey bottom-medium">Book by L. David Marquet · 2013</h5>
+          <p>I used to compare working in a software company like being on a ship. Everyone on board needs to know where we are heading. Each team has responsibility for a specific area and, at the same time, requires to function with others – it doesn't matter if you control the engines or work the kitchen.</p>
+          <p>Sometimes we get feedback that the ship is not fast enough. Sometimes people try to take a motorboat to go ahead while ending up coming back at some point. Who is making strategic decisions? Who is actually on the steering wheel? Is it one person that determines everything, and do we all have to follow? When I found this book, I was curious about the story of how David Marquet and 134 others overcame their challenges by actually being together on a submarine.</p>          
+          <p>Turn the Ship Around! is the true story of how the Santa Fe skyrocketed from worst to first in the fleet by challenging the U.S. Navy's traditional leader-follower approach. Struggling against his own instincts to take control, he instead achieved the vastly more powerful model of giving control.</p>          
+          <p>
+          <p>More on <a href="https://www.davidmarquet.com/" target="_blank">www.davidmarquet.com</a></p>
+        </div>
+        <div class='clearfix'></div>
+    </div>
+
+    <div id="mom" class="book">
+        <div class="cover">
+          <a href="www.momtestbook.com" target="_blank">
+            <image src="https://images-eu.ssl-images-amazon.com/images/I/41xXPYLVw1L.jpg">
+          </a>
+        </div>
+        <div class="details">
+          <h3><a href="#mom">The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you</a></h3>
+          <h5 class="grey bottom-medium">Book by Rob Fitzpatrick · 2013</h5>
+          <p>Talking to customers is one of the foundational skills of both Customer Development and Lean Startup. We all know we're supposed to do it, but nobody seems willing to admit that it's easy to screw up and hard to do right. Many of us even do talk to customers. But we still end up building stuff nobody buys or uses. </p><p>Learning how to ask the "right" questions to ascertain whether there is real customer pain is key. This book is going to show you how customer conversations go wrong and how you can do better.</p>          
+          <p>More on <a href="hhttp://momtestbook.com/" target="_blank">www.momtestbook.com</a></p>
+        </div>
+        <div class='clearfix'></div>
+    </div>
+
+    <div id="boss" class="book">
+        <div class="cover">
+          <a href="https://williamgentryleads.com/be-the-boss-everyone-wants-to-work-for/" target="_blank">
+            <image src="https://images-eu.ssl-images-amazon.com/images/I/51YARTonlUL.jpg">
+          </a>
+        </div>
+        <div class="details">
+          <h3><a href="#boss">Be the Boss Everyone Wants to Work For: A Guide for New Leaders</a></h3>
+          <h5 class="grey bottom-medium">Book by William A. Gentry · 2016</h5>
+          <p>You’ve been promoted to leadership—congratulations! But it’s nothing like your old job, is it? William Gentry says it’s time to flip your script.</p>
+          <p>We all have mental scripts that tell us how the world works. Your old script was all about “me”: standing out as an individual. But as a new leader, you need to flip your script from “me” to “we” and help the group you lead succeed. In this book, Gentry supports and coaches you to flip your script in six key areas. He offers actionable, practical, evidence-based advice and examples drawn from his research, his work with leaders, and his own failures and triumphs of becoming a new leader. Get started flipping your script and become the kind of boss everyone wants to work for.</p>          
+          <p>More on <a href="https://williamgentryleads.com/be-the-boss-everyone-wants-to-work-for/" target="_blank">www.williamgentryleads.com</a></p>
+        </div>
+        <div class='clearfix'></div>
+    </div>
+
       <div id="manson" class="book">
         <div class="cover">
           <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck" target="_blank">
