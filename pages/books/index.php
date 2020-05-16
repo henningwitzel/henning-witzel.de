@@ -21,8 +21,6 @@
   data_image_1920='###basepath###img/header/###page###-header-1920.jpg' 
   data_image_800='###basepath###img/header/###page###-header-800.jpg' 
   id='header'>
-  <div class="image-location"><a href="https://www.google.com/maps?q=state+library+of+victoria&rlz=1C5CHFA_enDE851DE851&um=1&ie=UTF-8&sa=X&ved=2ahUKEwipjPbog93mAhVMDOwKHb41CgwQ_AUoAXoECAsQAw" target="_blank">
-  State Library of Victoria, Melbourne</a> · Australia 2019</div>
 </div>
 <div class='text' id='background'>
   <div id='wrapper'>
@@ -34,9 +32,70 @@
      ###menu###
     <div class='content books'>      
       <h1>Bookshelf</h1>
-      <h4 class="grey bottom-large">A selection of some of my favourite books.</h4>
-      <br />  
-      <div id="ship" class="book">
+      <h4 class="grey bottom-large">A selection of some of my favourite books that I recommend to read.</h4> 
+      <br />
+      <div class="overview">
+        <div class="book-link">
+            <a href="#ship">
+              <image src="https://images-eu.ssl-images-amazon.com/images/I/51inQ8o4t9L.jpg">
+            </a>
+          </div>
+          <div class="book-link">
+            <a href="#mom">
+              <image src="https://images-eu.ssl-images-amazon.com/images/I/41xXPYLVw1L.jpg">
+            </a></div>
+          <div class="book-link">
+            <a href="#boss">
+              <image src="https://images-eu.ssl-images-amazon.com/images/I/51YARTonlUL.jpg">
+            </a>
+          </div>
+          <div class="book-link">
+            <a href="#manson">
+              <image src="https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg">
+            </a>
+          </div>
+          <div class="book-link">
+            <a href="#creativity">
+              <image src="https://images-na.ssl-images-amazon.com/images/I/41NR3XoAdxL.jpg">
+            </a></div>
+          <div class="book-link">
+            <a href="#happiness">
+              <image src="https://dynamic.indigoimages.ca/books/0446576220.jpg?altimages=false&scaleup=true&width=614&maxheight=614&quality=85&lang=en">
+            </a>
+          </div>
+          <div class="book-link">
+            <a href="#sapiens">
+              <image src="https://images-eu.ssl-images-amazon.com/images/I/41yu2qXhXXL.jpg">
+            </a>
+          </div>
+          <div class="book-link">
+            <a href="#remote">
+              <image src="https://basecamp.com/assets/books/remote/remote-cover-aadeb20bf72bc28d49a49d2433e731d36c8a255f9d496880a5224e1ce0006577.png">
+            </a></div>
+          <div class="book-link">
+            <a href="#crazy">
+              <image src="https://images-eu.ssl-images-amazon.com/images/I/51nepS2j-UL.jpg">
+            </a>
+          </div>
+          <div class="book-link">
+            <a href="#">
+              <image src="https://images-na.ssl-images-amazon.com/images/I/610AIYRtaDL.jpg">
+            </a>
+          </div>
+          <div class="book-link">
+            <a href="#shapeup">
+              <image src="https://miro.medium.com/max/500/1*77mgyQKo9DHom4hqXGc3ww.jpeg">
+            </a></div>
+          <div class="book-link">
+            <a href="#">
+              <image src="">
+            </a>
+          </div>
+          <div class='clearfix'></div>      
+      </div>
+      <div id="ship"></div>
+      <div class="line"></div>
+      <div class="book">
         <div class="cover">
           <a href="https://www.davidmarquet.com/" target="_blank">
             <image src="https://images-eu.ssl-images-amazon.com/images/I/51inQ8o4t9L.jpg">
@@ -52,9 +111,10 @@
           <p>More on <a href="https://www.davidmarquet.com/" target="_blank">www.davidmarquet.com</a></p>
         </div>
         <div class='clearfix'></div>
+        <div id="mom"></div>
     </div>
-
-    <div id="mom" class="book">
+    
+    <div class="book">
         <div class="cover">
           <a href="www.momtestbook.com" target="_blank">
             <image src="https://images-eu.ssl-images-amazon.com/images/I/41xXPYLVw1L.jpg">
@@ -67,9 +127,10 @@
           <p>More on <a href="hhttp://momtestbook.com/" target="_blank">www.momtestbook.com</a></p>
         </div>
         <div class='clearfix'></div>
+        <div id="boss"></div>
     </div>
 
-    <div id="boss" class="book">
+    <div class="book">
         <div class="cover">
           <a href="https://williamgentryleads.com/be-the-boss-everyone-wants-to-work-for/" target="_blank">
             <image src="https://images-eu.ssl-images-amazon.com/images/I/51YARTonlUL.jpg">
@@ -83,9 +144,10 @@
           <p>More on <a href="https://williamgentryleads.com/be-the-boss-everyone-wants-to-work-for/" target="_blank">www.williamgentryleads.com</a></p>
         </div>
         <div class='clearfix'></div>
+        <div id="manson"></div>
     </div>
 
-      <div id="manson" class="book">
+      <div class="book">
         <div class="cover">
           <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck" target="_blank">
             <image src="https://images-na.ssl-images-amazon.com/images/I/71QKQ9mwV7L.jpg">
@@ -99,9 +161,10 @@
           <a href="https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
+        <div id="creativity"></div>
     </div>
     
-    <div id="creativity" class="book">
+    <div class="book">
         <div class="cover">
           <a href="https://www.goodreads.com/book/show/18077903-creativity-inc" target="_blank">
               <image src="https://images-na.ssl-images-amazon.com/images/I/41NR3XoAdxL.jpg">
@@ -115,8 +178,9 @@
           <a href="https://www.goodreads.com/book/show/18077903-creativity-inc" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
+        <div id="mhappinessom"></div>
     </div>    
-    <div id="happiness" class="book">
+    <div class="book">
         <div class="cover">
           <a href="https://www.goodreads.com/book/show/6828896-delivering-happiness" target="_blank">
             <image src="https://dynamic.indigoimages.ca/books/0446576220.jpg?altimages=false&scaleup=true&width=614&maxheight=614&quality=85&lang=en"></div>
@@ -129,8 +193,9 @@
           <a href="https://www.goodreads.com/book/show/6828896-delivering-happiness" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
+        <div id="sapines"></div>
     </div>
-    <div id="sapines" class="book">
+    <div class="book">
         <div class="cover">
           <a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank">
             <image src="https://images-eu.ssl-images-amazon.com/images/I/41yu2qXhXXL.jpg"></div>
@@ -143,8 +208,9 @@
           <a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
+        <div id="remote"></div>
     </div>
-    <div id="remote" class="book">
+    <div class="book">
         <div class="cover">
           <a href="https://www.goodreads.com/book/show/17316682-remote" target="_blank">
             <image src="https://basecamp.com/assets/books/remote/remote-cover-aadeb20bf72bc28d49a49d2433e731d36c8a255f9d496880a5224e1ce0006577.png"></div>
@@ -157,8 +223,9 @@
           <a href="https://www.goodreads.com/book/show/17316682-remote" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
+        <div id="crazy"></div>
     </div>
-    <div id="crazy" class="book">
+    <div class="book">
         <div class="cover">
           <a href="https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work" target="_blank">
             <image src="https://images-eu.ssl-images-amazon.com/images/I/51nepS2j-UL.jpg"></div>
@@ -171,8 +238,9 @@
           <a href="https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
+        <div id="writing"></div>
     </div>
-    <div id="writing" class="book">
+    <div class="book">
         <div class="cover">
           <a href="https://www.goodreads.com/book/show/53343.On_Writing_Well" target="_blank">
             <image src="https://images-na.ssl-images-amazon.com/images/I/610AIYRtaDL.jpg"></div>
@@ -185,8 +253,9 @@
           <a href="https://www.goodreads.com/book/show/53343.On_Writing_Well" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
+        <div id="shapeup"></div>
     </div>
-    <div id="shapeup" class="book">
+    <div class="book">
         <div class="cover">
           <a href="https://basecamp.com/shapeup" target="_blank">
             <image src="https://miro.medium.com/max/500/1*77mgyQKo9DHom4hqXGc3ww.jpeg"></div>

@@ -35,6 +35,11 @@ Yamba</a> · Australia 2019</div></div>
       <h1>Blog</h1>
       <h4 class="grey bottom-extra-large">An independent home for all my thoughts and ideas.</h4>
       <div class="post">
+        <h3><a href="###basepath######page###/gif">Show a user flow as s GIF</a></h3>
+        <h5 class="grey bottom-small">May 15th, 2020</h5> 
+        <p>As a designer, there are often moments where I designed a user flow and created a prototype to indicate a specific interaction I had in mind. The next step is usually ... <a href="###basepath######page###/gif">keep reading</a></p>           
+      </div>
+      <div class="post">
         <h3><a href="###basepath######page###/website">My new (old) website</a></h3>
         <h5 class="grey bottom-small">February 2nd, 2020</h5> 
         <p>Actually, this should have been the first article in my blog explaining what happened to my website. In the last five years, I had many attempts for a redesign or even getting... <a href="###basepath######page###/website">keep reading</a></p>           

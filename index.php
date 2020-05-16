@@ -101,6 +101,57 @@ else if( $_page == "stories" && !empty($_subpage))
   $ptt[] = "/###stories_" . $_subpage . "###/"; $rpl[] = $subpageContent;
 }
 
+if ( $_page == "savebook" && empty($_subpage) )
+{
+  $content.= "name: " . $_POST['name'];
+
+  
+
+
+    $myFile = "data.json";
+    $arr_data = array(); // create empty array
+
+  try
+  {
+      //Get form data
+      $formdata = array(
+        'name'=> $_POST['name']
+      );
+      echo "formdata:";
+      print_r($formdata);
+      echo "</br></br>";
+      //Get data from existing json file
+      $jsondata = file_get_contents($myFile);
+      echo "jsondata:";
+      print_r($jsondata);
+      echo "</br></br>";
+      // converts json data into array
+      $arr_data = json_decode($jsondata, true);
+      echo "array_data:";
+      print_r($arr_data);
+      echo "</br></br>";
+      // Push user data to array
+      array_push($arr_data,$formdata);
+
+        //Convert updated array to JSON
+      $jsondata = json_encode($arr_data, JSON_PRETTY_PRINT);
+      
+      print_r($jsondata);
+      //write json data into data.json file
+      if(file_put_contents($myFile, $jsondata)) {
+        $content.= 'Data successfully saved';
+      }
+      else 
+      $content.= "error";
+
+    }
+    catch (Exception $e) {
+      //$content.= 'Caught exception: ',  $e->getMessage(), "\n";
+    }
+
+    $ptt[] = "/###save###/";
+  $rpl[] = preg_replace($ptt, $rpl, $content);
+}
 
 if ( $_page == "portfolio" && empty($_subpage) )
 {
