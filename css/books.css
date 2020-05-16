@@ -1,5 +1,64 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .books .book {
   margin-bottom: 80px;
+}
+
+.books .line
+{
+  height: 1px;
+  width: 100%;
+  background-color: #ECECEC;
+  margin-bottom: 60px;
+  margin-top: 40px;
+}
+
+.books .overview
+{
+  margin-bottom: 60px;
+}
+
+.books .overview .book-link
+{
+  float: left;
+  margin-right: 16px;
+  margin-bottom: 20px;
+  width: 160px;
+  height: 250px;  
+}
+
+.books .overview  .book-link img {
+  height: 250px;
+  border-radius: 2% !important;
+  -webkit-filter: drop-shadow(10px 10px 10px #ebebed);
+  filter: drop-shadow(10px 10px 10px #ebebed);
+  transform: rotate(0deg);
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.books .overview  .book-link img:hover {
+  transform: rotate(-5deg);
+}
+
+.books .overview  .book-link a {
+  border-bottom: none !important;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.books .overview .book-link a:hover {
+  border-bottom: none !important;
+  -webkit-filter: drop-shadow(5px 5px 5px rgb(218, 218, 218));
+  filter: drop-shadow(5px 5px 5px rgb(218, 218, 218));
 }
 
 .books .book .details a {
@@ -45,7 +104,7 @@
   border-radius: 2% !important;
   -webkit-filter: drop-shadow(10px 10px 10px #ebebed);
   filter: drop-shadow(10px 10px 10px #ebebed);
-  transform: rotate(-5deg);
+  transform: rotate(0deg);
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -54,7 +113,7 @@
 }
 
 .books .book .cover img:hover {
-  transform: rotate(0deg);
+  transform: rotate(-5deg);
 }
 
 .books .book .cover img:active {
