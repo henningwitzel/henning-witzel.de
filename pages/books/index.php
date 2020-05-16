@@ -78,19 +78,14 @@
             </a>
           </div>
           <div class="book-link">
-            <a href="#">
+            <a href="#writing">
               <image src="https://images-na.ssl-images-amazon.com/images/I/610AIYRtaDL.jpg">
             </a>
           </div>
           <div class="book-link">
             <a href="#shapeup">
               <image src="https://miro.medium.com/max/500/1*77mgyQKo9DHom4hqXGc3ww.jpeg">
-            </a></div>
-          <div class="book-link">
-            <a href="#">
-              <image src="">
-            </a>
-          </div>
+            </a></div>          
           <div class='clearfix'></div>      
       </div>
       <div id="ship"></div>
@@ -178,7 +173,7 @@
           <a href="https://www.goodreads.com/book/show/18077903-creativity-inc" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
-        <div id="mhappinessom"></div>
+        <div id="happiness"></div>
     </div>    
     <div class="book">
         <div class="cover">
@@ -193,7 +188,7 @@
           <a href="https://www.goodreads.com/book/show/6828896-delivering-happiness" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
-        <div id="sapines"></div>
+        <div id="sapiens"></div>
     </div>
     <div class="book">
         <div class="cover">
