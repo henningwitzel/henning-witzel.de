@@ -1,13 +1,13 @@
-<title>Create GIFs to show a user flow · Henning Witzel</title>
-<meta property="og:title" content="Create GIFs to show a user flow · Henning Witzel" />
-<meta name="twitter:title" content="Create GIFs to show a user flow · Henning Witzel" />
+<title>How to capture your desktop to create a GIF that you can share · Henning Witzel</title>
+<meta property="og:title" content="How to capture your desktop to create a GIF that you can share · Henning Witzel" />
+<meta name="twitter:title" content="How to capture your desktop to create a GIF that you can share · Henning Witzel" />
 
 <meta name="description" content="As a designer, there are often moments where I designed a user flow and created a prototype to indicate a specific interaction I had in mind. The next step is usually to share it with a product owner, developer, or put it into a document to describe the flow." />
 <meta property="og:description" content="As a designer, there are often moments where I designed a user flow and created a prototype to indicate a specific interaction I had in mind. The next step is usually to share it with a product owner, developer, or put it into a document to describe the flow." />
 <meta name="twitter:description" content="As a designer, there are often moments where I designed a user flow and created a prototype to indicate a specific interaction I had in mind. The next step is usually to share it with a product owner, developer, or put it into a document to describe the flow." />
 
-<meta property="og:image" content="###basepath###img/header/gif-header-1280.jpg" />
-<meta name="twitter:image" content="###basepath###img/header/gif-header-1280.jpg" />
+<meta property="og:image" content="###basepath###pages/blog/gif/images/licecap.png" />
+<meta name="twitter:image" content="###basepath###pages/blog/gif/images/licecap.png" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@henning_witzel" />
@@ -29,7 +29,7 @@ data_image_800='###basepath###img/header/gif-header-800.jpg' id='header'></div>
     </div>
      ###menu###
     <div class='content'>          
-      <h1>Create GIFs to show a user flow</h1>
+      <h1>How to capture your desktop to create a GIF that you can share</h1>
       <h4 class="grey bottom-large">May 15th, 2020 · 2 min read</h4>
       <p>As a designer, there are often moments where I designed a user flow and created a prototype to indicate a specific interaction I had in mind. The next step is usually to share it with a product owner, developer, or put it into a document to describe the flow.</p>
 
