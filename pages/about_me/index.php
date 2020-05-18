@@ -22,7 +22,7 @@
     data_image_800='###basepath###img/header/###page###-header-800.jpg' 
     id='header'>
   <div class="image-location"><a href="https://www.google.com/maps?q=albert+park+melbourne&rlz=1C5CHFA_enDE851DE851&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiFoKvsgt3mAhVJKuwKHeESAiAQ_AUoAXoECBQQAw" target="_blank">
-    Albert Park Melbourne</a> · Australia 2019</div>
+    Albert Park Melbourne</a> · Shot in Australia 2019</div>
 </div>
 <style type="text/css">#logo {background-image: url('###basepath###/img/henning.png') !important;}</style>
 <div class='text' id='background'>
@@ -37,12 +37,11 @@
      ###menu###
     <div class='content about_me'>            
         <h1>About Me</h1>
-        <h4 class="grey bottom-large">I'm a 32 year old UX & UI Designer that lives in Berlin.</h4>
-        <p class="bottom-extra-large">My name is Henning, I'm the Head of Product Design at <a href="http://www.newstore.com">NewStore</a> with a background in computer since. I currently live and work in Berlin. </p>
-        
-        <div class="working">
+        <h4 class="grey bottom-large">I'm a 32 year old UX & UI Designer who lives in Berlin.</h4>
+        <p class="bottom-extra-large">My name is Henning, I'm the Head of Product Design at <a href="http://www.newstore.com">NewStore</a> with a background in computer since. I currently live and work in Berlin. </p>        
+        <div class="working" id="working-experience">
           <h2>Working experience</h2>
-          <h4 class="grey bottom-small">I'm in the business of building products to solve customer problems.</h4>
+          <h4 class="grey bottom-small">I'm in the business of building products to solve user problems.</h4>
           <br />
           <!-- COMPANY START -->
           <div class="left">
