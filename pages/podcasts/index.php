@@ -49,7 +49,7 @@ Huế</a> · Shot in Vietnam 2019</div></div>
             </audio> 
             <div class="top-small link">
               <div class="logo-left">
-                <img width="20px" src="https://pbs.twimg.com/profile_images/1062998714455744512/rDpTZ7Rk_400x400.jpg"/>
+                <img width="20px" src="https://images.squarespace-cdn.com/content/v1/5bb3278eab1a623f7ab4dddb/1545314469824-DN3FAX0AAQYEYEDCCDVL/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxQ1ibo-zdhORxWnJtmNCajDe36aQmu-4Z4SFOss0oowgxUaachD66r8Ra2gwuBSqM/pocketcast-icon.png"/>
               </div>
               <div class="link-right"><a href="https://pca.st/tszy9g8t" target="_blank">Listen on Pocket Cast </a>
             </div>
@@ -69,7 +69,7 @@ Huế</a> · Shot in Vietnam 2019</div></div>
             </audio> 
             <div class="top-small link">
               <div class="logo-left">
-                <img width="20px" src="https://pbs.twimg.com/profile_images/1062998714455744512/rDpTZ7Rk_400x400.jpg"/>
+              <img width="20px" src="https://images.squarespace-cdn.com/content/v1/5bb3278eab1a623f7ab4dddb/1545314469824-DN3FAX0AAQYEYEDCCDVL/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxQ1ibo-zdhORxWnJtmNCajDe36aQmu-4Z4SFOss0oowgxUaachD66r8Ra2gwuBSqM/pocketcast-icon.png"/>
               </div>
               <div class="link-right"><a href="https://pca.st/44c3fpy2" target="_blank">Listen on Pocket Cast </a>
             </div>
@@ -89,7 +89,7 @@ Huế</a> · Shot in Vietnam 2019</div></div>
             </audio> 
             <div class="top-small link">
               <div class="logo-left">
-                <img width="20px" src="https://pbs.twimg.com/profile_images/1062998714455744512/rDpTZ7Rk_400x400.jpg"/>
+              <img width="20px" src="https://images.squarespace-cdn.com/content/v1/5bb3278eab1a623f7ab4dddb/1545314469824-DN3FAX0AAQYEYEDCCDVL/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxQ1ibo-zdhORxWnJtmNCajDe36aQmu-4Z4SFOss0oowgxUaachD66r8Ra2gwuBSqM/pocketcast-icon.png"/>
               </div>
               <div class="link-right"><a href="https://pca.st/6P0a" target="_blank">Listen on Pocket Cast </a>
             </div>
@@ -109,7 +109,7 @@ Huế</a> · Shot in Vietnam 2019</div></div>
             </audio>
             <div class="top-small link">
               <div class="logo-left">
-                <img width="20px" src="https://pbs.twimg.com/profile_images/1062998714455744512/rDpTZ7Rk_400x400.jpg"/>
+              <img width="20px" src="https://images.squarespace-cdn.com/content/v1/5bb3278eab1a623f7ab4dddb/1545314469824-DN3FAX0AAQYEYEDCCDVL/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxQ1ibo-zdhORxWnJtmNCajDe36aQmu-4Z4SFOss0oowgxUaachD66r8Ra2gwuBSqM/pocketcast-icon.png"/>
               </div>
               <div class="link-right"><a href="https://pca.st/mj8xm3yj" target="_blank">Listen on Pocket Cast </a>
             </div>
