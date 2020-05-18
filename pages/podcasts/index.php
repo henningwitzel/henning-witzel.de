@@ -24,7 +24,7 @@ data_image_1920='###basepath###img/header/###page###-header-1920.jpg'
 data_image_800='###basepath###img/header/###page###-header-800.jpg' 
 id='header'>
 <div class="image-location"><a href="https://www.google.com/maps/place/Hu%E1%BA%BF,+Thua+Thien+Hue,+Vietnam/@16.4534699,107.5420936,13z/data=!3m1!4b1!4m13!1m7!3m6!1s0x31419c87726490f7:0xab1c0fcaf7cb84b5!2sThua+Thien+Hue,+Vietnam!3b1!8m2!3d16.467397!4d107.5905326!3m4!1s0x3141a115e1a7935f:0xbf3b50af70b5c7b7!8m2!3d16.4637438!4d107.5908279" target="_blank">
-Huế</a> · Vietnam 2019</div></div>
+Huế</a> · Shot in Vietnam 2019</div></div>
 <div class='text' id='background'>
   <div id='wrapper'>
     <div id='logo'>
