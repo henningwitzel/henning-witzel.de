@@ -34,7 +34,7 @@ Dorrigo National Park</a> · Shot in Australia 2019</div></div>
     <div class='content'>      
         <h1>Hi, I'm Henning.</h1>
         <h4 class="grey bottom-large">It looks like you made it here – I'm welcoming you <span class="wave">👋</span  ></h4>
-        <p>I design and build software products to solve user problems. Currently I work for <a href="###basepath###/about_me#newstore">NewStore in Berlin</a> where I'm leading the product design team, drive the UX strategy and the design process.</p>
+        <p>I design and build software products to solve user problems. Currently I work for <a href="###basepath###/about_me#working-experience">NewStore in Berlin</a> where I'm leading the product design team, drive the UX strategy and the design process.</p>
         <p>My website is an independent place for all my thoughts and projects. You can read articles, see what kind of books I like, take a look at specific projects I worked on (soon) and learn something about me — no limitations, no algorithms, no advertisments, just a simple website.</p>        
         <br />
         <div class="card">
