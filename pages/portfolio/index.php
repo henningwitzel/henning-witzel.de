@@ -33,10 +33,10 @@ id='header'></div>
      ###menu###
     <div class='content portfolio'>      
         <h1>Portfolio</h1>
-        <h4 class="grey bottom-large">Some products I designed and launched 🚀</h4>        
-        <p class="in-progress">🚧 This site is still work in progress and there will be regular updates in the next weeks 🚧</br><i>Last update on Jun 3rd, 2020</i></p>
-        <p>Below you can find a selection of software products and designs I've worked on over that past nine years. There are no concept designs; everything you can see is implemented and went live. </p>      
-        <p class="bottom-large">While I was hiring designers I found many out there that publish designs that may look nice but never have been developed or solve an actual problem. For me, this is important. Every time I design something, it's just a mockup until we are getting real with it. Many factors need to be incorporated to ensure feasibility. Collaboration with developers and user feedback is essential for good design. In the end, you need to know if you solved the problem and ideally made their life easier.</p>        
+        <h4 class="grey bottom-large">Some products I designed and launched 🚀</h4>                
+        <p>Below you can find a selection of software products and designs I've worked on over that past nine years. There are no concept designs; everything you can see is implemented and went live. </p>
+        <p class="bottom-large">While I was hiring designers I found many out there that publish designs that may look nice but never have been developed or solve an actual problem. For me, this is important. Every time I design something, it's just a mockup until we are getting real with it. Many factors need to be incorporated to ensure feasibility. Collaboration with developers and user feedback is essential for good design. In the end, you need to know if you solved the problem and ideally made their life easier.</p>
+        <p class="in-progress bottom-large">🚧 This site is still work in progress and there will be regular updates in the next weeks 🚧</br><i>Last update on Jun 3rd, 2020</i></p>
         <div class="app">
           <div class="intro">            
             <h2>Associate App</h2>
@@ -50,7 +50,7 @@ id='header'></div>
             <div class="right">
               <h3 class="bottom-small top-small">Mixed Cart</h3>
               <p>Enable associates to sell items to a customer that are available in the store and online in one transaction.</p>
-                <a class="learn-more" href="#">Learn more</a>
+                <a class="learn-more" href="###basepath######page###/associate_app#cart">Learn more</a>
             </div>
             <div class='clearfix'></div>
             <div class="phone"><img src="###basepath###pages/portfolio/images/mixed-checkout-phone.png" /></div>
@@ -59,7 +59,7 @@ id='header'></div>
             <div class="left">
               <h3 class="bottom-small top-small">Contactless Checkout</h3>              
               <p>Remove the friction of using a physical payment device and make it easy for a customer to share it's contact info for easy returns.</p>
-              <a class="learn-more" href="#">Learn more</a>
+              <a class="learn-more" href="###basepath######page###/associate_app#checkout">Learn more</a>
             </div>
             <div class="right"><img src="###basepath###pages/portfolio/images/qr-code-payment.png" /></div>
             <div class='clearfix'></div>
@@ -70,7 +70,7 @@ id='header'></div>
             <div class="right">
               <h3 class="bottom-small top-small">Quick Login</h3>
                 <p>Lorem ipsum dolor sit amet, cum ne saepe malorum dissentiet, et eum iuvaret pertinax invenire.</p>
-                <a class="learn-more" href="#">Learn more</a>
+                <a class="learn-more" href="###basepath######page###/associate_app#login">Learn more</a>
             </div>
             <div class='clearfix'></div>
             <div class="phone"><img src="###basepath###pages/portfolio/images/login.png" /></div>
@@ -79,7 +79,7 @@ id='header'></div>
             <div class="left">
               <h3 class="bottom-small top-small">Cash Management</h3>
               <p>Lorem ipsum dolor sit amet, cum ne saepe malorum dissentiet, et eum iuvaret pertinax invenire.</p>
-              <a class="learn-more" href="#">Learn more</a>
+              <a class="learn-more" href="###basepath######page###/associate#cash">Learn more</a>
             </div>
             <div class="right"><img src="###basepath###pages/portfolio/images/cash-management.png" /></div>
             <div class='clearfix'></div>
@@ -97,7 +97,7 @@ id='header'></div>
             <div class="right">
               <h3 class="bottom-small top-small">Manage Retail Operations</h3>
                 <p>Lorem ipsum dolor sit amet, cum ne saepe malorum dissentiet, et eum iuvaret pertinax invenire.</p>
-                <a class="learn-more" href="#">Learn more</a>
+                <a class="learn-more" href="###basepath######page###/nom">Learn more</a>
             </div>                                
             <div class='clearfix'></div>
             <div class="phone"><img src="###basepath###pages/portfolio/images/nom.png" /></div>
@@ -114,7 +114,7 @@ id='header'></div>
             <div class="right">
               <h3 class="bottom-small top-small">Digital Signage & Social Media </h3>
                 <p>Lorem ipsum dolor sit amet, cum ne saepe malorum dissentiet, et eum iuvaret pertinax invenire.</p>
-                <a class="learn-more" href="#">Learn more</a>
+                <a class="learn-more" href="###basepath######page###/signum">Learn more</a>
             </div>                     
             <div class='clearfix'></div>
             <div class="phone"><img src="###basepath###pages/portfolio/images/signum.png" /></div>
@@ -131,7 +131,7 @@ id='header'></div>
             <div class="right">
               <h3 class="bottom-small top-small">Playlists & Live Drawing</h3>
                 <p>Lorem ipsum dolor sit amet, cum ne saepe malorum dissentiet, et eum iuvaret pertinax invenire.</p>
-                <a class="learn-more" href="#">Learn more</a>
+                <a class="learn-more" href="###basepath######page###/beamerlasershow">Learn more</a>
             </div>                     
             <div class='clearfix'></div>
             <div class="phone"><img src="###basepath###pages/portfolio/images/bls.png" /></div>
