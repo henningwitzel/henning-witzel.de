@@ -20,8 +20,9 @@
     margin-bottom: 24px;
     
     border-radius: 10px !important;
-    -webkit-filter: drop-shadow(10px 10px 10px #ebebed);
-    filter: drop-shadow(10px 10px 10px #ebebed);
+    /*-webkit-filter: drop-shadow(10px 10px 10px #ebebed);
+    filter: drop-shadow(10px 10px 10px #ebebed);*/
+    box-shadow: 2px 2px 5px #EEEEEE;
     transform: rotate(0deg);
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -61,8 +62,7 @@
 
   .card:hover {
     transform: rotate(-2deg);
-    -webkit-filter: drop-shadow(5px 5px 5px rgb(218, 218, 218));
-    filter: drop-shadow(5px 5px 5px rgb(218, 218, 218));
+    box-shadow: 5px 5px 20px #E0E0E0;
   }
 
   .card a {
@@ -76,14 +76,12 @@
   
   .card a:hover {
     border-bottom: none !important;
-    -webkit-filter: drop-shadow(5px 5px 5px rgb(218, 218, 218));
-    filter: drop-shadow(5px 5px 5px rgb(218, 218, 218));
   }
 
 
   span.wave {
     animation-name: wave-animation;
-    animation-duration: 2.5s;
+    animation-duration: 1.5s;
     animation-iteration-count: infinite;
     transform-origin: 70% 70%;
     display: inline-block;
@@ -99,4 +97,13 @@
     100% { transform: rotate(  0.0deg) }
   }
   
+  
+  @media only screen and (max-width: 600px) {
+    .card {
+      float: none;
+      width: 100%;
+      margin: 0 auto;
+      margin-bottom: 30px;
+    }
+  }
   

@@ -153,59 +153,6 @@ if ( $_page == "savebook" && empty($_subpage) )
   $rpl[] = preg_replace($ptt, $rpl, $content);
 }
 
-if ( $_page == "portfolio" && empty($_subpage) )
-{
-  $jsonFile = file_get_contents($_basePath . 'pages/portfolio/portfolio.json');
-  $json = json_decode($jsonFile);
-
-  
-  $count = 0;
-
-  foreach($json as $storie)
-  {   
-    // if($count%4 == 0)
-    // {
-    //   if($count != 0)
-    //   {
-    //     $content .= ' </div>';
-    //     $content .= ' <div class="clearfix"></div>';        
-    //   }
-
-    //   $content .= '<div class="row">';      
-    // }
-
-    $content .= " <div class='col'>";
-    $content .= " <a href='###basepath######page###/" . $storie->link. "'>";
-    $content .= "   <img src='###basepath###pages/###page###/" . $storie->img_link. "'>";
-    $content .= "   <h1>".$storie->title."</h1>";
-    $content .= "   <h2>".$storie->date."</h2>";
-    $content .= ' </a>';
-    $content .= ' </div>';
-
-    $count++;
-  }
-  
-
-  $ptt[] = "/###portfolio###/";
-  $rpl[] = preg_replace($ptt, $rpl, $content);
-}
-else if( $_page == "portfolio" && !empty($_subpage))
-{
-
-  $dir = scandir('pages/portfolio/' . $_subpage . '/images');
-  
-  foreach($dir as $image)
-  {
-    if(strpos($image,'jpg'))
-    {             
-      //$subpageContent .= "<img src='" . $_basePath . "pages/portfolio/" . $_subpage . "/images/". $image ."' />";
-      $subpageContent .= "<img data-original='" . $_basePath . "pages/portfolio/" . $_subpage . "/images/". $image ."' . src='" . $_basePath . "img/load.jpg" ."' />";   
-    }      
-  }
-
-  $ptt[] = "/###portfolio" . $_subpage . "###/"; $rpl[] = $subpageContent;
-}
-
 // ----------------------------------------
 // Projects
 // ----------------------------------------

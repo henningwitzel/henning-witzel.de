@@ -32,8 +32,8 @@ Yamba</a> · Shot in Australia 2019</div></div>
     </div>
      ###menu###
     <div class='content blog'>    
-      <h1>Blog</h1>
-      <h4 class="grey bottom-extra-large">An independent home for all my thoughts and ideas.</h4>
+      <h1>Writing</h1>
+      <h4 class="grey bottom-extra-large">A little blog for my thoughts and ideas.</h4>
       <div class="post">
         <h3><a href="###basepath######page###/gif">How to capture your desktop to create a GIF</a></h3>
         <h5 class="grey bottom-small">May 15th, 2020</h5> 

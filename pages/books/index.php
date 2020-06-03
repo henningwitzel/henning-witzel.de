@@ -99,7 +99,7 @@
           <div class='clearfix'></div>      
       </div>
       <div id="why"></div>
-      <div class="line"></div>
+      
       <div class="book">
         <div class="cover">
           <a href="https://simonsinek.com/product/start-with-why/" target="_blank">

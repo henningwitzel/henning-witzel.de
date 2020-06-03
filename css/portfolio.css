@@ -1,0 +1,160 @@
+.portfolio
+{
+    
+}
+
+.portfolio .in-progress
+{
+    background-color: #f3f3f3;
+    border-radius: 10px;
+    padding: 16px;
+    font-size: 14px;
+    text-align: center;
+    color: grey;
+    font-family: "Droid Serif";
+}
+
+.portfolio .app
+{
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+    margin-bottom: 42px;
+}
+
+.portfolio .app p
+{
+    font-size: 15px;
+}
+
+.portfolio .app .intro
+{
+    padding: 24px;
+}
+.portfolio .app .phone
+{
+    display: none;
+}
+
+.portfolio .grey-bg
+{
+    background-color: #fff;
+    min-height: 100px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+
+    padding-top: 32px;
+}
+
+.grey-bg:hover
+{
+    background-color:#F1F9FA;
+}
+
+.portfolio .grey-bg .left
+{      
+    float: left;
+    width: 25%;
+    padding: 24px;
+    padding-bottom: 32px;
+}
+
+.portfolio .grey-bg .right
+{
+    float: left;    
+    width: 64%;
+    
+}
+
+.portfolio .white-bg
+{
+    background-color: #F9F9F9;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    padding-top: 32px;
+}
+.white-bg:hover
+{
+    background-color:#F1F9FA;
+}
+
+.portfolio .white-bg .left
+{      
+    float: left;    
+    width: 64%;
+}
+
+.portfolio .white-bg .right
+{    
+    float: left;
+    width: 25%;
+    padding: 24px;
+    padding-bottom: 32px;
+}
+
+.portfolio img
+{
+    margin-bottom: -3px !important;
+}
+
+.portfolio .product
+{
+    background-color: #F9F9F9;
+    min-height: 100px;
+    border-radius: 10px;
+    margin-bottom: 32px;
+    padding: 32px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.product:hover
+{
+    background-color:#F1F9FA;
+}
+
+
+@media only screen and (max-width: 700px) {
+    .portfolio .grey-bg .right
+    {
+        display: none;
+    }
+    .portfolio .grey-bg .left
+    {
+        width: auto;
+        float: none;
+    }
+    .portfolio .grey-bg
+    {
+        padding-top: 0px;
+    }
+
+    .portfolio .white-bg .right
+    {
+        width: auto;
+        float: none;
+    }
+    .portfolio .white-bg .left
+    {
+        
+        display: none;
+    }
+    .portfolio .white-bg
+    {
+        padding-top: 0px;
+    }
+
+    .portfolio .app .phone
+    {
+        display: block;
+    }
+ 
+}

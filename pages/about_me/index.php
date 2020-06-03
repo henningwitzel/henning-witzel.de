@@ -37,8 +37,9 @@
      ###menu###
     <div class='content about_me'>            
         <h1>About Me</h1>
-        <h4 class="grey bottom-large">I'm a 32 year old UX & UI Designer who lives in Berlin.</h4>
-        <p class="bottom-extra-large">My name is Henning, I'm the Head of Product Design at <a href="http://www.newstore.com">NewStore</a> with a background in computer since. I currently live and work in Berlin. </p>        
+        <h4 class="grey bottom-large">I'm a 32 year old Product Designer based in Berlin.</h4>        
+        <p >I'm a product designer with a background in computer science that combines technology and design to solve customer problems that meet the needs of the business. For the past nine years, I've been involved in all sorts of software projects, both big and small.</p>
+        <p class="bottom-extra-large">Since 2015 I'm working at  <a href="http://www.newstore.com">NewStore</a> to help to transform the vision into a real product. For the last two years, I've been leading the product design team, drive the UX strategy and the design process.</p>
         <div class="working" id="working-experience">
           <h2>Working experience</h2>
           <h4 class="grey bottom-small">I'm in the business of building products to solve user problems.</h4>
@@ -61,7 +62,7 @@
             <div class="position">
                   <div class="dot"></div>
                   <p class="title">Head of Product Design</p>
-                  <p class="date">April 2018 – Present · 2 years</p>
+                  <p class="date">April 2018 – Present · 2 years 2 months</p>
                   <p class="description">As the Head of Product Design, I took the responsibility to lead the product design team, drive the UX strategy and the product design process. </p>
                   <p class="description">On a daily basis, we are working hands-on doing design jobs, user research, and prototyping efforts. When it comes to supporting development, we either embedded in an engineering team or offer UX-as-a-Service. </p>
                   <p class="description">In close collaboration with product management, customer success, and engineering, our shared experience vision is to challenge the old assumptions of existing retail technology and antiquated in-store practices with an intuitive experience for retailers and customers that brings joy back to the shopping experience.</p>
