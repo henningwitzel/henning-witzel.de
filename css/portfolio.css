@@ -159,5 +159,29 @@
     {
         display: block;
     }
- 
+}
+
+span.rocket {
+    animation-name: rocket-animation;
+    animation-duration: 5s;
+    animation-delay: 1s;
+    transform-origin: 70% 70%;
+    display: inline-block;
+    width:20px;
+    height:20px;
+    position: relative;
+    font-weight:bold;
+    font-size:20px;
+    padding:10px;
+}
+    
+@keyframes rocket-animation
+{
+    0% {-webkit-transform: rotate(0deg);left:0px;opacity: 1.0;}
+    25% {-webkit-transform: rotate(40deg);left:0px;opacity: 1.0;}
+    50% {-webkit-transform: rotate(40deg);left:400px;opacity: 0.0;}
+    55% {-webkit-transform: rotate(40deg);left:400px;opacity: 0.0;}
+    80% {-webkit-transform: rotate(40deg);left:0px;opacity: 1.0;}
+    90% {-webkit-transform: rotate(0deg);left:0px;opacity: 1.0;}
+    100% {-webkit-transform: rotate(0deg);left:0px;opacity: 1.0;}
 }
