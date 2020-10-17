@@ -17,7 +17,7 @@
         <h1>Imprint</h1>
         <h2>Angaben gemäß §5 TMG</h2>
         <p>Henning Witzel <br />Rudolf-Schwarz-Str. 6<br />10407 Berlin</p>        
-        <p><a href="mailto:contact@henning-witzel.de?Subject=Hello%20Henning">contact@henning-witzel.de</a> <br /> <a href='http://www.henning-witzel.de'>www.henning-witzel.de</a></p>
+        <p><a href="mailto:witzel@hey.com?Subject=Hello%20Henning">witzel@hey.com</a> <br /> <a href='http://www.henning-witzel.de'>www.henning-witzel.de</a></p>
         <p>Inhaltlich Verantwortlicher gem. § 55 II RStV: Henning Witzel (Anschrift s.o.)</p>
         <br /><br />
         <h2>Haftung für Inhalte</h2>

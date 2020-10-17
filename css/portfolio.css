@@ -1,14 +1,75 @@
-.portfolio
-{
-    
+iframe{
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #EEEEEE;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
 }
 
-.portfolio .in-progress
+iframe:hover{
+    box-shadow: 5px 5px 30px #E0E0E0;
+}
+
+video{
+    border-radius: 5px;
+    box-shadow: 2px 2px 50px #EEEEEE;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    margin: 0 auto;    
+    margin-top: 24px;
+    cursor: pointer;
+}
+
+video:hover{
+    box-shadow: 5px 5px 100px #bdbdbd;
+}
+
+.block
+{
+    display: block;
+}
+
+.video-description
+{
+    font-size: 14px;
+    width: 300px;
+    line-height: 1.5em;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 24px;
+    font-family: 'Droid Serif';
+}
+
+.video-left
+{
+    float: left;    
+    width: 300px;
+}
+.videos
+{
+    width: 90%;
+    margin: 0 auto;    
+}
+
+.space
+{
+    width: 32px;
+    height: 1px;
+    float: left;
+}
+.in-progress
 {
     background-color: #f3f3f3;
     border-radius: 10px;
     padding: 16px;
-    font-size: 14px;
+    font-size: 14px !important;
     text-align: center;
     color: grey;
     font-family: "Droid Serif";
@@ -29,13 +90,14 @@
 .portfolio .app .intro
 {
     padding: 24px;
+    padding-top: 32px;
 }
 .portfolio .app .phone
 {
     display: none;
 }
 
-.portfolio .grey-bg
+.portfolio .image-right
 {
     background-color: #fff;
     min-height: 100px;
@@ -54,24 +116,29 @@
     background-color:#F1F9FA;
 }
 
-.portfolio .grey-bg .left
+.portfolio .image-right .left
 {      
     float: left;
     width: 25%;
     padding: 24px;
-    padding-bottom: 16px;   
+    padding-bottom: 0px !important;
+    padding-top: 64px;
 }
 
-.portfolio .grey-bg .right
+.portfolio .image-right .right
 {
     float: left;    
     width: 64%;
     
 }
 
-.portfolio .white-bg
+.portfolio .bg-grey
 {
-    background-color: #F9F9F9;
+    background-color: #F9F9F9 !important;
+}
+
+.portfolio .image-left
+{ 
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -86,18 +153,19 @@
     background-color:#F1F9FA;
 }
 
-.portfolio .white-bg .left
+.portfolio .image-left .left
 {      
     float: left;    
     width: 64%;
 }
 
-.portfolio .white-bg .right
+.portfolio .image-left .right
 {    
     float: left;
     width: 25%;
     padding: 24px;
-    padding-bottom: 32px;    
+    padding-bottom: 0px !important;
+    padding-top: 64px;
 }
 
 .portfolio img
@@ -119,38 +187,33 @@
     transition: all 0.3s ease;
 }
 
-.product:hover
-{
-    background-color:#F1F9FA;
-}
-
-
 @media only screen and (max-width: 700px) {
-    .portfolio .grey-bg .right
+    .portfolio .image-right .right
     {
         display: none;
     }
-    .portfolio .grey-bg .left
+    .portfolio .image-right .left
     {
         width: auto;
         float: none;
     }
-    .portfolio .grey-bg
+    .portfolio .image-right
     {
         padding-top: 0px;
     }
 
-    .portfolio .white-bg .right
+    .portfolio .image-left .right
     {
         width: auto;
         float: none;
+        padding-top: 24px;
     }
-    .portfolio .white-bg .left
-    {
-        
+    .portfolio .image-left .left
+    {        
         display: none;
+        padding-top: 24px;
     }
-    .portfolio .white-bg
+    .portfolio .image-left
     {
         padding-top: 0px;
     }

@@ -1,8 +1,23 @@
 .blog .post {
-  margin-bottom: 60px;
-  float: left;
-  width: 47%;
-  margin-right: 3%;
+  margin-bottom: 50px;  
+  border: 1px solid #E5E5E5;
+  border-radius: 10px;    
+}
+
+.blog .post .preview
+{
+  padding: 24px;
+}
+
+.blog .post .thumbnail a
+{
+  border-bottom: none !important; 
+}
+
+.blog .post img
+{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 .blog .post a {

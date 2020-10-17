@@ -1,6 +1,6 @@
-<title>My new (old) website · Henning Witzel</title>
-<meta property="og:title" content="My new (old) website · Henning Witzel" />
-<meta name="twitter:title" content="My new (old) website · Henning Witzel" />
+<title>Resetting Everything – My new (old) website · Henning Witzel</title>
+<meta property="og:title" content="Resetting Everything – My new (old) website · Henning Witzel" />
+<meta name="twitter:title" content="Resetting Everything – My new (old) website · Henning Witzel" />
 
 <meta name="description" content="Actually, this should have been the first article in my blog explaining what happened to my website." />
 <meta property="og:description" content="Actually, this should have been the first article in my blog explaining what happened to my website." />
@@ -31,7 +31,7 @@
     </div>
      ###menu###
     <div class='content'>          
-      <h1>My new (old) website</h1>
+      <h1>Resetting Everything – My new (old) website</h1>
       <h4 class="grey bottom-large">February 2nd, 2020 · 3:50 min read</h4>      
       <p>Actually, this should have been the first article in my blog explaining what happened to my website. In the last five years, I had many attempts for a redesign or even getting rid of it but never found the motivation – that changed at the end of last year.</p>
 

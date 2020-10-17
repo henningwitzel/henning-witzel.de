@@ -7,8 +7,8 @@
 <meta property="og:description" content="A selection of some of my favourite podcasts I listened to.">
 <meta name="twitter:description" content="A selection of some of my favourite podcasts I listened to." />
 
-<meta property="og:image" content="###basepath###img/header/###page###-header-1280.jpg" />
-<meta name="twitter:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+<meta property="og:image" content="###basepath###img/header/podcasts-card.jpg" />
+<meta name="twitter:image" content="###basepath###img/header/podcasts-card.jpg" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@henning_witzel" />

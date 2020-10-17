@@ -6,8 +6,8 @@
 <meta property="og:description" content="I'm a 31 year old UX person that lives in Berlin.">
 <meta name="twitter:description" content="I'm a 31 year old UX person that lives in Berlin." />
 
-<meta property="og:image" content="###basepath###img/header/###page###-header-1280.jpg" />
-<meta name="twitter:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+<meta property="og:image" content="###basepath###img/header/about-me-card.jpg" />
+<meta name="twitter:image" content="###basepath###img/header/about-me-card.jpg" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@henning_witzel" />
@@ -191,7 +191,7 @@
         <h4 class="grey bottom-medium">The places where I'm actually active and you can talk to me.</h4>
         <p>@Twitter - <a href='http://twitter.com/henning_Witzel'>twitter.com/henning_witzel</a></p>
         <p>@LinkedIn – <a href='http://www.linkedin.com/in/henning-witzel/'>linkedin.com/in/henning_witzel</a></p>
-        <p>@Mail – <a href='mailto:contact@henning-witzel.de?Subject=Hello%20Henning'>contact@henning-witzel.de</a></p>
+        <p>@Mail – <a href='mailto:witzel@hey.com?Subject=Hello%20Henning'>witzel@hey.com</a></p>
     </div>    
     <div class='clearfix'></div>
   </div>

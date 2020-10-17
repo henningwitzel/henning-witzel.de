@@ -1,6 +1,6 @@
-<title>Become productive again · Henning Witzel</title>
-<meta property="og:title" content="Become productive again · Henning Witzel" />
-<meta name="twitter:title" content="Become productive again · Henning Witzel" />
+<title>Three ways to improve your productivity · Henning Witzel</title>
+<meta property="og:title" content="Three ways to improve your productivity · Henning Witzel" />
+<meta name="twitter:title" content="Three things I did to improve my productivity · Henning Witzel" />
 
 <meta name="description" content="When I joined NewStore five years ago, I had no idea what it means to have a calendar that feels like a school timetable or an email inbox with 200 unread mails overnight." />
 <meta property="og:description" content="When I joined NewStore five years ago, I had no idea what it means to have a calendar that feels like a school timetable or an email inbox with 200 unread mails overnight." />
@@ -33,7 +33,7 @@
     </div>
      ###menu###
     <div class='content'>          
-      <h1>Become productive again</h1>
+      <h1>Three ways to improve your productivity</h1>
       <h4 class="grey bottom-large">January 5th, 2020 · 4 min read</h4>      
       <p>When I joined <a href="###basepath###/about_me#newstore">NewStore five years ago</a>, I had no idea what it means to have a calendar that feels like a school timetable or an inbox with 200 unread emails overnight. Chat tools like Slack made it possible for everybody to reach out to me and interrupt whenever they think it's necessary. In the beginning, I thought I need to be responsive to everybody not to seem rude or unproductive – but actually, I started to feel and became unproductive.</p>
 

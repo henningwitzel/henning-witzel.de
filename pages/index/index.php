@@ -59,8 +59,8 @@ id='header'>
           <a href="###basepath###/blog">
             <div class="card-content">
               <img src="###basepath###img/header/blog-card.jpg" />
-              <div class="title"><h4>Writing</h4></div>
-              <div class="description grey">A little blog for my thoughts and ideas that I want to share.</div>          
+              <div class="title"><h4>Blog</h4></div>
+              <div class="description grey">My experiences about UX design and Product Management.</div>          
             </div>
           </a>
         </div>        
@@ -88,7 +88,7 @@ id='header'>
         <h4 class="grey bottom-medium">Places where I'm actually active and you can talk to me.</h4>
         <p>@Twitter - <a href='http://twitter.com/henning_Witzel'>twitter.com/henning_witzel</a></p>
         <p>@LinkedIn – <a href='http://www.linkedin.com/in/henning-witzel/'>linkedin.com/in/henning_witzel</a></p>
-        <p>@Mail – <a href='mailto:contact@henning-witzel.de?Subject=Hello%20Henning'>contact@henning-witzel.de</a></p>
+        <p>@Mail – <a href='mailto:witzel@hey.com?Subject=Hello%20Henning'>witzel@hey.com</a></p>
     <div class='clearfix'></div>
   </div>
 </div>

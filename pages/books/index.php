@@ -6,8 +6,8 @@
 <meta property="og:description" content="A selection of some of my favourite books I read." />
 <meta name="twitter:description" content="A selection of some of my favourite books I read." />
 
-<meta property="og:image" content="###basepath###img/header/###page###-header-1280.jpg" />
-<meta name="twitter:image" content="###basepath###img/header/###page###-header-1280.jpg" />
+<meta property="og:image" content="###basepath###img/header/books-card.jpg" />
+<meta name="twitter:image" content="###basepath###img/header/books-card.jpg" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@henning_witzel" />
@@ -68,6 +68,26 @@
             <a href="#creativity" class="scrollLink">
               <image src="https://images-na.ssl-images-amazon.com/images/I/41NR3XoAdxL.jpg">
             </a></div>
+            <div class="book-link">
+            <a href="#inspired" class="scrollLink">
+              <image src="https://prodimage.images-bn.com/pimages/9781119387503_p0_v3_s550x406.jpg">
+            </a>
+          </div>
+          <div class="book-link">
+            <a href="#storymapping" class="scrollLink">
+              <image src="https://images-na.ssl-images-amazon.com/images/I/71385MbgcSL.jpg">
+            </a>
+          </div>
+          <div class="book-link">
+            <a href="#designlove" class="scrollLink">
+              <image src="https://images-na.ssl-images-amazon.com/images/I/81hoRmKgFqL.jpg">
+            </a>
+          </div>
+          <div class="book-link">
+            <a href="#shapeup" class="scrollLink" >
+              <image src="https://miro.medium.com/max/500/1*77mgyQKo9DHom4hqXGc3ww.jpeg">
+            </a></div>          
+           
           <div class="book-link">
             <a href="#happiness" class="scrollLink">
               <image src="https://dynamic.indigoimages.ca/books/0446576220.jpg?altimages=false&scaleup=true&width=614&maxheight=614&quality=85&lang=en">
@@ -91,12 +111,8 @@
             <a href="#writing" class="scrollLink">
               <image src="https://images-na.ssl-images-amazon.com/images/I/610AIYRtaDL.jpg">
             </a>
-          </div>
-          <div class="book-link">
-            <a href="#shapeup" class="scrollLink" >
-              <image src="https://miro.medium.com/max/500/1*77mgyQKo9DHom4hqXGc3ww.jpeg">
-            </a></div>          
-          <div class='clearfix'></div>      
+            </div>
+            <div class='clearfix'></div>
       </div>
       <div id="why"></div>
       
@@ -224,8 +240,73 @@
           <a href="https://www.goodreads.com/book/show/18077903-creativity-inc" target="_blank">More on Goodreads</a>
         </div>
         <div class='clearfix'></div>
-        <div id="happiness"></div>
+        <div id="inspired"></div>
     </div>    
+    <div class="book">
+        <div class="cover">
+          <a href="https://svpg.com/inspired-how-to-create-products-customers-love/" target="_blank">
+            <image src="https://prodimage.images-bn.com/pimages/9781119387503_p0_v3_s550x406.jpg">
+          </a>     
+          <div class="up-link"> <a href="#overview" class="scrollLink"><img src="###basepath###img/up.svg" alt="Kiwi standing on oval" width="28px"></a></div>
+          </div>      
+        <div class="details">
+          <h3><a href="#inspired">Inspired: How to Create Tech Products Customers Love</a></h3>
+          <h5 class="grey bottom-medium">Book by Marty Cagan · 2018</h5>
+          <p>In INSPIRED, technology product management thought leader Marty Cagan provides readers with a master class in how to structure and staff an empowered and effective product organization, and how to discover and deliver technology products that your customers will love--and that will work for your business.</p>          
+          <a href="https://svpg.com/inspired-how-to-create-products-customers-love/" target="_blank">More on www.svpg.com</a>
+        </div>
+        <div class='clearfix'></div>
+        <div id="storymapping"></div>
+    </div>
+    <div class="book">
+        <div class="cover">
+          <a href="https://www.jpattonassociates.com/user-story-mapping/" target="_blank">
+            <image src="https://images-na.ssl-images-amazon.com/images/I/71385MbgcSL.jpg">
+          </a>     
+          <div class="up-link"> <a href="#overview" class="scrollLink"><img src="###basepath###img/up.svg" alt="Kiwi standing on oval" width="28px"></a></div>
+          </div>      
+        <div class="details">
+          <h3><a href="#storymapping">User Story Mapping: Discover the Whole Story, Build the Right Product</a></h3>
+          <h5 class="grey bottom-medium">Book by Jeff Patton · 2014</h5>
+          <p>User Story Mapping is a dead simple idea. Talk about the user's journey through your product by building a simple model that tells your user's story as you do. It turns out this simple idea makes working with user stories in agile development a lot easier.</p>          
+          <a href="https://www.jpattonassociates.com/user-story-mapping/" target="_blank">More on www.jpattonassociates.com</a>
+        </div>
+        <div class='clearfix'></div>
+        <div id="designlove"></div>
+    </div>
+    <div class="book">
+        <div class="cover">
+          <a href="https://www.scotthurff.com" target="_blank">
+            <image src="https://images-na.ssl-images-amazon.com/images/I/81hoRmKgFqL.jpg">
+          </a>     
+          <div class="up-link"> <a href="#overview" class="scrollLink"><img src="###basepath###img/up.svg" alt="Kiwi standing on oval" width="28px"></a></div>
+          </div>      
+        <div class="details">
+          <h3><a href="#designlove">Design Products People Love</a></h3>
+          <h5 class="grey bottom-medium">Book by Scott Hurff · 2015</h5>
+          <p>How can you create products that successfully find customers? With this practical book, you'll learn from some of the best product designers in the field, from companies like Facebook and LinkedIn to up-and-coming contenders. You'll understand how to discover and interpret customer pain, and learn how to use this research to guide your team through each step of product creation.</p>          
+          <a href="https://www.scotthurff.com" target="_blank">More on www.scotthurff.com</a>
+        </div>
+        <div class='clearfix'></div>
+        <div id="shapeup"></div>
+    </div>
+    <div class="book">
+        <div class="cover">
+          <a href="https://basecamp.com/shapeup" target="_blank">
+            <image src="https://miro.medium.com/max/500/1*77mgyQKo9DHom4hqXGc3ww.jpeg" />
+          </a>
+          <div class="up-link"> <a href="#overview" class="scrollLink"><img src="###basepath###img/up.svg" alt="Kiwi standing on oval" width="28px"></a></div>
+          </div>
+        <div class="details">
+          <h3><a href="#shapeup">Shape Up</a></h3>
+          <h5 class="grey bottom-medium">Book by Ryan Singer · 2019</h5>
+          <p>This book is a guide to how Basecamp does product development. Ryan describes everything they do backed up with real stories. I already read it twice and apply multiple things in my daily work like breadboarding or mapping scopes – a toolbox full of techniques.</p>
+          <p>Just recently I <a href="https://discourse.learnshapeup.com/t/shaping-process-visualised/420">visualised the process of shaping</a> and published it into a discourse about learning Shape Up. My goal was to have a quick reference at hand, help me to refresh my memory as well as to promote the process inside my company.</p>
+          <a href="https://basecamp.com/shapeup" target="_blank">Start reading!</a>
+        </div>
+        <div class='clearfix'></div>
+        <div id="happiness"></div>
+    </div>
     <div class="book">
         <div class="cover">
           <a href="https://www.goodreads.com/book/show/6828896-delivering-happiness" target="_blank">
@@ -306,20 +387,6 @@
         <div class='clearfix'></div>
         <div id="shapeup"></div>
     </div>
-    <div class="book">
-        <div class="cover">
-          <a href="https://basecamp.com/shapeup" target="_blank">
-            <image src="https://miro.medium.com/max/500/1*77mgyQKo9DHom4hqXGc3ww.jpeg" />
-          </a>
-          <div class="up-link"> <a href="#overview" class="scrollLink"><img src="###basepath###img/up.svg" alt="Kiwi standing on oval" width="28px"></a></div>
-          </div>
-        <div class="details">
-          <h3><a href="#shapeup">Shape Up</a></h3>
-          <h5 class="grey bottom-medium">Book by Ryan Singer · 2019</h5>
-          <p>This is an online web book about how Basecamp does their work. This book is a guide to how we do product development at Basecamp. It’s also a toolbox full of techniques that you can apply in your own way to your own process.</p>          
-          <a href="https://basecamp.com/shapeup" target="_blank">Start reading!</a>
-        </div>
-        <div class='clearfix'></div>
-    </div>
+    
   </div>
 </div>
