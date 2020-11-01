@@ -38,11 +38,14 @@
     <div class='content about_me'>            
         <h1>About Me</h1>
         <h4 class="grey bottom-large">I'm a 32 year old Product Designer based in Berlin.</h4>        
-        <p >I'm a product designer with a background in computer science that combines technology and design to solve customer problems that meet the needs of the business. For the past nine years, I've been involved in all sorts of software projects, both big and small.</p>
-        <p class="bottom-extra-large">Since 2015 I'm working at  <a href="http://www.newstore.com">NewStore</a> to help to transform the vision into a real product. For the last two years, I've been leading the product design team, drive the UX strategy and the design process.</p>
-        <div class="working" id="working-experience">
+        <p >My name is Henning, I'm a Product Designer with a background in engineering. For the past nine years, I've been designing & developing software products to provide meaningful and relevant user experiences.</p>
+        <p> In 2011 I founded <a href="#zebresel">Zebresel</a>, a small agency in Erfurt (Germany), where I planned, designed, and implemented websites & web applications for our clients. After two years, we started developing our own products to solve problems in the event business. </p>
+        <p class="bottom-medium">In 2015 I changed my life and went down a new path to experience other parts of the world. I joined <a href="#newstore">NewStore</a>, an international company that wants to bring the joy back to retail, and moved to Berlin. Since then, I'm part of the product team and transform the vision into a real product. Almost three years ago, I got the opportunity to build up a new design team and learn how to become a leader and manager. My team and I drive the UX strategy, scale the design process, and help others grow in design to deliver products people love.</p>
+        <br />
+        <br />
+          <div class="working" id="working-experience">
           <h2>Working experience</h2>
-          <h4 class="grey bottom-small">I'm in the business of building products to solve user problems.</h4>
+          <h4 class="grey bottom-small">I'm in the business of building products that solve real problems.</h4>
           <br />
           <!-- COMPANY START -->
           <div class="left">
@@ -51,37 +54,51 @@
           <div class="right">
             <div class="details">
               <p class="title" id="newstore">NewStore</p>
-              <p class="time">5 years · Berlin </p>              
+              <p class="time">2015 – Now · 5 years 8 months · Berlin </p>              
           </div>
           </div>
           <div class='clearfix'></div>           
           <div class="positions">
-            <p class="about">I'm with the company since 2015, and I'm leading the product design team, drive the UX strategy and product design process. <a href="http://www.newstore.com">NewStore</a> operates a platform for retailers to run their stores on iPhones.<p>
-            <p class="about">My team is part of the shaping and development process. We provide user research, design user flows, and build prototypes. When it comes to development, we are either embedded in an engineering team or offer UX-as-a-Service. Everything happens in close collaboration with product management, professional services, and customer success. As a designer, the user I'm focusing on is a store associate. To help them get the job done, we build store apps that enable mobile checkout, endless aisle, store fulfillment, real-time inventory, and clienteling.<p>
-            <p class="about bottom-large">If you ever heard of <a href="http://www.decathlon.com">Decathlon</a>, <a href="http://www.untuckit.com">UNTUCKit</a>, or <a href="http://outdoorvoices.com">Outdoor Voices</a>, then just visit their stores in the US and tell me about your experience – happy to hear about it!</p>          
-            <div class="position">
-                  <div class="dot"></div>
-                  <p class="title">Head of Product Design</p>
-                  <p class="date">April 2018 – Present · 2 years 2 months</p>
-                  <p class="description">As the Head of Product Design, I took the responsibility to lead the product design team, drive the UX strategy and the product design process. </p>
-                  <p class="description">On a daily basis, we are working hands-on doing design jobs, user research, and prototyping efforts. When it comes to supporting development, we either embedded in an engineering team or offer UX-as-a-Service. </p>
-                  <p class="description">In close collaboration with product management, customer success, and engineering, our shared experience vision is to challenge the old assumptions of existing retail technology and antiquated in-store practices with an intuitive experience for retailers and customers that brings joy back to the shopping experience.</p>
-                </div>
-                <div class="position">
-                <div class="dot"></div>
-                  <p class="title">Product Manager</p>
-                  <p class="date">Mai 2017 – April 2018 · 1 year</p>
-                  <p class="description">Every designer at NewStore grew into a Product Manager role. The past year I was working on a white-label consumer app that our retailers could customize. Strategically we decided that this is currently not our focus and most significant challenge, so we chose to partner. </p>
-                  <p class="description">Nevertheless, I gained a lot of knowledge designing a mobile app with the focus on shopping. Using that, I partnered up with another Product Manager, and together we lead the product design and development of the <a href="https://www.newstore.com/mobile-pos/">Associate App</a>. The app is a mobile POS solution that addresses the needs of today’s shoppers. It streamlines the checkout and gives store associates access to inventory & customer data. </p>                  
-                </div>
+            <p class="about">My journey at NewStore starts in 2015, right at the beginning when the company was founded and is still going on.</p><p class="about"> <a href="http://www.newstore.com">NewStore</a> operates a platform for retailers to run their stores on iPhones. We deliver Omnichannel-as-a-Service by providing a single global solution that combines order management, mobile POS, and inventory management in the cloud. </p>          
+            <p class="about bottom-large">If you ever shopped at <a href="http://www.decathlon.com" target="_blank">Decathlon</a>, <a href="http://burton.com/" target="_blank">Burton</a>, <a href="http://www.untuckit.com" target="_blank">UNTUCKit</a>, or <a href="http://outdoorvoices.com" target="_blank">Outdoor Voices</a>, then tell me about your experience – happy to hear about it!</p>          
                 <div class="position">
                 <div class="dot"></div>
                   <p class="title">Product Desginer</p>
                   <p class="date">March 2015 – May 2017 · 2 years 3 months</p>
-                  <p class="description">Joining NewStore was a big opportunity for me: Move to Berlin, work for an international B2B company, communicate in English, and grow my skill set as a designer.</p>
-                  <p class="description">My first job was a pure designer role without any coding. In collaboration with a Product Owner and two engineers, we researched, prototyped, and developed the <a href="https://www.newstore.com/omnichannel-insights/">Omnichannel Manager</a>.  The primary user is the customer support of a retailer while also a retail manager, and NewStore support have a use for it.</p>
-                  <p class="description">It was the first time I worked in a design team together with other designers and researchers. I learned a lot from Mathias <strike>Bartsch</strike> Kluge, who helped me shift my focus from design aesthetics to problem-centered design. We were always in close collaboration while everyone had the design ownership of a specific product: User Research, Design Reviews, Usability Tests, Design Sprints and working with engineers became our daily business.</p>                  
-                </div>            
+                  <p class="description">This was my first job doing design without any coding. During that time, I researched & designed two products by working together with many teams across the company.</p>
+                  <div class="product">
+                    <p class="description"><b>🖥 Omnichannel Manager</b></p>
+                    <p class="description">A back-office tool that allows the support and operations team of a retailer to manage their day-to-day business and set up our platform. </p>                    
+                    <p class="description bottom-medium">Check out <a href="https://www.newstore.com/omnichannel-insights/" target="_blank">www.newstore.com/omnichannel</a>.</p>
+                    <p class="description">Learn more in my <a href="###basepath###/portfolio">portfolio</a>.</p>
+                  </div>
+                  <div class="product">
+                    <p class="description"><b>📱Consumer App</b></p>
+                    <p class="description bottom-medium">A white-label shopping app for loyal customers that our retailers can customize to their needs. By using React Native the goal was to have one codebase and experience that can be published to iOS and Android.</p>
+                    <p class="description"><i>The product was discontinued.</i></p>
+                  </div>                                    
+                  <p class="description">I was part of different development teams that worked in an agile manner, using either Scrum or Kanban. On top of that, I was a member of the design team. Being together with other designers and researchers helped me shift my focus from design aesthetics to problem-centered design. We were always in close collaboration, and each one of us had the design ownership of a specific product. Doing User Research, Story Mapping, Design Reviews, Usability Tests, Design Sprints, and working with Product Teams became my daily business.</p>
+                </div>  
+                <div class="position">
+                <div class="dot"></div>
+                  <p class="title">Product Manager</p>
+                  <p class="date">Mai 2017 – April 2018 · 1 year</p>
+                  <p class="description">To expand my knowledge and see the other side, I wanted to experience how it is to be a Product Owner coming in with engineering and design experience. I partnered up with another PO and led the design and development of our new mobile POS app.</p>
+                  <div class="product">
+                    <p class="description"><b>📱Associate App</b></p>
+                    <p class="description bottom-medium">The app addresses the needs of today’s associates and shoppers. It streamlines the checkout, gives store associates access to inventory & customer data, and allows them to engage with the customer even outside the store. </p>
+                    <p class="description bottom-medium">Check out <a href="https://www.newstore.com/mobile-pos/" target="_blank">www.newstore.com/mobile-pos</a>.</p>              
+                    <p class="description">Learn more in my <a href="###basepath###/portfolio">portfolio</a>.</p>                  
+                  </div>
+                  <p class="description">With a large team of front-end developers and multiple back-end teams, we launched the first version at the beginning of 2018 with functionality that fulfilled the basic needs to operate a store and get the job done.</p>                  
+                </div>
+                <div class="position">
+                <div class="dot"></div>
+                  <p class="title">Head of Product Design</p>
+                  <p class="date">April 2018 – Now · 2 years 7 months</p>
+                  <p class="description">While being a Product Owner was a good learning experience for me, but I missed doing design and keeping our focus on the user experience and solving real problems. I’ve got the opportunity to switch from being an individual contributor to becoming a leader and build up a new design team. Our focus is to drive the UX strategy, scale the design process, and help others grow in delivering products people love. We are working hands-on doing design jobs, user research, and prototyping efforts together with different engineering teams daily. </p>
+                  <p class="description top-medium">I still design parts of our product (mainly the Associate App) and continuously improve the user experience. I’m doing regular research to understand specific feature requests, analyze user flows, design interfaces, and work together with various product teams that want to add more functionality.</p>                  
+                </div>          
               </div>
             
           <br />
@@ -98,23 +115,60 @@
           </div>
           <div class='clearfix'></div>          
           <div class="positions">
-            <p class="about">Together with a team of computer scientists (Martin Gessert, Steven Lüttig & Kristof Friess), I founded an agency called <a href="http://www.zebresel.com">Zebresel</a> with a focus on website- and app development while we were still studying. From 2011 until 2015, we planned, developed, and launched customer projects in Germany. In addition to project management, I focused on the user experience and user interface design. At the end of 2013, we started to develop products based on our ideas.</p>
-            <div class="position">
-            <div class="dot"></div>
-              <p class="title">UX & UI Design</p>
-              <p class="date">November 2013 – March 2015 · 1.5 years</p>
-              <p class="description">I loved doing design – it doesn't matter if it was a website, flyer, or an app. But it's not about how it looks like; it's how it feels. While still doing the design & development for customers, we also started building our products. I focused entirely on user experience design and user research. To my advantage, we always wanted to solve our own problems, and that made access to users and testing easier.</p>                            
-              <p class="description top-medium"><b>Signum<sup>+</sup></b> – The first product is a digital signage solution. It allows you to manage content for every kind of screen. With the usage of social media, we enabled our customers to engage with their guests during events. Together with a display solution partner, we were able to show off the power of the product at the Rock am Ring festival in Germany 2014. Learn more about it here <a href="http://www.signumplus.de">www.signumplus.de</a></p>
-              <p class="description top-medium"><b>Beamerlasershow</b> – The second product is an app that allows you to create a light-show and fascinate your guests wherever you want. We combined a video projector, artificial fog, and 2D animations with an iOS device. The app for iPhone and iPad allows you to create playlists with a big set of predefined animations. By allowing to touch and draw animations on the screen, the live mix mode unfolded your creativity. Learn more about it here <a href="http://www.beamerlasershow.de">www.beamerlasershow.de</a></p>
-            </div>
+            <p class="about">My journey here starts in 2011 while I was finishing up my bachelor's degree and ended 2015.</p>
+            <p class="about"><a href="http://www.zebresel.de" target="_blank">Zebresel</a> is a media agency focusing on website- and app development. I founded the company with a team of computer scientists while I was still studying. From 2011 until 2015, we planned, developed, and launched customer projects in Germany. Next to doing project management, I focused on the user experience and interface design. At the end of 2013, we started to develop our products to solve problems in the event business.</p>            
             <div class="position">
             <div class="dot"></div>
               <p class="title">Web Design & Development</p>
               <p class="date">April 2011 – October 2013 · 2.5 years</p>
-              <p class="description">Shortly before finishing my bachelor's degree, I wanted to make something with my freshly gained knowledge. Luckily I wasn't the only one, and I found some colleagues with the same idea. We called ourselves Zebresel, started to make some money on the side and learned how to build something that solves customer problems.</p>
-            </div>            
+              <p class="description">With my freshly gained engineering developer knowledge we started to design and build websites and web apps for clients in our region. I focused on front-end design & development by using PHP, HTML, CSS, and JS. People liked what we did, and soon we did not just design websites but solved real problems for them by building web and mobile applications.</p>
+            </div> 
+            <div class="position">
+            <div class="dot"></div>
+              <p class="title">Product Design & Development</p>
+              <p class="date">November 2013 – March 2015 · 1.5 years</p>
+              <p class="description">I loved doing visual design and building stuff – it didn't matter if it was a website, flyer, or an app. But it's not about how it looks like; it's how it feels and the journey within. While still doing design & development for our customers, we also started building our products. I focused more on user experience design and marketing and less on coding. To my advantage, for both products, we were trying to scratch our own itch and solved problems that we had inside the event business.</p>                            
+              <div class="product">
+                <p class="description"><b>📱Beamerlasershow</b></p>
+                <p class="description bottom-medium"> An app that allows anyone to create a light-show to fascinate people wherever you want without a special license. We combined a video projector, artificial fog, and 2D animations with an iOS device. With the app, you can create playlists with a broad set of predefined animations, and a live mix mode allows you to touch and draw animations on the screen to unfold your creativity.</p>
+                <p class="description bottom-medium">Check out <a href="http://www.beamerlasershow.de" target="_blank">www.beamerlasershow.de</a>.</p>              
+                <p class="description">Learn more in my <a href="###basepath###/portfolio">portfolio</a>.</p>
+                <span id="signum"></span>
+              </div>       
+              <div class="product">
+                <p class="description"><b>🖥 Signum<sup>+</sup></b></p>
+                <p class="description">A digital signage solution that allows you to put social media content on display and engage with your audience. You can bring up anything you want during events – a GIF, Facebook post, Tweet, video, vote, or simple text.</p>
+                <p class="description bottom-medium">We created a party service that people could book: SONEP – Social Network Party. It was 2013, and Facebook parties were booming. The system was running all night long in night clubs or event locations. People could post into a Facebook group and saw their posts on a big screen. With different modules, we allowed ourselves to guide the evening.</p>
+                <p class="description bottom-medium">Check out <a href="http://www.sonep.de" target="_blank">www.sonep.de</a> and <a href="http://www.signumplus.de" target="_blank">www.signumplus.de</a>.</p>
+                <p class="description">Learn more in my <a href="###basepath###/portfolio">portfolio</a>.</p>
+              </div>              
+            </div>           
           </div>
           </div>
+          <!-- COMPANY END -->
+          <!-- COMPANY START -->
+          <div class="left">
+            <div class="logo"><img src="###basepath###pages/about_me/images/jendata.png" height="50px" width="50px"></div>
+          </div>
+          <div class="right">
+            <div class="details">
+              <p class="title" id="newstore">JENDATA Computersysteme</p>
+              <p class="time">2006 - 2007 · 1 year · Jena </p>              
+          </div>
+          </div>
+          <div class='clearfix'></div>           
+          <div class="positions">
+            <p class="about ">My journey here starts in 2006 and ended 2007.</p>
+            <p class="about">Working in a tech company was part of the deal getting my highschool degree. JENDATA Computersysteme GmbH is a computer system house based in Jena. They offer countrywide services around information technology and help companies setting up and maintaining network systems.  Provide Internet services, business software development, hardware repair, and consulting.</p>                      
+                <div class="position">
+                <div class="dot"></div>
+                  <p class="title">IT Engineer</p>
+                  <p class="date">2006 - 2007 · 1 year</p>
+                  <p class="description bottom-medium">I worked as an IT engineer and was responsible for maintaining their customer's IT systems. In my day to day business, I was consulting customer and dealt with computer hardware, software, and networking tools. I learned how to test, install, and configure those to troubleshoot and solve issues.</p>
+                  <p class="description">On top of that, I programmed on my first PHP web-project allowing us engineers to submit our report after finishing up a customer visit online instead of filling out a piece of paper.</p>                  
+                </div>        
+              </div>
+          <br />
           <!-- COMPANY END -->
         <br />
       
@@ -133,24 +187,29 @@
         </div>
           <div class='clearfix'></div>          
           <div class="positions">
-            <p class="about">Going to a university was never part of my initial plan and certainly not staying there for six years – I never regreted that decision. A study in Erfurt aims to teach practical oriented knowledge and skills in the main areas of computer science. I gained expertise in technologies, algorithms, and programming as well as methodical skills for analyzing, planning, and implementing solutions.</p>
+            <p class="about">My journey here starts in 2008, where I decided to give it a shot at the university and ended 2014.</p>
+            <p class="about">A study in Erfurt aims to teach practical oriented knowledge and skills in the main areas of computer science. I gained expertise in technologies, algorithms, and programming as well as methodical skills for analyzing, planning, and implementing solutions.</p>
             <div class="position">
-              <div class="dot"></div>
-              <p class="title">Master of Science (M.Sc.), Computer Sience</p>
-              <p class="date">2011 - 2014</p>
-                          
-              <p class="description">While it was clear to me that I want to get my master's degree, I was also already doing some business on the side. Together with colleagues from the university, I founded an agency called <a href="#zebresel">Zebresel</a>. By splitting my time between them, I learned how to apply my theoretical knowledge to solve customer problems and make money out of it.</p>
-              <p class="description">At the university, I became better in analyzing complex requirements, propose appropriate solutions, plan, and coordinate implementations. I specialized in the development of complex interactive applications with a focus on user-centered design of interfaces.</p>
-              <p class="description">My master thesis addressed the UX design and further development of an interactive display system for cross media communication with an emphasis on social media.</p>
-              <p class="description top-small">📄 <a href="###basepath###downloads/Masterarbeit.pdf">Interactive Display Systems</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
+            <div class="dot"></div>
+              <p class="title">🎓 Bachelor of Science (M.Sc.), Computer Sience</p>
+              <p class="date">2008 - 2011</p>              
+              <p class="description">During the first three years, I specialized on computer science in media. I learned a lot about procedures, methods, and technologies in media design, production, and engineering. My focus was on the evaluation, planning, and implementation of digital web-based products.</p>                            
+              <div class="product">
+                <p class="description">📄 <b>Web-Framework</b> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
+                <p class="description bottom-medium">My bachelor thesis focused on the development of a PHP web-framework to build web applications. My thesis describes the conceptual design, implementation, and evaluation of it. We were one of the university's first ones that tested a development framework on usability with other software developers. In the end, we used the framework to build a real application for a construction company to allow its customers to upload and manage building-plans instead of sending them via email.</p>                
+                <p class="description">Check out my thesis <a href="###basepath###downloads/Bachelorarbeit.pdf">here</a>.</p>
+              </div>
             </div>
             <div class="position">
             <div class="dot"></div>
-              <p class="title">Bachelor of Science (M.Sc.), Computer Sience</p>
-              <p class="date">2008 - 2011</p>              
-              <p class="description">During the first three years I specialised on computer science in media. I learned a lot about procedures, methods, and technologies  in the area of media design, production, and engineering. My focus was on the evaluation, planning and implementation of digital web-based products.</p>
-              <p class="description">My bachelor thesis focused on the development of a web-framework considering specific functional and non-functional requirements. It describes the conceptual design, implementation, and evaluation of the framework. We were one of the first ones that tested a development framework on usability with software engineers.</p>
-              <p class="description top-small">📄 <a href="###basepath###downloads/Bachelorarbeit.pdf">Web-Framework</a> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
+              <p class="title">🎓 Master of Science (M.Sc.), Computer Science</p>
+              <p class="date">2011 - 2014</p>           
+              <p class="description">I started to split my time between gaining working experience while still studying. I became better at analyzing complex requirements at the university, proposing appropriate solutions, planning, and coordinating implementations. I specialized in the development of complex interactive applications with a focus on user-centered design of interfaces.</p>                            
+              <div class="product">
+                <p class="description">📄 <b>Interactive Display Systems</b> <span class="grey">by Martin Gessert & Henning Witzel</span></p>
+                <p class="description bottom-medium">My master thesis addressed the UX design and further developed an interactive display system we developed for cross-media communication, emphasizing social media. See more about this in my working experience around <a href="#signum">🖥 Signum+</a>.</p>                
+                <p class="description">Check out my thesis <a href="###basepath###downloads/Masterarbeit.pdf">here</a>.</p>
+              </div>
             </div>            
           </div>
 
@@ -161,21 +220,15 @@
         <div class="right">            
           <div class="details">
             <p class="title">SBSZ Jena-Göschwitz</p>
-            <p class="time">2004 - 2007 · 3 years · Jena</p>
+            <p class="time">2004 - 2006 · 2 years · Jena</p>
           </div>            
         </div>
           <div class='clearfix'></div>          
           <div class="positions">
-            <p class="about">The SBSZ is a governmental career development center that got me into computer science. This education was a combination of school and work. After two years of studying, I had to work in a company to get my high school degree.</p>
-            <div class="position">
-              <div class="dot"></div>
-              <p class="title">IT Engineer</p>
-              <p class="date">2006 - 2007</p>
-              <p class="description">Before I went to university, I worked as an IT engineer at <a href="https://www.jendata.com/">JENDATA Computersysteme GmbH</a>, and I was responsible for maintaining their customer's IT systems. In my day to day business, I dealt with computer hardware, software, and networking tools. I learned how to test, install, and configure those to troubleshoot them.</p>              
-            </div>
+            <p class="about bottom-large">The SBSZ is a governmental career development center that got me into computer science. This education was a combination of school and work. After two years of studying, I had to work in a company to get my high school degree.</p>          
             <div class="position">
             <div class="dot"></div>
-              <p class="title">Technical Assistent for Computer Science</p>
+              <p class="title">🎓 Technical Assistent for Computer Science</p>
               <p class="date">2004 - 2006</p>              
               <p class="description">It was the first time I learned something about computer science – how to code, how computers work, or how to set up a proper network. This education allowed me to get my high school degree and specialize in what I enjoyed – computers.</p>              
             </div>            

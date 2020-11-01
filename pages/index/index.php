@@ -32,9 +32,10 @@ id='header'>
      ###menu###
     <div class='content'>      
         <h1>Hi, I'm Henning</h1>
-        <h4 class="grey bottom-large">Product Designer based in Berlin – Welcome to my site <span class="wave">👋</span  ></h4>
-        <p>I'm a product designer with a background in computer science that combines technology and design to solve customer problems that meet the needs of the business. For the past nine years, I've been involved in all sorts of software projects, both big and small.  </p><p>Since 2015 I'm working at <a href="###basepath###/about_me#working-experience">NewStore</a> to help to transform the vision into a real product. For the last two years, I've been leading the product design team, drive the UX strategy and the design process.</p>
-        <p>My website is an independent place for all my thoughts and projects. You can read articles, see what kind of books I like, take a look at my portfolio (soon) and learn something about me — no limitations, no algorithms, no advertisments, just a simple website.</p>        
+        <h4 class="grey bottom-large">Product Designer based in Berlin – Guten Tag <span class="wave">👋</span  ></h4>
+        <p >My name is Henning, I'm a Product Designer with a background in engineering. For the past nine years, I've been designing & developing software products to provide meaningful and relevant user experiences.</p>
+        <p>I'm currently working at <a href="###basepath###/about_me#working-experience">NewStore</a> as part of the product team and help to transform the vision into a real product. Almost three years ago, I got the opportunity to build up a new design team and learn how to become a leader and manager. Since than my team and I drive the UX strategy, scale the design process, and help others grow in design to deliver products people love.</p>        
+        <p>My website is an independent place for all my thoughts and projects. You can read articles, see the books I like, take a look at my portfolio and learn something about me — no limitations, no algorithms, no advertisments, just a simple website.</p>        
         <br />
         <div class="card">
           <a href="###basepath###/portfolio">
@@ -79,7 +80,7 @@ id='header'>
             <div class="card-content">
               <img src="###basepath###img/header/podcasts-card.jpg" />
               <div class="title"><h4>Podcasts</h4></div>
-              <div class="description grey">A selection of some of my favourite podcasts I recently listened to.</div>          
+              <div class="description grey">A set of podcasts I took part in and some recent favorites.</div>          
             </div>
           </a>
         </div>

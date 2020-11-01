@@ -75,6 +75,15 @@ video:hover{
     font-family: "Droid Serif";
 }
 
+.portfolio .intro h2 a {
+    font-size: 32px;
+    font-weight: normal;
+    color: #444444;
+    font-family: "Droid Serif";
+    line-height: 150%;
+    border-bottom: none;
+  }
+
 .portfolio .app
 {
     border: 1px solid #E5E5E5;

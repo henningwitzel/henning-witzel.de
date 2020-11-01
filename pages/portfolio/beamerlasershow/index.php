@@ -32,7 +32,7 @@ data_image_800='###basepath###img/header/placeholder-header-800.jpg' id='header'
     <a class="bottom-large" href="javascript:history.back()"><span style="font-family: 'Droid Sans'">← </span>Back to Portfolio</a>
       <br /><br /><br />          
       <h1>Beamerlasershow</h1>
-      <h4 class="grey bottom-large">A mobile POS that makes it simple for store associates to adopt and serve customers</h4>
+      <h4 class="grey bottom-large">An app that allows anyone to create a light-shows in their living room</h4>
       <p class="in-progress bottom-large">🚧 This site is still work in progress and there will be regular updates in the next weeks 🚧</br><i>Last update on July 5th, 2020</i></p>
       <p>Lorem ipsum dolor sit amet, cum ne saepe malorum dissentiet, et eum iuvaret pertinax invenire.</p>     
     </div>

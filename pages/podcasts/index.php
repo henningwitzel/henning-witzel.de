@@ -23,8 +23,7 @@ data_image_1440='###basepath###img/header/###page###-header-1440.jpg'
 data_image_1920='###basepath###img/header/###page###-header-1920.jpg' 
 data_image_800='###basepath###img/header/###page###-header-800.jpg' 
 id='header'>
-<div class="image-location"><a href="https://www.google.com/maps/place/Hu%E1%BA%BF,+Thua+Thien+Hue,+Vietnam/@16.4534699,107.5420936,13z/data=!3m1!4b1!4m13!1m7!3m6!1s0x31419c87726490f7:0xab1c0fcaf7cb84b5!2sThua+Thien+Hue,+Vietnam!3b1!8m2!3d16.467397!4d107.5905326!3m4!1s0x3141a115e1a7935f:0xbf3b50af70b5c7b7!8m2!3d16.4637438!4d107.5908279" target="_blank">
-Huế</a> · Shot in Vietnam 2019</div></div>
+<div class="image-location">Photo by <a href="https://unsplash.com/@farber?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonathan Farber</a> on <a href="https://unsplash.com/s/photos/podcast?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div></div>
 <div class='text' id='background'>
   <div id='wrapper'>
     <div id='logo'>
@@ -35,8 +34,29 @@ Huế</a> · Shot in Vietnam 2019</div></div>
      ###menu###
     <div class='content podcasts'>      
         <h1>Podcasts</h1>
-        <h4 class="grey bottom-large">A selection of some of my favourite podcasts I recently listened to.</h4>
+        <h4 class="grey bottom-large">A set of podcasts I took part in and some recent favorites.</h4>
         <br />
+        <div class="podcast">
+          <div class="left"><a href="https://anchor.fm/product-bakery" target="_blank"><img src="https://static.pocketcasts.com/discover/images/400/f0307340-e4fe-0138-e7d4-0acc26574db2.jpg" /></a></div>
+          <div class="right">
+            <h3>User Experience in B2B: Building a product in the retail industry for today’s consumers</h3>
+            <h5 class="grey bottom-small">1 hour and 1 minute · October 8th, 2020</h5>
+            <p>I've got the opportunity to talk about my experience for the past five years in designing & building a B2B product.</p>
+            <p>Listen in if you are interested in how we do UX design at NewStore, work with engineering teams & stakeholders on a daily basis, and why user story mapping is one of my favorite tools.</p> 
+            <audio preload="none" controls>  
+              <source src="https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-8-26/d1ed01d3-6ff4-cd38-7679-686b8b88d17e.mp3" type="audio/mpeg" preload="none">
+              Your browser does not support the audio element.
+            </audio> 
+            <div class="top-small link">
+              <div class="logo-left">
+                <img width="20px" src="https://images.squarespace-cdn.com/content/v1/5bb3278eab1a623f7ab4dddb/1545314469824-DN3FAX0AAQYEYEDCCDVL/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxQ1ibo-zdhORxWnJtmNCajDe36aQmu-4Z4SFOss0oowgxUaachD66r8Ra2gwuBSqM/pocketcast-icon.png"/>
+              </div>
+              <div class="link-right"><a href="https://pca.st/nz98tzhv" target="_blank">Listen on Pocket Cast </a>
+            </div>
+          </div>
+        </div>
+        <div class='clearfix'></div>
+        </div>
         <div class="podcast">
           <div class="left"><a href="https://brianrhea.com" target="_blank"><img src="https://static.pocketcasts.com/discover/images/400/5790c200-4f52-0137-f266-1d245fc5f9cf.jpg" /></a></div>
           <div class="right">

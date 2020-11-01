@@ -61,17 +61,18 @@ data_image_800='###basepath###img/header/associate_app-header-800.jpg' id='heade
       <p>We set ourselves up to challenge the old assumptions of existing retail technology and antiquated in-store practices. Our goal is to <b>provide an intuitive experience for retailers and customers that brings joy back to the shopping experience</b>.</p>
 
       <p>Not an easy thing todo and a balance act with a certain risk attached of falling into the <a href="https://playbook.uie.com/blog/experience-rot">Experience Rot</a> and ending up with a complex system nobody wants to use.</p>
-      <p>...</p>
+      <p>TODO: @henning find a good transition</p>
       <p><b>Working as a store associate</b> – Eat your own dog food and use your product. We put designers and programmers into retail stores and let them be an associate for a day. It's an incredibly powerful way to build empathy and get to know the feeling of being with a customer and depending on the app to work. </p>
       <p><b>Observation</b> – See and learn how the user is using your product. Besides all the interviews and testing, seeing the app in action gives you a good sense of how well you solved the problems. </p>
       <p><b>User Interviews</b> – TODO: @henning add description</p>
-      <p><b>Usability Testing</b> – TODO: @henning add descriptionp>
-      <p><b>Customer Interviews</b> – TODO: @henning add descriptionp>
+      <p><b>Usability Testing</b> – TODO: @henning add description</p>
+      <p><b>Customer Interviews</b> – TODO: @henning add description</p>
       <p><b>We created our own store</b> – TODO: @henning add description.</p>
 
       <h3 id="mixed" class="top-large bottom-small">Mixed Cart</h3>      
+      <p>TODO: @henning add description</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <div class="videos">
+      <!--<div class="videos">
         <div class="video-left">
           <video width="300" height="650" controls>
               <source src="###basepath###pages/portfolio/associate_app/videos/login.mp4" type="video/mp4">          
@@ -89,18 +90,22 @@ data_image_800='###basepath###img/header/associate_app-header-800.jpg' id='heade
         </div>
         <div class='clearfix'></div>
       </div>
-        
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       <video width="300" height="650" controls class="block">
           <source src="###basepath###pages/portfolio/associate_app/videos/checkout.mp4" type="video/mp4">          
         Your browser does not support the video tag.
       </video>
       <div class="video-description grey">I'm a test video.</div>
+      -->
       <h3 id="checkout" class="top-large bottom-small">NewStore Checkout</h3>
+      <p>TODO: @henning add description</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      
       <h3 id="login" class="top-large bottom-small">Quick Login</h3>
+      <p>TODO: @henning add description</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      
       <h3 id="cash" class="top-large bottom-small">Cash Management</h3>
+      <p>TODO: @henning add description</p>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
     <div class='clearfix'></div>
